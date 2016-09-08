@@ -18,8 +18,8 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [High Quality Photos](#high-quality-photos-tokyo_tower)
 - [Color](#color-art)
 - [Font](#font-mahjong)
-- [Icon/Logo](#icon-logo)
-- [Tools](#tools-wrench)
+- [Icon/Logo](#icon-logo-tada)
+- [Tool](#tool-wrench)
 - [Prototype](#prototype-memo)
 - [Mockup](#mockup-hatching_chick)
 - [Style Guide/Branding](#style-guide-branding)
@@ -29,7 +29,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Conference/Festival](#conferencefestival-beers)
 - [Podcast](#podcast-radio)
 - [Social Network](#social-network-couplecouple)
-- [Design Leader](#design-leaders)
+- [Design Leader](#design-leader-dolls)
 
 ## Todo
 
