@@ -223,7 +223,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) :moneybag:
   - [PSD Repo](https://psdrepo.com/)
 - [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - Create beautiful vector art. :moneybag:
-- [Aodbe After Effect](http://www.adobe.com/products/aftereffects.html) - Bold new ways to put your ideas in motion. :moneybag:
+- [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) - Bold new ways to put your ideas in motion. :moneybag:
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. :moneybag:
 - [Panda](http://usepanda.com/) - A smart news reader built for productivity, powered by integrations. :+1:
 - [INBOARD](http://inboardapp.com/) - Organize your inspiration. :moneybag:
