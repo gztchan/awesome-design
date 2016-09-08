@@ -21,22 +21,20 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Icon/Logo](#icon-logo)
 - [Tools](#tools-wrench)
 - [Prototype](#prototype-memo)
-- [Mockup](#mockup)
+- [Mockup](#mockup-hatching_chick)
 - [Style Guide/Branding](#style-guide-branding)
-- [Tutorials](#tutorials-school)
-- [Books](#books-books)
-- [Awards](#awards)
-- [Conferences/Festivals](#conferencesfestivals-beers)
-- [Podcasts](#podcasts-radio)
-- [Social Networks](#social-network-couplecouple)
-- [Design Leaders](#design-leaders)
+- [Tutorial](#tutorial-school)
+- [Book](#book-books)
+- [Award](#award)
+- [Conference/Festival](#conferencefestival-beers)
+- [Podcast](#podcast-radio)
+- [Social Network](#social-network-couplecouple)
+- [Design Leader](#design-leaders)
 
 ## Todo
 
 - [ ] Design Leaders
 - [ ] Comment sources, tools by symbols
-
-## Are they all valuable?
 
 ## Soul of Design :sunny:
 
@@ -224,7 +222,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [LOGOMOOSE](https://www.logomoose.com/)
 - [Logospire](http://logospire.com/)
 
-## Tools :wrench:
+## Tool :wrench:
 
 - [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac. :computer::moneybag:
   - [Developer](http://developer.sketchapp.com/)
@@ -258,9 +256,11 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Axure](http://www.axure.com/) - Design the right solution and align your team.
 - [Form](http://www.relativewave.com/form/) - Build and customize native prototypes directly on device.
 
-## Mockup :
+## Mockup :hatching_chick:
 
-## Style Guide/ Branding :octocat:
+- [360 Mockups](https://360mockups.com/)
+
+## Style Guide/Branding :octocat:
 
 - [Mozilla](https://www.mozilla.org/en-US/styleguide/)
 - [Mailchimp](http://ux.mailchimp.com/patterns/)
@@ -302,7 +302,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
   - [2011](http://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf)
   - [1976](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 
-## Tutorials :school:
+## Tutorial :school:
 
 - [PLURALSIGHT](http://www.digitaltutors.com/11/index.php)
 - [Lynda](https://www.lynda.com/)
@@ -312,8 +312,9 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Udemy](https://www.udemy.com/courses/design/)
 - [AboutCG](http://www.aboutcg.com/)
 - [DevDojo](https://devdojo.com/)
+- [Adobe KnowHow]()https://www.adobeknowhow.com/
 
-## Books :books:
+## Book :books:
 
 - [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=sr_1_2?s=books&ie=UTF8&qid=1473096298&sr=1-2&keywords=Universal+Methods+of+Design)
 - [Universal Methods of Design](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561/ref=pd_sim_14_3?ie=UTF8&psc=1&refRID=2NG71RWR7MKGXE1B8GZ3)
@@ -328,7 +329,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Thinking with Type](https://www.amazon.com/gp/product/1568989695/)
 - [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
 
-## Awards :trophy:
+## Award :trophy:
 
 - [Good Design Award](http://www.g-mark.org/?locale=en)
 - [Red Dot Award](http://en.red-dot.org/)
@@ -341,7 +342,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [D&AD](http://www.dandad.org/)
 - [Awwwards](http://www.awwwards.com/) - Website Awards - Best Web Design Trends
 
-## Conferences/Festivals :beers:
+## Conference/Festival :beers:
 
 - [Uideo](https://uideo.net)
 - [MAX](https://max.adobe.com/)
@@ -367,7 +368,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Dribbble Meetups](https://dribbble.com/meetups)
 - [CreativeMornings](https://creativemornings.com/)
 
-## Podcasts :radio:
+## Podcast :radio:
 
 - [99% INVISIBLE](http://99percentinvisible.org/)
 - [Shop Talk](http://shoptalkshow.com/)
@@ -399,6 +400,6 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [**Muzli**](http://designers.muz.li/) - Design Inspiration
 - [**DeviantArt**](http://www.deviantart.com/) - The largest online art gallery and community.
 
-## Design Leaders :dolls:
+## Design Leader :dolls:
 
 > Coming soon...
