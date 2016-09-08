@@ -321,7 +321,8 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Udemy](https://www.udemy.com/courses/design/)
 - [AboutCG](http://www.aboutcg.com/)
 - [DevDojo](https://devdojo.com/)
-- [Adobe KnowHow]()https://www.adobeknowhow.com/
+- [Adobe KnowHow](https://www.adobeknowhow.com/)
+- [Platzi](https://platzi.com/)
 
 ## Book :books:
 
