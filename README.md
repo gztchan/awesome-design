@@ -4,6 +4,8 @@
 Fortunately, taking benefits from the community, the repo keeps being updated all the time from anybody who provide their unknown sources. 
 Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-design/issues/new) or create [pull request](https://github.com/gztchan/awesome-design/pulls) to share your intellgence.
 
+![design](/design.png)
+
 #### Symbols
 
 - :+1: Powerful, Popular
@@ -71,6 +73,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Creative Review](http://www.creativereview.co.uk/)
 - [CREATIVE OVERFLOW](http://creativeoverflow.net/)
 - [FORM UP NORTH](http://www.fromupnorth.com/)
+- [Facebook Design on Medium](https://medium.com/facebook-design)
 
 ## Resources :package:
 
@@ -128,6 +131,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [EMOJI CHEAT SHEET](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [EMOJI CSS](https://afeld.github.io/emoji-css/?ref=webdesignernews.com)
 - [Simple CSS Media Queries](http://michael-gannon.com/media/index.html?ref=webdesignernews.com)
+- [ShockFamily](http://www.designshock.com/)
 
 ## High Quality Photos :tokyo_tower:
 
@@ -221,6 +225,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Logo of the day](http://logooftheday.com/)
 - [LOGOMOOSE](https://www.logomoose.com/)
 - [Logospire](http://logospire.com/)
+- [Squid.ink](http://thesquid.ink/flat-icons/)
 
 ## Tool :wrench:
 
@@ -232,6 +237,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
   - [Sketchcasts](https://www.sketchcasts.net/)
 - [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) :moneybag:
   - [PSD Repo](https://psdrepo.com/)
+  - [PSDDD](http://www.psddd.co/)
 - [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - Create beautiful vector art. :moneybag:
 - [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) - Bold new ways to put your ideas in motion. :moneybag:
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. :moneybag:
@@ -259,6 +265,9 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 ## Mockup :hatching_chick:
 
 - [360 Mockups](https://360mockups.com/)
+- Facebook Mockups
+  - [Devices](http://facebook.design/devices)
+  - [HandsKit](http://facebook.design/handskit)
 
 ## Style Guide/Branding :octocat:
 
