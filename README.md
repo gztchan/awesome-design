@@ -2,7 +2,7 @@
 
 > Awesome Design focuses on collecting any high quality sources and tools which can be used by UI/UX designers in daily work. 
 Fortunately, taking benefits from the community, the repo keeps being updated all the time from anybody who provide their unknown sources. 
-Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-design/issues/new) or create [pull request](https://github.com/gztchan/awesome-design/pulls) to share your intellgency.
+Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-design/issues/new) or create [pull request](https://github.com/gztchan/awesome-design/pulls) to share your intellgence.
 
 #### Symbols
 
@@ -21,6 +21,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Icon/Logo](#icon-logo)
 - [Tools](#tools-wrench)
 - [Prototype](#prototype-memo)
+- [Mockup](#mockup)
 - [Style Guide/Branding](#style-guide-branding)
 - [Tutorials](#tutorials-school)
 - [Books](#books-books)
@@ -35,12 +36,15 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [ ] Design Leaders
 - [ ] Comment sources, tools by symbols
 
+## Are they all valuable?
+
 ## Soul of Design :sunny:
 
 - [Design Milk](http://design-milk.com/)
 - [frog](http://www.frogdesign.com/)
 - [Danish Design Centre](http://ddc.dk/)
 - [Google Design](https://design.google.com/)
+- [Google Art & Culture](https://www.google.com/culturalinstitute/beta/)
 - [Airbnb](http://airbnb.design/)
 - [Fast.Co Design](https://www.fastcodesign.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
@@ -68,6 +72,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [designenvy](https://designenvy.aiga.org/)
 - [Creative Review](http://www.creativereview.co.uk/)
 - [CREATIVE OVERFLOW](http://creativeoverflow.net/)
+- [FORM UP NORTH](http://www.fromupnorth.com/)
 
 ## Resources :package:
 
@@ -122,6 +127,9 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Abduzeedo](http://abduzeedo.com/)
 - [Material UI](https://www.materialui.co)
 - [1stwebdesigner](http://1stwebdesigner.com/blog/)
+- [EMOJI CHEAT SHEET](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [EMOJI CSS](https://afeld.github.io/emoji-css/?ref=webdesignernews.com)
+- [Simple CSS Media Queries](http://michael-gannon.com/media/index.html?ref=webdesignernews.com)
 
 ## High Quality Photos :tokyo_tower:
 
@@ -174,6 +182,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Color Code](http://www.colourco.de/)
 - [colorrrs](http://hex.colorrrs.com/)
 - [Nippon Colors](http://nipponcolors.com/)
+- [Colorize](https://alexbeals.com/projects/colorize/)
 
 ## Font :mahjong:
 
@@ -192,6 +201,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [www.thedesignersfoundry.com](https://www.thedesignersfoundry.com/)
 - [Typekit](https://typekit.com/fonts)
 - [Google Fonts](https://fonts.google.com/)
+- [JUSTFONT BLOG](http://blog.justfont.com/)
 
 ## Icon/Logo :tada:
 
@@ -217,9 +227,11 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 ## Tools :wrench:
 
 - [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac. :computer::moneybag:
+  - [Developer](http://developer.sketchapp.com/)
   - [Sketch App Sources](http://www.sketchappsources.com/)
   - [Sketch Repo](https://sketchrepo.com/)
   - [Sketch Plugins](https://github.com/sketchplugins/plugin-directory)
+  - [Sketchcasts](https://www.sketchcasts.net/)
 - [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) :moneybag:
   - [PSD Repo](https://psdrepo.com/)
 - [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - Create beautiful vector art. :moneybag:
@@ -245,6 +257,8 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Flinto](https://www.flinto.com/) - App prototyping tools for designers.
 - [Axure](http://www.axure.com/) - Design the right solution and align your team.
 - [Form](http://www.relativewave.com/form/) - Build and customize native prototypes directly on device.
+
+## Mockup :
 
 ## Style Guide/ Branding :octocat:
 
@@ -283,6 +297,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - Google
   - [Google Trends](https://newslab.withgoogle.com/assets/docs/google-trends-guide.pdf)
   - [Google Visual Assets Guidelines](https://www.behance.net/gallery/9028077/Google-Visual-Assets-Guidelines-Part-2)
+  - [Design for Glass](https://developers.google.com/glass/design/)
 - NASA
   - [2011](http://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf)
   - [1976](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
@@ -355,6 +370,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 ## Podcasts :radio:
 
 - [99% INVISIBLE](http://99percentinvisible.org/)
+- [Shop Talk](http://shoptalkshow.com/)
 - [workmode](http://workmode.show/)
 - [UX Podcast](http://uxpodcast.com/)
 - [Anyway.fm](http://anyway.fm/)
@@ -362,13 +378,16 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Tentative.fm](http://tentative.fm/)
 - [Pagebreak](http://www.pagebreakpodcast.com/)
 - [On the Grid](http://5by5.tv/onthegrid)
-- [DebbienMillman](http://www.debbiemillman.com/)
+- [Design Matters](http://www.debbiemillman.com/designmatters/)
 - [YOUNG GUNS SHOW](http://younggunsshow.com/)
 - [The Greate Discontent Podcast](https://thegreatdiscontent.com/podcast)
 - [DESIGN DETAILS Podcast](https://spec.fm/podcasts/design-details)
 - [Layout.fm](http://layout.fm/)
 - [Type is Beautiful](https://itunes.apple.com/podcast/zi-tan-zi-chang/id1041704528)
 - [boagworld](https://boagworld.com/show)
+- [Responsive Web Design](http://responsivewebdesign.com/podcast/)
+- [Adventures in Design](http://www.adventuresindesignmarket.com/)
+- [Let's Make Mistakes](http://www.mistakes.show/)
 
 ## Social Network :couple::couple:
 
