@@ -296,6 +296,7 @@ Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-d
 - [Tuts+](http://tutsplus.com/)
 - [Udemy](https://www.udemy.com/courses/design/)
 - [AboutCG](http://www.aboutcg.com/)
+- [DevDojo](https://devdojo.com/)
 
 ## Books :books:
 
