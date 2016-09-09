@@ -74,6 +74,8 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [CREATIVE OVERFLOW](http://creativeoverflow.net/)
 - [FORM UP NORTH](http://www.fromupnorth.com/)
 - [Facebook Design on Medium](https://medium.com/facebook-design)
+- [Hacking UI](http://hackingui.com/)
+- [THE INDUSTRY](http://theindustry.cc/)
 
 ## Resources :package:
 
@@ -204,6 +206,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Typekit](https://typekit.com/fonts)
 - [Google Fonts](https://fonts.google.com/)
 - [JUSTFONT BLOG](http://blog.justfont.com/)
+- [Font Library](http://katydecorah.com/font-library/)
 
 ## Icon/Logo :tada:
 
@@ -399,6 +402,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Responsive Web Design](http://responsivewebdesign.com/podcast/)
 - [Adventures in Design](http://www.adventuresindesignmarket.com/)
 - [Let's Make Mistakes](http://www.mistakes.show/)
+- [Hacking UI](http://hackingui.com/podcast/)
 
 ## Social Network :couple::couple:
 
