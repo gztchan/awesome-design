@@ -221,7 +221,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Fonts](https://www.fonts.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [My Fonts](http://www.myfonts.com/)
-- [www.thedesignersfoundry.com](https://www.thedesignersfoundry.com/)
+- [The Designers Foundry](https://www.thedesignersfoundry.com/)
 - [Typekit](https://typekit.com/fonts)
 - [Google Fonts](https://fonts.google.com/)
 - [JUSTFONT BLOG](http://blog.justfont.com/)
