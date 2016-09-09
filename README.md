@@ -316,6 +316,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
   - [Devices](http://facebook.design/devices)
   - [HandsKit](http://facebook.design/handskit)
 - [UINames](http://uinames.com/)
+- [NinjaMock](http://ninjamock.com/)
 
 ## Style Guide/Branding :octocat:
 
