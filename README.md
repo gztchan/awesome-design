@@ -20,7 +20,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [High Quality Photos](#high-quality-photos-tokyo_tower)
 - [Color](#color-art)
 - [Font](#font-mahjong)
-- [Icon/Logo](#icon-logo-tada)
+- [Icon/Logo](#iconlogo-tada)
 - [Tool](#tool-wrench)
 - [Prototype](#prototype-memo)
 - [Mockup](#mockup-hatching_chick)
