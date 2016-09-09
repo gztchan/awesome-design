@@ -1,8 +1,8 @@
 # Awesome Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Awesome Design focuses on collecting any high quality sources and tools which can be used by UI/UX designers in daily work. 
-Fortunately, taking benefits from the community, the repo keeps being updated all the time from anybody who provide their unknown sources. 
-Thus, Don't be hesitated to open an [issue](https://github.com/gztchan/awesome-design/issues/new) or create [pull request](https://github.com/gztchan/awesome-design/pulls) to share your intellgence.
+> Awesome Design focuses on collecting high quality sources and tools which can be used by UI/UX designers in daily work. Thanks to the community, 
+the repo keeps being updated continuously from people around the world who provide amazing sources. 
+Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issues/new) or create [pull request](https://github.com/gztchan/awesome-design/pulls) to share your intelligence.
 
 ![design](/design.png)
 
