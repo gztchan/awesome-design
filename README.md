@@ -249,7 +249,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 
 ## Prototype :memo:
 
-- [Marval](https://marvelapp.com/) - Simple design, prototyping and collaboration.
+- [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.
 - [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform.
 - [Origami](https://facebook.github.io/origami/) - Design Prototyping. :computer:
 - [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations.
@@ -321,7 +321,8 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Udemy](https://www.udemy.com/courses/design/)
 - [AboutCG](http://www.aboutcg.com/)
 - [DevDojo](https://devdojo.com/)
-- [Adobe KnowHow]()https://www.adobeknowhow.com/
+- [Adobe KnowHow](https://www.adobeknowhow.com/)
+- [Platzi](https://platzi.com/)
 
 ## Book :books:
 
