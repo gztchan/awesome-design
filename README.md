@@ -301,7 +301,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams.
 - [Pixate](http://www.pixate.com/) - Make your ideas a reality. :computer:
 - [Proto.io](https://proto.io/) - Prototypes that feel real.
-- [Justmind](http://www.justinmind.com/) - Prototype Faster, Communicate Better.
+- [Justinmind](http://www.justinmind.com/) - Prototype Faster, Communicate Better.
 - [Principle](http://principleformac.com/) - Animate Your Ideas, Design Better Apps :computer:
 - [Flinto](https://www.flinto.com/) - App prototyping tools for designers.
 - [Axure](http://www.axure.com/) - Design the right solution and align your team.
