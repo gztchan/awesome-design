@@ -76,6 +76,8 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Facebook Design on Medium](https://medium.com/facebook-design)
 - [Hacking UI](http://hackingui.com/)
 - [THE INDUSTRY](http://theindustry.cc/)
+- [Hey Design](https://heydesign.com/)
+- [PixelSquid](https://www.pixelsquid.com/)
 
 ## Resources :package:
 
@@ -134,6 +136,13 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [EMOJI CSS](https://afeld.github.io/emoji-css/?ref=webdesignernews.com)
 - [Simple CSS Media Queries](http://michael-gannon.com/media/index.html?ref=webdesignernews.com)
 - [ShockFamily](http://www.designshock.com/)
+- [SVG PORN](http://svgporn.com/)
+- [Google Device Metrics](https://design.google.com/devices/)
+- [UpLabs](https://www.uplabs.com/)
+- [Freebbble](http://freebbble.com/)
+- [GraphicBurger](http://graphicburger.com/)
+- [Baianat](https://www.baianat.com/resources/)
+- [GRAPHBERRY](http://www.graphberry.com/)
 
 ## High Quality Photos :tokyo_tower:
 
@@ -169,6 +178,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Bucketlistly](http://photos.bucketlistly.com/)
 - [Cupcake](http://cupcake.nilssonlee.se/)
 - [Pinterest](https://www.pinterest.com/)
+- [pixabay](https://pixabay.com/)
 
 ## Color :art:
 
@@ -187,6 +197,15 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [colorrrs](http://hex.colorrrs.com/)
 - [Nippon Colors](http://nipponcolors.com/)
 - [Colorize](https://alexbeals.com/projects/colorize/)
+- [Hello Color](http://jxnblk.com/hello-color)
+- [Web Color Data](http://webcolourdata.com/)
+- [Color Lisa](http://www.colorlisa.com/)
+- [ColorDrop](https://colordrop.io/)
+- [colorfavs](http://www.colorfavs.com/)
+- [uiGradients](http://uigradients.com/)
+- [swiss style color picker](http://swisscolors.net/)
+- [HTML color codes](http://htmlcolorcodes.com/)
+- [palettr](http://palettr.com/)
 
 ## Font :mahjong:
 
@@ -207,6 +226,12 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Google Fonts](https://fonts.google.com/)
 - [JUSTFONT BLOG](http://blog.justfont.com/)
 - [Font Library](http://katydecorah.com/font-library/)
+- [Type Guide](http://www.typogui.de/)
+- [typeanything](https://typeanything.io/)
+- [workmark](http://wordmark.it/)
+- [fontfling](http://fontfling.com/)
+- [glyphr](http://www.glyphrstudio.com/online/)
+- [LOST TYPE](http://www.losttype.com/browse/)
 
 ## Icon/Logo :tada:
 
@@ -216,6 +241,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [icon dock](http://icondock.com/)
 - [genericons](https://genericons.com/)
 - [FlatIcons](http://flaticons.net/)
+- [FLATICON](http://www.flaticon.com/)
 - [Evil Icons](http://evil-icons.io/)
 - [Typeicons](http://typicons.com/)
 - [thennounproject](https://thenounproject.com/)
@@ -229,6 +255,22 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [LOGOMOOSE](https://www.logomoose.com/)
 - [Logospire](http://logospire.com/)
 - [Squid.ink](http://thesquid.ink/flat-icons/)
+- [Game Icons](http://game-icons.net/)
+- [SVG icons](http://svgicons.sparkk.fr/)
+- [Material Design Icons](https://materialdesignicons.com/)
+- [Bytesize](http://danklammer.com/bytesize-icons/)
+- [NOVA Material Design Icons](http://www.webalys.com/nova/index.html)
+- [ICONSHOP](https://freeiconshop.com/)
+- [SIMPLE ICONS](https://simpleicons.org/)
+- [iconmonstr](http://iconmonstr.com/)
+- [Octions](https://octicons.github.com/)
+- [WE LOVE ICON FONTS](http://weloveiconfonts.com/)
+- [IconStore](https://iconstore.co/)
+- [Google Material Icons](https://design.google.com/icons/)
+- [PaymentFont](http://paymentfont.io/)
+- [Font Awesome](http://fontawesome.io/)
+- [IconMoon](https://icomoon.io/)
+- [ICONO](http://saeedalipoor.github.io/icono/)
 
 ## Tool :wrench:
 
@@ -267,13 +309,17 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 
 ## Mockup :hatching_chick:
 
+- [MOCKUPWORLD](https://www.mockupworld.co/)
+- [Placeit](https://placeit.net/)
 - [360 Mockups](https://360mockups.com/)
 - Facebook Mockups
   - [Devices](http://facebook.design/devices)
   - [HandsKit](http://facebook.design/handskit)
+- [UINames](http://uinames.com/)
 
 ## Style Guide/Branding :octocat:
 
+- [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples/) - Hand-picked collection of brand style guide examples.
 - [Mozilla](https://www.mozilla.org/en-US/styleguide/)
 - [Mailchimp](http://ux.mailchimp.com/patterns/)
 - [Fontshop](https://www.fontshop.com/styleguide/)
@@ -326,6 +372,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [DevDojo](https://devdojo.com/)
 - [Adobe KnowHow](https://www.adobeknowhow.com/)
 - [Platzi](https://platzi.com/)
+- [greyscalegorilla](http://greyscalegorilla.com/)
 
 ## Book :books:
 
@@ -380,6 +427,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [SemiPermanent](https://beta.semipermanent.com)
 - [Dribbble Meetups](https://dribbble.com/meetups)
 - [CreativeMornings](https://creativemornings.com/)
+- [CodePen Meetups](https://blog.codepen.io/meetups/)
 
 ## Podcast :radio:
 
@@ -403,6 +451,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Adventures in Design](http://www.adventuresindesignmarket.com/)
 - [Let's Make Mistakes](http://www.mistakes.show/)
 - [Hacking UI](http://hackingui.com/podcast/)
+- [CodePen Radio](https://blog.codepen.io/radio/)
 
 ## Social Network :couple::couple:
 
