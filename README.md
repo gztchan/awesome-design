@@ -258,6 +258,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Game Icons](http://game-icons.net/)
 - [SVG icons](http://svgicons.sparkk.fr/)
 - [Material Design Icons](https://materialdesignicons.com/)
+- [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html)
 - [Bytesize](http://danklammer.com/bytesize-icons/)
 - [NOVA Material Design Icons](http://www.webalys.com/nova/index.html)
 - [ICONSHOP](https://freeiconshop.com/)
