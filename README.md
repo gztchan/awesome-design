@@ -143,6 +143,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [GraphicBurger](http://graphicburger.com/)
 - [Baianat](https://www.baianat.com/resources/)
 - [GRAPHBERRY](http://www.graphberry.com/)
+- [UX Project Checklist](http://uxchecklist.github.io/)
 
 ## High Quality Photos :tokyo_tower:
 
