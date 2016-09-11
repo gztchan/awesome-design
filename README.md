@@ -285,6 +285,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
   - [Sketch Repo](https://sketchrepo.com/)
   - [Sketch Plugins](https://github.com/sketchplugins/plugin-directory)
   - [Sketchcasts](https://www.sketchcasts.net/)
+  - [Sketch.im](http://sketch.im/)
 - [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) :moneybag:
   - [PSD Repo](https://psdrepo.com/)
   - [PSDDD](http://www.psddd.co/)
