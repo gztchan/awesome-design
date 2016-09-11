@@ -144,6 +144,8 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Baianat](https://www.baianat.com/resources/)
 - [GRAPHBERRY](http://www.graphberry.com/)
 - [UX Project Checklist](http://uxchecklist.github.io/)
+- [TRIDIV](http://tridiv.com/) - Making 3D in CSS has never been easier
+- [function](http://wefunction.com/handmade-font-bundle/)
 
 ## High Quality Photos :tokyo_tower:
 
@@ -273,6 +275,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Font Awesome](http://fontawesome.io/)
 - [IconMoon](https://icomoon.io/)
 - [ICONO](http://saeedalipoor.github.io/icono/)
+- [Icons8](https://icons8.com/)
 
 ## Tool :wrench:
 
@@ -293,6 +296,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Sip](http://sipapp.io/) - The best way to collect, organize & share your colors. :rocket::computer:
 - [RightFont](https://rightfontapp.com/) - The future of font manager software for Mac OS X. :rocket::moneybag:
 - [Dropbox](https://www.dropbox.com/) - Get to all your files from anywhere, on any device, and share them with anyone. :moneybag:
+- [Iconjar](http://geticonjar.com/)
 
 ## Prototype :memo:
 
