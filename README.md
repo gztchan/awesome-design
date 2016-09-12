@@ -221,8 +221,6 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Type Novel](http://typenovel.tumblr.com/)
 - [FONTS IN USE](http://fontsinuse.com/)
 - [Webtype](http://www.webtype.com/)
-- [Fonts](https://www.fonts.com/)
-- [Font Squirrel](https://www.fontsquirrel.com/)
 - [My Fonts](http://www.myfonts.com/)
 - [The Designers Foundry](https://www.thedesignersfoundry.com/)
 - [Typekit](https://typekit.com/fonts)
@@ -275,7 +273,6 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Font Awesome](http://fontawesome.io/)
 - [IconMoon](https://icomoon.io/)
 - [ICONO](http://saeedalipoor.github.io/icono/)
-- [Icons8](https://icons8.com/)
 
 ## Tool :wrench:
 
