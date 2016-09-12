@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+script:
+  - awesome_bot README.md
+notifications:
+  email: false
