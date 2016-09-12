@@ -16,6 +16,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 #### Contents
 
 - [Soul of Design](#soul-of-design-sunny)
+- [Design Leader](#design-leader-dolls)
 - [Resources](#resources-package)
 - [High Quality Photos](#high-quality-photos-tokyo_tower)
 - [Color](#color-art)
@@ -24,14 +25,13 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Tool](#tool-wrench)
 - [Prototype](#prototype-memo)
 - [Mockup](#mockup-hatching_chick)
-- [Style Guide/Branding](#style-guide-branding)
+- [Style Guide/Branding](#style-guidebranding-octocat)
 - [Tutorial](#tutorial-school)
 - [Book](#book-books)
 - [Award](#award)
 - [Conference/Festival](#conferencefestival-beers)
 - [Podcast](#podcast-radio)
 - [Social Network](#social-network-couplecouple)
-- [Design Leader](#design-leader-dolls)
 
 ## Todo
 
@@ -78,6 +78,10 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [THE INDUSTRY](http://theindustry.cc/)
 - [Hey Design](https://heydesign.com/)
 - [PixelSquid](https://www.pixelsquid.com/)
+
+## Design Leader :dolls:
+
+> Coming soon...
 
 ## Resources :package:
 
@@ -466,10 +470,6 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [**Fribbble**](http://www.fribbble.com/) - Free PSD files and other free design resources by Dribbblers.
 - [**Muzli**](http://designers.muz.li/) - Design Inspiration
 - [**DeviantArt**](http://www.deviantart.com/) - The largest online art gallery and community.
-
-## Design Leader :dolls:
-
-> Coming soon...
 
 ## License
 
