@@ -213,6 +213,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [swiss style color picker](http://swisscolors.net/)
 - [HTML color codes](http://htmlcolorcodes.com/)
 - [palettr](http://palettr.com/)
+- [Paletton](http://paletton.com/)
 
 ## Font :mahjong:
 
