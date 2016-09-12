@@ -471,6 +471,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [**Fribbble**](http://www.fribbble.com/) - Free PSD files and other free design resources by Dribbblers.
 - [**Muzli**](http://designers.muz.li/) - Design Inspiration
 - [**DeviantArt**](http://www.deviantart.com/) - The largest online art gallery and community.
+- [**/r/web_design**](https://www.reddit.com/r/web_design/) - Subreddit for all things web design.
 
 ## License
 
