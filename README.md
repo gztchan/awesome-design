@@ -214,6 +214,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [HTML color codes](http://htmlcolorcodes.com/)
 - [palettr](http://palettr.com/)
 - [Paletton](http://paletton.com/)
+- [Name that Color](http://chir.ag/projects/name-that-color/)
 
 ## Font :mahjong:
 
