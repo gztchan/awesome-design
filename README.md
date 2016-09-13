@@ -325,6 +325,8 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
   - [Devices](http://facebook.design/devices)
   - [HandsKit](http://facebook.design/handskit)
 - [UINames](http://uinames.com/)
+- [Magic Mockups](http://magicmockups.com/)
+- [mockDrop](http://mockdrop.io/)
 
 ## Style Guide/Branding :octocat:
 
