@@ -247,6 +247,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [macosicongallery](http://macosicongallery.com/)
 - [icon54](https://icon54.com)
 - [icons8](https://icons8.com/)
+- [Icon Finder](https://www.iconfinder.com/)
 - [icon dock](http://icondock.com/)
 - [genericons](https://genericons.com/)
 - [FlatIcons](http://flaticons.net/)
