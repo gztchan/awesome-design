@@ -294,6 +294,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
   - [PSD Repo](https://psdrepo.com/)
   - [PSDDD](http://www.psddd.co/)
 - [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - Create beautiful vector art. :moneybag:
+- [Inkscape](https://inkscape.org/en/) - Free vector graphics tool.
 - [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) - Bold new ways to put your ideas in motion. :moneybag:
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. :moneybag:
 - [Panda](http://usepanda.com/) - A smart news reader built for productivity, powered by integrations. :+1:
