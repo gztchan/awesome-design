@@ -3,7 +3,7 @@
 #### Abbreviation
 
 - **[D](https://dribbble.com)ribbble**
-- **[B](https://behance.com)ehance**
+- **[B](https://behance.net)ehance**
 - **[G](https://github.com)itHub**
 - **[T](https://twitter.com)witter**
 - **[M](https://medium.com)edium**
