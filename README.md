@@ -316,9 +316,9 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Pixate](http://www.pixate.com/) - Make your ideas a reality. :computer:
 - [Proto.io](https://proto.io/) - Prototypes that feel real. :moneybag:
 - [Justinmind](http://www.justinmind.com/) - Prototype Faster, Communicate Better.
-- [Principle](http://principleformac.com/) - Animate Your Ideas, Design Better Apps :computer:
+- [Principle](http://principleformac.com/) - Animate Your Ideas, Design Better Apps. :computer::moneybag:
 - [Flinto](https://www.flinto.com/) - App prototyping tools for designers.
-- [Axure](https://www.axure.com/) - Design the right solution and align your team.
+- [Axure](https://www.axure.com/) - Design the right solution and align your team. :+1::moneybag:
 - [Form](http://www.relativewave.com/form/) - Build and customize native prototypes directly on device. :computer:
 - [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework. :moneybag:
 - [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences. :moneybag:
