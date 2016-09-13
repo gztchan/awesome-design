@@ -41,8 +41,8 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 
 ## Soul of Design :sunny:
 
-- [Design Milk](http://design-milk.com/)
-- [frog](http://www.frogdesign.com/)
+- [Design Milk](http://design-milk.com/) - An online magazine dedicated to modern design, offers what’s new in art, architecture, interior design, furniture and decor, fashion and technology.
+- [frog](http://www.frogdesign.com/) - A global design and strategy firm.
 - [Danish Design Centre](http://ddc.dk/)
 - [Google Design](https://design.google.com/)
 - [Google Art & Culture](https://www.google.com/culturalinstitute/beta/)
@@ -86,7 +86,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 
 ## Resources :package:
 
-- [Designer News](https://www.designernews.co/)
+- [Designer News](https://www.designernews.co/) - A large, global community of people working in design and technology or those interested in the topics.
 - [Sidebar](http://sidebar.io/)
 - [Webfieldmanual](http://webfieldmanual.com/) :rocket:
 - [WEBDESIGNER NEWS](http://www.webdesignernews.com/)
@@ -292,10 +292,10 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
   - [Sketch Plugins](https://github.com/sketchplugins/plugin-directory)
   - [Sketchcasts](https://www.sketchcasts.net/)
   - [Sketch.im](http://sketch.im/)
-- [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) :moneybag:
+- [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) - Best imaging and design app is at the core of almost every creative project. :moneybag:
   - [PSD Repo](https://psdrepo.com/)
   - [PSDDD](http://www.psddd.co/)
-- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - Create beautiful vector art. :moneybag:
+- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. :moneybag:
 - [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) - Bold new ways to put your ideas in motion. :moneybag:
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. :moneybag:
 - [Panda](http://usepanda.com/) - A smart news reader built for productivity, powered by integrations. :+1:
@@ -319,8 +319,8 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Flinto](https://www.flinto.com/) - App prototyping tools for designers.
 - [Axure](https://www.axure.com/) - Design the right solution and align your team.
 - [Form](http://www.relativewave.com/form/) - Build and customize native prototypes directly on device.
-- [Bootstrap Studio](https://bootstrapstudio.io/)
-- [Adobe XD](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences.
+- [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
+- [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences.
 
 ## Mockup :hatching_chick:
 
