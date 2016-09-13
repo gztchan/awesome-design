@@ -303,25 +303,25 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Sip](http://sipapp.io/) - The best way to collect, organize & share your colors. :rocket::computer:
 - [RightFont](https://rightfontapp.com/) - The future of font manager software for Mac OS X. :rocket::moneybag:
 - [Dropbox](https://www.dropbox.com/) - Get to all your files from anywhere, on any device, and share them with anyone. :moneybag:
-- [Iconjar](http://geticonjar.com/)
-- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac.  :computer::moneybag:
+- [Iconjar](http://geticonjar.com/) - Organize, search and use icons the easy way. :computer:
+- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac. :+1::computer::moneybag:
 
 ## Prototype :memo:
 
-- [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.
-- [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform.
-- [Origami](https://facebook.github.io/origami/) - Design Prototyping. :computer:
-- [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations.
-- [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams.
+- [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration. :+1::rocket::moneybag:
+- [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform. :+1::rocket::moneybag:
+- [Origami](https://facebook.github.io/origami/) - Design Prototyping. :+1::computer:
+- [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::rocket::computer::moneybag:
+- [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams. :moneybag:
 - [Pixate](http://www.pixate.com/) - Make your ideas a reality. :computer:
-- [Proto.io](https://proto.io/) - Prototypes that feel real.
+- [Proto.io](https://proto.io/) - Prototypes that feel real. :moneybag:
 - [Justinmind](http://www.justinmind.com/) - Prototype Faster, Communicate Better.
 - [Principle](http://principleformac.com/) - Animate Your Ideas, Design Better Apps :computer:
 - [Flinto](https://www.flinto.com/) - App prototyping tools for designers.
 - [Axure](https://www.axure.com/) - Design the right solution and align your team.
-- [Form](http://www.relativewave.com/form/) - Build and customize native prototypes directly on device.
-- [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
-- [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences.
+- [Form](http://www.relativewave.com/form/) - Build and customize native prototypes directly on device. :computer:
+- [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework. :moneybag:
+- [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences. :moneybag:
 
 ## Mockup :hatching_chick:
 
