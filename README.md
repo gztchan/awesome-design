@@ -10,7 +10,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 
 People, including developers, designers, scientists and others, create awesome things every single day. 
 To be honest, we who are not supermen, can't not know all best things from the world. So, for saving your time,
-I suggest you to pick those you like, take benefits from them, and finally put it into your kit. :)
+I suggest you to pick those you like, take benefits from them, and finally put it into your kit. :smile:
 
 #### Symbols
 
