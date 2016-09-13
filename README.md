@@ -35,6 +35,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 
 ## Todo
 
+- [ ] Description
 - [ ] Design Leaders
 - [ ] Comment resources, tools by symbols
 
