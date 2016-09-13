@@ -382,6 +382,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Adobe KnowHow](https://www.adobeknowhow.com/)
 - [Platzi](https://platzi.com/)
 - [greyscalegorilla](http://greyscalegorilla.com/)
+- [HackDesign](https://hackdesign.org/)
 
 ## Book :books:
 
