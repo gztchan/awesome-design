@@ -153,6 +153,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 
 ## High Quality Photos :tokyo_tower:
 
+- [Albumarium](http://albumarium.com/)
 - [The Stocks](http://thestocks.im/)
 - [Polayoutu](http://www.polayoutu.com/collections)
 - [Illusion](http://illusion.scene360.com/)
