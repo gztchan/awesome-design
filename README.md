@@ -345,7 +345,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Mozilla](https://www.mozilla.org/en-US/styleguide/)
 - [Mailchimp](http://ux.mailchimp.com/patterns/)
 - [Fontshop](https://www.fontshop.com/styleguide/)
-- [Lonly Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+- [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 - [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 - [Yelp](https://www.yelp.com/styleguide)
 - [IBM](http://www.ibm.com/design/language/)
