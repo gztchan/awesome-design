@@ -100,6 +100,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Reeoo](http://reeoo.com/)
 - [CREATIVE BLOQ](http://www.creativebloq.com/) :rocket:
 - [Lorem Ipsum](http://www.lipsum.com/feed/html)
+- [Lorem Ipsum] (https://hipsum.co/) - Upgrade your lorem Ipsum with hipter-inspired artisanal filler text
 - [Pond5](https://www.pond5.com/)
 - [Dexigner](https://www.dexigner.com/)
 - [Nicce](https://niice.co/)
