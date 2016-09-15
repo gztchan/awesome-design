@@ -85,10 +85,13 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [THE INDUSTRY](http://theindustry.cc/)
 - [Hey Design](https://heydesign.com/)
 - [PixelSquid](https://www.pixelsquid.com/)
+- [LOGO DESIGN LOVE](http://www.logodesignlove.com/) - A website and book devoted to the design of logos and brand identities.
 
 ## Design Leader :dolls:
 
-> Coming soon...
+> Designer List is coming soon...
+
+- [365 Awesome Designers](http://365awesomedesigners.com/)
 
 ## Resources :package:
 
