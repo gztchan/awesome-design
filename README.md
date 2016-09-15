@@ -8,7 +8,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 
 #### What should I do with those resources?
 
-People, including developers, designers, scientists and others, create awesome things every single day. 
+People, including developers, designers, scientists and others, create awesome things every single day.
 To be honest, we who are not supermen, can't not know all best things from the world. So, for saving your time,
 I suggest you to pick those you like, take benefits from them, and finally put it into your kit. :smile:
 
@@ -315,6 +315,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Dropbox](https://www.dropbox.com/) - Get to all your files from anywhere, on any device, and share them with anyone. :moneybag:
 - [Iconjar](http://geticonjar.com/) - Organize, search and use icons the easy way. :computer:
 - [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac. :+1::moneybag:
+- [Specctr](https://specctr.com/cloud/home/) - Instantly create design specs right in your favorite graphic design tool. :moneybag:
 
 ## Prototype :memo:
 
