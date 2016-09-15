@@ -250,6 +250,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [fontfling](http://fontfling.com/)
 - [glyphr](http://www.glyphrstudio.com/online/)
 - [LOST TYPE](http://www.losttype.com/browse/)
+- [Brick](http://brick.im/)
 
 ## Icon/Logo :tada:
 
