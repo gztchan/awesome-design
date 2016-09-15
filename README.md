@@ -232,6 +232,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [typography](http://www.typography.com/)
 - [i love typography](http://ilovetypography.com/)
 - [Type is Beautiful](http://www.typeisbeautiful.com/)
+- [Butterick's Practical Typography](http://practicaltypography.com/)
 - [Fonts](https://www.fonts.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Typewolf](https://www.typewolf.com/)
