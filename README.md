@@ -30,6 +30,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Icon/Logo](#iconlogo-tada)
 - [Tool](#tool-wrench)
 - [Prototype](#prototype-memo)
+- [User Testing] (#user-testing-busts_in_silhouette)
 - [Mockup](#mockup-hatching_chick)
 - [Style Guide/Branding](#style-guidebranding-octocat)
 - [Tutorial](#tutorial-school)
@@ -331,6 +332,17 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Form](http://www.relativewave.com/form/) - Build and customize native prototypes directly on device. :computer:
 - [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework. :moneybag:
 - [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences. :moneybag:
+- [UXPin](https://www.uxpin.com/) - High fidelity animated prototypes created in minutes.
+
+## User Testing :busts_in_silhouette:
+
+- [Lookback.io](https://lookback.io/) - Capture exactly how users experience your product: no guesswork required.
+- [UserTesting](https://www.usertesting.com/) - Full suite user testing tools.
+- [Reflector](http://www.airsquirrels.com/reflector/) - Wireless mirroring and streaming receiver.
+- [User Zoom](http://www.userzoom.co.uk/) - All-in-One Agile UX Research Platform.
+- [Usabilla](https://usabilla.com/) - Customer feedback and survey tool.
+- [CrazyEgg](https://www.crazyegg.com/) - Heatmapping software.
+- [HotJar](https://www.hotjar.com/) - Includes screen recordings, hatmapping, form and funnel analysis and user feedback polls & surveys :moneybag:
 
 ## Mockup :hatching_chick:
 
