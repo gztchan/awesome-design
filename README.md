@@ -87,6 +87,8 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Hey Design](https://heydesign.com/)
 - [PixelSquid](https://www.pixelsquid.com/)
 - [LOGO DESIGN LOVE](http://www.logodesignlove.com/) - A website and book devoted to the design of logos and brand identities.
+- [DesignM.ag](https://designm.ag/)
+- [Hey Designer](http://heydesigner.com/)
 
 ## Design Leader :dolls:
 
@@ -161,6 +163,9 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [UX Project Checklist](http://uxchecklist.github.io/)
 - [TRIDIV](http://tridiv.com/) - Making 3D in CSS has never been easier
 - [function](http://wefunction.com/handmade-font-bundle/)
+- [Mobile Mozaic](http://www.mobilemozaic.com/)
+- [Stocky](http://stocky.pro/)
+- [wwwhere](http://wwwhere.io/)
 
 ## High Quality Photos :tokyo_tower:
 
@@ -198,6 +203,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Cupcake](http://cupcake.nilssonlee.se/)
 - [Pinterest](https://www.pinterest.com/)
 - [pixabay](https://pixabay.com/)
+- [depositphotos](http://depositphotos.com/)
 
 ## Color :art:
 
