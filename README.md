@@ -8,7 +8,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 
 #### What should I do with those resources?
 
-People, including developers, designers, scientists and others, create awesome things every single day. 
+People, including developers, designers, scientists and others, create awesome things every single day.
 To be honest, we who are not supermen, can't not know all best things from the world. So, for saving your time,
 I suggest you to pick those you like, take benefits from them, and finally put it into your kit. :smile:
 
@@ -333,6 +333,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework. :moneybag:
 - [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences. :moneybag:
 - [UXPin](https://www.uxpin.com/) - High fidelity animated prototypes created in minutes.
+- [MockingBot](https://mockingbot.com/?utm_source=github) - Mobile prototyping tool without headache. :+1::rocket:
 
 ## User Testing :busts_in_silhouette:
 
