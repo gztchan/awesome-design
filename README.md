@@ -351,7 +351,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [User Zoom](http://www.userzoom.co.uk/) - All-in-One Agile UX Research Platform.
 - [Usabilla](https://usabilla.com/) - Customer feedback and survey tool.
 - [CrazyEgg](https://www.crazyegg.com/) - Heatmapping software.
-- [HotJar](https://www.hotjar.com/) - Includes screen recordings, hatmapping, form and funnel analysis and user feedback polls & surveys :moneybag:
+- [HotJar](https://www.hotjar.com/) - Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys :moneybag:
 
 ## Mockup :hatching_chick:
 
