@@ -353,6 +353,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Usabilla](https://usabilla.com/) - Customer feedback and survey tool.
 - [CrazyEgg](https://www.crazyegg.com/) - Heatmapping software.
 - [HotJar](https://www.hotjar.com/) - Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys :moneybag:
+- [Inspectlet](http://www.inspectlet.com/) - Captures user actions and browsing, generates heatmaps, records with a realtime timeline :moneybag: :+1:
 
 ## Mockup :hatching_chick:
 
