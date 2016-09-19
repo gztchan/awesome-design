@@ -479,6 +479,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 ## Podcast :radio:
 
 - [99% INVISIBLE](http://99percentinvisible.org/)
+- [Designer News Podcast](https://www.designernews.co/podcast/)
 - [Shop Talk](http://shoptalkshow.com/)
 - [workmode](http://workmode.show/)
 - [UX Podcast](http://uxpodcast.com/)
