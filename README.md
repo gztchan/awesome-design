@@ -263,6 +263,11 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [glyphr](http://www.glyphrstudio.com/online/)
 - [LOST TYPE](http://www.losttype.com/browse/)
 - [Brick](http://brick.im/)
+- [Village](https://vllg.com/)
+- [Klim](https://klim.co.nz/)
+- [Milieu Grotesque](http://www.milieugrotesque.com/)
+- [Lineto](https://lineto.com/)
+- [Colophon](http://www.colophon-foundry.org/)
 
 ## Icon/Logo :tada:
 
@@ -387,6 +392,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Facebook - Brand Book](http://3835642c2693476aa717-d4b78efce91b9730bcca725cf9bb0b37.r51.cf1.rackcdn.com/NEW%20WM%20Facebook%20Identity%20Guide%20Light.pdf)
 - [Vimeo](https://vimeo.com/about/brand_guidelines)
 - [Ubuntu](http://design.ubuntu.com/)
+- [BBC](http://www.bbc.co.uk/gel)
 - [Channel4](http://styleguides.channel4.com/E4_StyleGuide.pdf)
 - [Twitter](https://brand.twitter.com/)
 - [Nike Pro](http://manualcreative.com/project/nike-pro-services/)
@@ -406,6 +412,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
   - [Google Trends](https://newslab.withgoogle.com/assets/docs/google-trends-guide.pdf)
   - [Google Visual Assets Guidelines](https://www.behance.net/gallery/9028077/Google-Visual-Assets-Guidelines-Part-2)
   - [Design for Glass](https://developers.google.com/glass/design/)
+  - [Material design](https://material.google.com/)
 - NASA
   - [2011](http://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf)
   - [1976](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
