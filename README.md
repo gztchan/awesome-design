@@ -1,5 +1,5 @@
-# Awesome Design 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Awesome Design
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/gztchan/awesome-design.svg?branch=master)](https://travis-ci.org/gztchan/awesome-design)
 [![PRs & Issues Welcome](https://img.shields.io/badge/PRs & Issues-welcome-brightgreen.svg)](https://github.com/gztchan/awesome-design/pulls)
 
@@ -169,6 +169,10 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Mobile Mozaic](http://www.mobilemozaic.com/)
 - [Stocky](http://stocky.pro/)
 - [wwwhere](http://wwwhere.io/)
+- [Checkout Pages](http://www.checkoutpages.xyz/)
+- [Pricing Pages](http://www.pricingpages.xyz/)
+- [Product Pages](http://www.productpages.xyz/)
+- [Store Pages](http://www.storepages.xyz/)
 
 ## High Quality Photos :tokyo_tower:
 
