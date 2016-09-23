@@ -1,7 +1,7 @@
 # Awesome Design
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/gztchan/awesome-design.svg?branch=master)](https://travis-ci.org/gztchan/awesome-design)
-[![PRs & Issues Welcome](https://img.shields.io/badge/PRs & Issues-welcome-brightgreen.svg)](https://github.com/gztchan/awesome-design/pulls)
+[![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/gztchan/awesome-design/pulls)
 
 > Awesome Design focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work. Thanks to the community,
 the repo keeps being updated continuously from people around the world who provide amazing resources.
@@ -241,6 +241,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [palettr](http://palettr.com/)
 - [Paletton](http://paletton.com/)
 - [Palettable](http://www.palettable.io/)
+- [Colorable](http://jxnblk.com/colorable/demos/text/?background=%23FFFFFF&foreground=%23000000) - Get contrast values for every color combination with pass/fail scores for the WCAG accessibility guidelines.
 
 ## Font :mahjong:
 
@@ -374,6 +375,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - Facebook Mockups
   - [Devices](http://facebook.design/devices)
   - [HandsKit](http://facebook.design/handskit)
+- [Scenery](https://www.getscenery.com/) :computer:
 - [UINames](http://uinames.com/)
 
 ## Style Guide/Branding :octocat:
