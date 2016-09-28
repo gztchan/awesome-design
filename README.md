@@ -261,6 +261,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [The Designers Foundry](https://www.thedesignersfoundry.com/)
 - [Typekit](https://typekit.com/fonts)
 - [Google Fonts](https://fonts.google.com/)
+- [Google Font Combinations](https://femmebot.github.io/google-type/)
 - [JUSTFONT BLOG](http://blog.justfont.com/)
 - [Font Library](http://katydecorah.com/font-library/)
 - [Type Guide](http://www.typogui.de/)
