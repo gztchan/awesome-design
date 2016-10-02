@@ -276,6 +276,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Milieu Grotesque](http://www.milieugrotesque.com/)
 - [Lineto](https://lineto.com/)
 - [Colophon](http://www.colophon-foundry.org/)
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 
 ## Icon/Logo :tada:
 
