@@ -342,6 +342,8 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Iconjar](http://geticonjar.com/) - Organize, search and use icons the easy way. :computer:
 - [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac. :+1::moneybag:
 - [Inkscape](https://inkscape.org/en/) - Free vector graphics tool.
+- [Figma](https://www.figma.com/) - The first interface design tool with real-time collaboration.
+- [Gravit](https://www.gravit.io/) - End-to-end web-based design platform.
 
 ## Prototype :memo:
 
@@ -361,6 +363,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences. :moneybag:
 - [UXPin](https://www.uxpin.com/) - High fidelity animated prototypes created in minutes.
 - [MockingBot](https://mockingbot.com/?utm_source=github) - Mobile prototyping tool without headache. :+1::rocket:
+- [POP](https://popapp.in/) - Transform pen and paper ideas into a real working prototype. :moneybag:
 
 ## User Testing :busts_in_silhouette:
 
