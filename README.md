@@ -278,6 +278,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Lineto](https://lineto.com/)
 - [Colophon](http://www.colophon-foundry.org/)
 - [T26](https://www.t26.com/) :moneybag:
+- [Typ.io](https://typ.io)
 
 ## Icon/Logo :tada:
 
