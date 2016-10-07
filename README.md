@@ -244,6 +244,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Palettable](http://www.palettable.io/)
 - [Colllor](http://colllor.com/)
 - [Colorable](http://jxnblk.com/colorable/demos/text/?background=%23FFFFFF&foreground=%23000000) - Get contrast values for every color combination with pass/fail scores for the WCAG accessibility guidelines.
+- [Google Colors](https://material.google.com/style/color.html)
 
 ## Font :mahjong:
 
