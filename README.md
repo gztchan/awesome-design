@@ -345,6 +345,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Iconjar](http://geticonjar.com/) - Organize, search and use icons the easy way. :computer:
 - [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac. :+1::moneybag:
 - [Inkscape](https://inkscape.org/en/) - Free vector graphics tool.
+- [Specctr](https://specctr.com/cloud/home/) - Instantly create design specs right in your favorite graphic design tool. :moneybag:
 
 ## Prototype :memo:
 
