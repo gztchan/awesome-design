@@ -387,6 +387,8 @@ I suggest you to pick those you like, take benefits from them, and finally put i
   - [HandsKit](http://facebook.design/handskit)
 - [Scenery](https://www.getscenery.com/) :computer:
 - [UINames](http://uinames.com/)
+- [Magic Mockups](http://magicmockups.com/)
+- [mockDrop](http://mockdrop.io/)
 
 ## Style Guide/Branding :octocat:
 
@@ -448,6 +450,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Adobe KnowHow](https://www.adobeknowhow.com/)
 - [Platzi](https://platzi.com/)
 - [greyscalegorilla](http://greyscalegorilla.com/)
+- [HackDesign](https://hackdesign.org/)
 
 ## Book :books:
 
