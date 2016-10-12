@@ -387,6 +387,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
   - [HandsKit](http://facebook.design/handskit)
 - [Scenery](https://www.getscenery.com/) :computer:
 - [UINames](http://uinames.com/)
+- [NinjaMock](http://ninjamock.com/)
 
 ## Style Guide/Branding :octocat:
 
