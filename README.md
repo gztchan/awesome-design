@@ -84,6 +84,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Creative Review](http://www.creativereview.co.uk/)
 - [CREATIVE OVERFLOW](http://creativeoverflow.net/)
 - [FORM UP NORTH](http://www.fromupnorth.com/)
+- [Facebook](http://facebook.design/)
 - [Facebook Design on Medium](https://medium.com/facebook-design)
 - [Hacking UI](http://hackingui.com/)
 - [THE INDUSTRY](http://theindustry.cc/)
