@@ -12,7 +12,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 #### What should I do with those resources?
 
 People, including developers, designers, scientists and others, create awesome things every single day.
-To be honest, we who are not supermen, can't not know all best things from the world. So, for saving your time,
+To be honest, we who are not supermen, can't know all best things from the world. So, for saving your time,
 I suggest you to pick those you like, take benefits from them, and finally put it into your kit. :smile:
 
 #### Symbols
@@ -390,6 +390,7 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
   - [HandsKit](http://facebook.design/handskit)
 - [Scenery](https://www.getscenery.com/) :computer:
 - [UINames](http://uinames.com/)
+- [NinjaMock](http://ninjamock.com/)
 
 ## Style Guide/Branding :octocat:
 
