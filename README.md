@@ -350,6 +350,8 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac. :+1::moneybag:
 - [Inkscape](https://inkscape.org/en/) - Free vector graphics tool.
 - [Specctr](https://specctr.com/cloud/home/) - Instantly create design specs right in your favorite graphic design tool. :moneybag:
+- [Figma](https://www.figma.com/) - The first interface design tool with real-time collaboration.
+- [Gravit](https://www.gravit.io/) - End-to-end web-based design platform.
 
 ## Prototype :memo:
 
@@ -369,6 +371,7 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences. :moneybag:
 - [UXPin](https://www.uxpin.com/) - High fidelity animated prototypes created in minutes.
 - [MockingBot](https://mockingbot.com/?utm_source=github) - Mobile prototyping tool without headache. :+1::rocket:
+- [POP](https://popapp.in/) - Transform pen and paper ideas into a real working prototype. :moneybag:
 
 ## User Testing :busts_in_silhouette:
 
