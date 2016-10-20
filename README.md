@@ -380,6 +380,7 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [CrazyEgg](https://www.crazyegg.com/) - Heatmapping software.
 - [HotJar](https://www.hotjar.com/) - Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys :moneybag:
 - [Inspectlet](http://www.inspectlet.com/) - Captures user actions and browsing, generates heatmaps, records with a realtime timeline :moneybag: :+1:
+- [Screen Ruler](https://github.com/hackiftekhar/IQScreenRuler) - Pixel Perfect Screenshot Ruler for iOS, Developer-QA Friendly, Open Source Project.
 
 ## Mockup :hatching_chick:
 
