@@ -377,13 +377,19 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 ## User Testing :busts_in_silhouette:
 
 - [Lookback.io](https://lookback.io/) - Capture exactly how users experience your product: no guesswork required.
-- [UserTesting](https://www.usertesting.com/) - Full suite user testing tools.
+- [UserTesting](https://www.usertesting.com/) - Get videos of real people speaking their thoughts as they use your website or mobile app. Go beyond analytics and understand why users do what they do.
+- [UserBrain](https://userbrain.net/) - Keep getting videos of real people testing your website, web app or prototype and make it ridiculously easy to use.
 - [Reflector](http://www.airsquirrels.com/reflector/) - Wireless mirroring and streaming receiver.
 - [User Zoom](http://www.userzoom.co.uk/) - All-in-One Agile UX Research Platform.
+- [Ethn.io](https://ethn.io/) - Remote user testing suite. Intercept real people for user research. :moneybag:
 - [Usabilla](https://usabilla.com/) - Customer feedback and survey tool.
+- [UserTest.io](https://usertest.io/) - Remote, easy and simple user testing.
+- [Validately](https://validately.com/) - Easy way to recruit testers, launch tests, and analyze results.
+- [Users Think](http://usersthink.com/) - Get user feedback from real people, on demand, when you need it.
 - [CrazyEgg](https://www.crazyegg.com/) - Heatmapping software.
 - [HotJar](https://www.hotjar.com/) - Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys :moneybag:
 - [Inspectlet](http://www.inspectlet.com/) - Captures user actions and browsing, generates heatmaps, records with a realtime timeline :moneybag: :+1:
+- [Clicktale](https://www.clicktale.com) - User experience management platform.
 
 ## Mockup :hatching_chick:
 
