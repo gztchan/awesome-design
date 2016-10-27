@@ -228,6 +228,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Paletton](http://paletton.com/)
 - [Palettable](http://www.palettable.io/)
 - [Colorable](http://jxnblk.com/colorable/demos/text/?background=%23FFFFFF&foreground=%23000000) - Get contrast values for every color combination with pass/fail scores for the WCAG accessibility guidelines.
+- [How Light Can You Go](http://jxnblk.com/grays/) - Minimum color contrast ratio for different font sizes.
 
 ## Font :mahjong:
 
