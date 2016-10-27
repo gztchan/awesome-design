@@ -144,7 +144,6 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [butdoesitfloat](http://butdoesitfloat.com/)
 - [flatdsgn](http://flatdsgn.com/)
 - [designfridge](http://www.designfridge.co.uk/)
-- [defringe](http://www.defringe.com/)
 - [Siiimple](http://siiimple.com/)
 - [Zurb PatternTap](http://zurb.com/patterntap)
 - [Land Book](http://land-book.com/)
