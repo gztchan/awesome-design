@@ -360,7 +360,7 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [Origami](https://facebook.github.io/origami/) - Design Prototyping. :+1::computer:
 - [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::rocket::computer::moneybag:
 - [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams. :moneybag:
-- [Pixate](http://www.pixate.com/) - Make your ideas a reality. :computer:
+- ~~[Pixate](http://www.pixate.com/) - Make your ideas a reality.~~
 - [Proto.io](https://proto.io/) - Prototypes that feel real. :moneybag:
 - [Justinmind](http://www.justinmind.com/) - Prototype Faster, Communicate Better.
 - [Principle](http://principleformac.com/) - Animate Your Ideas, Design Better Apps. :computer::moneybag:
