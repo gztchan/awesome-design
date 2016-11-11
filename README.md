@@ -431,7 +431,7 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [Medium](https://www.behance.net/gallery/7226653/Medium-Brand-Development)
 - [Linkedin](https://brand.linkedin.com/)
 - [Red Cross](http://www.redcross.org/images/MEDIA_CustomProductCatalog/m6440103_BrandPoster.pdf)
-- [Marval](https://marvelapp.com/styleguide/overview/introduction)
+- [Marvel](https://marvelapp.com/styleguide/overview/introduction)
 - [buffer](https://buffer.com/style-guide)
 - [VSCO](http://vsco.co/id/journal/p/1)
 - [Instagram](https://www.instagram-brand.com/)
