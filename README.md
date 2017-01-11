@@ -177,6 +177,7 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [Pricing Pages](http://www.pricingpages.xyz/)
 - [Product Pages](http://www.productpages.xyz/)
 - [Store Pages](http://www.storepages.xyz/)
+- [Lapa](http://lapa.ninja/)
 
 ## High Quality Photos :tokyo_tower:
 
