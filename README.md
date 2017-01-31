@@ -358,7 +358,7 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [Prototyping Tools](http://www.prototypingtools.co/)
 - [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration. :+1::rocket::moneybag:
 - [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform. :+1::rocket::moneybag:
-- [Origami](https://facebook.github.io/origami/) - Design Prototyping. :+1::computer:
+- [Origami](http://origami.design/) - Design Prototyping. :+1::computer:
 - [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::rocket::computer::moneybag:
 - [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams. :moneybag:
 - ~~[Pixate](http://www.pixate.com/) - Make your ideas a reality.~~
