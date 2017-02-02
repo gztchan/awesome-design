@@ -94,6 +94,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [DesignM.ag](https://designm.ag/)
 - [Hey Designer](http://heydesigner.com/)
 - [Great Apps Timeline](http://greatappstimeline.xyz/)
+- [Nicely Done](http://nicelydone.club/)
 
 ## Design Leader :dolls:
 
@@ -250,6 +251,7 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [Colllor](http://colllor.com/)
 - [Colorable](http://jxnblk.com/colorable/demos/text/?background=%23FFFFFF&foreground=%23000000) - Get contrast values for every color combination with pass/fail scores for the WCAG accessibility guidelines.
 - [Google Colors](https://material.google.com/style/color.html)
+- [Color Schemer](http://colorschemr.com/#/app)
 
 ## Font :mahjong:
 
@@ -284,6 +286,8 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [Colophon](http://www.colophon-foundry.org/)
 - [T26](https://www.t26.com/) :moneybag:
 - [Typ.io](https://typ.io)
+- [TypeNetwork](https://www.typenetwork.com/)
+- [Discover.typography](https://discover.typography.com/)
 
 ## Icon/Logo :tada:
 
@@ -556,6 +560,7 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [**Fribbble**](http://www.fribbble.com/) - Free PSD files and other free design resources by Dribbblers.
 - [**Muzli**](http://designers.muz.li/) - Design Inspiration
 - [**DeviantArt**](http://www.deviantart.com/) - The largest online art gallery and community.
+- [CARGO](http://cargocollective.com/)
 - [**/r/web_design**](https://www.reddit.com/r/web_design/) - Subreddit for all things web design.
 
 ## License
