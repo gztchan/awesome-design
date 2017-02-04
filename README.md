@@ -345,6 +345,7 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
   - [PSDDD](http://www.psddd.co/)
 - [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. :moneybag:
 - [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) - Bold new ways to put your ideas in motion. :moneybag:
+- [Inkscape](https://inkscape.org/en/) - Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux. It's free and open source.
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. :moneybag:
 - [Panda](http://usepanda.com/) - A smart news reader built for productivity, powered by integrations. :+1:
 - [INBOARD](http://inboardapp.com/) - Organize your inspiration. :moneybag:
