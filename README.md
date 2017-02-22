@@ -252,6 +252,7 @@ Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated 
 - [Colorable](http://jxnblk.com/colorable/demos/text/?background=%23FFFFFF&foreground=%23000000) - Get contrast values for every color combination with pass/fail scores for the WCAG accessibility guidelines.
 - [Google Colors](https://material.google.com/style/color.html)
 - [Color Schemer](http://colorschemr.com/#/app)
+- [WebGradients](https://webgradients.com/) - Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 
 ## Font :mahjong:
 
