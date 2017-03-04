@@ -98,10 +98,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 ## Design Leader :dolls:
 
-- [Creative Matrix](http://gztony.com/creative-matrix-page/)
-
-Creative Matrix, built by [Tony Chan](https://github.com/gztchan), is a curated list of designers who always share their articles, designs and works.
-
 - [365 Awesome Designers](http://365awesomedesigners.com/)
 - [Designer List by Muzli](designers.muz.li)
 
