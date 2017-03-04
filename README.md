@@ -168,7 +168,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [TRIDIV](http://tridiv.com/) - Making 3D in CSS has never been easier
 - [function](http://wefunction.com/handmade-font-bundle/)
 - [Mobile Mozaic](http://www.mobilemozaic.com/)
-- [Stocky](http://stocky.pro/)
 - [wwwhere](http://wwwhere.io/)
 - [Checkout Pages](http://www.checkoutpages.xyz/)
 - [Pricing Pages](http://www.pricingpages.xyz/)
