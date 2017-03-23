@@ -32,6 +32,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Font](#font-mahjong)
 - [Icon/Logo](#iconlogo-tada)
 - [Tool](#tool-wrench)
+- [Source Control](#source-control)
 - [Prototype](#prototype-memo)
 - [User Testing] (#user-testing-busts_in_silhouette)
 - [Mockup](#mockup-hatching_chick)
@@ -352,6 +353,10 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Specctr](https://specctr.com/cloud/home/) - Instantly create design specs right in your favorite graphic design tool. :moneybag:
 - [Figma](https://www.figma.com/) - The first interface design tool with real-time collaboration.
 - [Gravit](https://www.gravit.io/) - End-to-end web-based design platform.
+
+## Source Control
+- [GitKraken](https://www.gitkraken.com) - An easy-to-use, cross-platform Git client. :rocket::+1:
+- [Abstract](https://www.abstractapp.com/) - Version control for design, integrates with [Sketch](https://www.sketchapp.com/).
 
 ## Prototype :memo:
 
