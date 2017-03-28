@@ -342,8 +342,8 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. 
 - [Panda](http://usepanda.com/) - A smart news reader built for productivity, powered by integrations. :+1:
 - [INBOARD](http://inboardapp.com/) - Organize your inspiration.
-- [Sip](http://sipapp.io/) - The best way to collect, organize & share your colors. :rocket::computer:
-- [RightFont](https://rightfontapp.com/) - The future of font manager software for Mac OS X. :rocket:
+- [Sip](http://sipapp.io/) - The best way to collect, organize & share your colors. :computer:
+- [RightFont](https://rightfontapp.com/) - The future of font manager software for Mac OS X. 
 - [Dropbox](https://www.dropbox.com/) - Get to all your files from anywhere, on any device, and share them with anyone.
 - [Iconjar](http://geticonjar.com/) - Organize, search and use icons the easy way. :computer:
 - [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac. :+1:
@@ -355,10 +355,10 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 ## Prototype :memo:
 
 - [Prototyping Tools](http://www.prototypingtools.co/)
-- [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration. :+1::rocket:
-- [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform. :+1::rocket:
+- [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration. :+1:
+- [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform. :+1:
 - [Origami](http://origami.design/) - Design Prototyping. :+1::computer:
-- [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::rocket::computer:
+- [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::computer:
 - [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams.
 - ~~[Pixate](http://www.pixate.com/) - Make your ideas a reality(@October 31, 2016)~~
 - [Proto.io](https://proto.io/) - Prototypes that feel real. 
@@ -370,9 +370,9 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework. 
 - [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences.
 - [UXPin](https://www.uxpin.com/) - High fidelity animated prototypes created in minutes.
-- [MockingBot](https://mockingbot.com/?utm_source=github) - Mobile prototyping tool without headache. :+1::rocket:
+- [MockingBot](https://modao.cc/) - Mobile prototyping tool without headache. :+1:
 - [POP](https://popapp.in/) - Transform pen and paper ideas into a real working prototype.
-- [Prott](https://prottapp.com/) - Prototyping tool for Web, iOS, Android apps
+- [Prott](https://prottapp.com/) - Prototyping tool for Web, iOS, Android apps.
 
 ## User Testing :busts_in_silhouette:
 
