@@ -114,7 +114,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Pond5](https://www.pond5.com/)
 - [Dexigner](https://www.dexigner.com/)
 - [Nicce](https://niice.co/)
-- [Twibfy](https://twibfy.com/discover/)
 - [Designspiration](http://designspiration.net/)
 - [Freebiesbug](http://freebiesbug.com/)
 - [Creative Market](https://creativemarket.com/)
