@@ -33,7 +33,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Icon/Logo](#iconlogo-tada)
 - [Tool](#tool-wrench)
 - [Prototype](#prototype-memo)
-- [User Testing] (#user-testing-busts_in_silhouette)
+- [User Testing](#user-testing-busts_in_silhouette)
 - [Mockup](#mockup-hatching_chick)
 - [Style Guide/Branding](#style-guidebranding-octocat)
 - [Tutorial](#tutorial-school)
