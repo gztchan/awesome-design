@@ -180,7 +180,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Polayoutu](http://www.polayoutu.com/collections)
 - [Illusion](http://illusion.scene360.com/)
 - [Baubauhaus](http://www.baubauhaus.com/)
-- [500px](https://500px.com/) :100::moneybag:
+- [500px](https://500px.com/) :100:
 - [1x](https://1x.com/)
 - [LIFE OF PIX](http://www.lifeofpix.com/)
 - [Unsplash](https://unsplash.com/)
@@ -277,7 +277,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Milieu Grotesque](http://www.milieugrotesque.com/)
 - [Lineto](https://lineto.com/)
 - [Colophon](http://www.colophon-foundry.org/)
-- [T26](https://www.t26.com/) :moneybag:
+- [T26](https://www.t26.com/)
 - [Typ.io](https://typ.io)
 - [TypeNetwork](https://www.typenetwork.com/)
 - [Discover.typography](https://discover.typography.com/)
@@ -326,52 +326,52 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 ## Tool :wrench:
 
-- [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac. :computer::moneybag:
+- [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac. :computer:
   - [Developer](http://developer.sketchapp.com/)
   - [Sketch App Sources](http://www.sketchappsources.com/)
   - [Sketch Repo](https://sketchrepo.com/)
   - [Sketch Plugins](https://github.com/sketchplugins/plugin-directory)
   - [Sketchcasts](https://www.sketchcasts.net/)
   - [Sketch.im](http://sketch.im/)
-- [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) - Best imaging and design app is at the core of almost every creative project. :moneybag:
+- [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) - Best imaging and design app is at the core of almost every creative project.
   - [PSD Repo](https://psdrepo.com/)
   - [PSDDD](http://www.psddd.co/)
-- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. :moneybag:
-- [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) - Bold new ways to put your ideas in motion. :moneybag:
+- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile.
+- [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) - Bold new ways to put your ideas in motion.
 - [Adobe Project Felix](http://www.adobe.com/products/project-felix.html) - A new app for working with 3D models, materials, and lights with 2D background images to create fully rendered, high-quality images with photorealistic effects.
-- [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. :moneybag:
+- [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. 
 - [Panda](http://usepanda.com/) - A smart news reader built for productivity, powered by integrations. :+1:
-- [INBOARD](http://inboardapp.com/) - Organize your inspiration. :moneybag:
+- [INBOARD](http://inboardapp.com/) - Organize your inspiration.
 - [Sip](http://sipapp.io/) - The best way to collect, organize & share your colors. :rocket::computer:
-- [RightFont](https://rightfontapp.com/) - The future of font manager software for Mac OS X. :rocket::moneybag:
-- [Dropbox](https://www.dropbox.com/) - Get to all your files from anywhere, on any device, and share them with anyone. :moneybag:
+- [RightFont](https://rightfontapp.com/) - The future of font manager software for Mac OS X. :rocket:
+- [Dropbox](https://www.dropbox.com/) - Get to all your files from anywhere, on any device, and share them with anyone.
 - [Iconjar](http://geticonjar.com/) - Organize, search and use icons the easy way. :computer:
-- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac. :+1::moneybag:
+- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac. :+1:
 - [Inkscape](https://inkscape.org/en/) - Free vector graphics tool.
-- [Specctr](https://specctr.com/cloud/home/) - Instantly create design specs right in your favorite graphic design tool. :moneybag:
+- [Specctr](https://specctr.com/cloud/home/) - Instantly create design specs right in your favorite graphic design tool.
 - [Figma](https://www.figma.com/) - The first interface design tool with real-time collaboration.
 - [Gravit](https://www.gravit.io/) - End-to-end web-based design platform.
 
 ## Prototype :memo:
 
 - [Prototyping Tools](http://www.prototypingtools.co/)
-- [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration. :+1::rocket::moneybag:
-- [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform. :+1::rocket::moneybag:
+- [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration. :+1::rocket:
+- [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform. :+1::rocket:
 - [Origami](http://origami.design/) - Design Prototyping. :+1::computer:
-- [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::rocket::computer::moneybag:
-- [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams. :moneybag:
-- ~~[Pixate](http://www.pixate.com/) - Make your ideas a reality.~~
-- [Proto.io](https://proto.io/) - Prototypes that feel real. :moneybag:
+- [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::rocket::computer:
+- [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams.
+- ~~[Pixate](http://www.pixate.com/) - Make your ideas a reality(@October 31, 2016)~~
+- [Proto.io](https://proto.io/) - Prototypes that feel real. 
 - [Justinmind](http://www.justinmind.com/) - Prototype Faster, Communicate Better.
-- [Principle](http://principleformac.com/) - Animate Your Ideas, Design Better Apps. :computer::moneybag:
+- [Principle](http://principleformac.com/) - Animate Your Ideas, Design Better Apps. :computer:
 - [Flinto](https://www.flinto.com/) - App prototyping tools for designers.
-- [Axure](https://www.axure.com/) - Design the right solution and align your team. :+1::moneybag:
+- [Axure](https://www.axure.com/) - Design the right solution and align your team. :+1:
 - [Form](http://www.relativewave.com/form/) - Build and customize native prototypes directly on device. :computer:
-- [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework. :moneybag:
-- [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences. :moneybag:
+- [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework. 
+- [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences.
 - [UXPin](https://www.uxpin.com/) - High fidelity animated prototypes created in minutes.
 - [MockingBot](https://mockingbot.com/?utm_source=github) - Mobile prototyping tool without headache. :+1::rocket:
-- [POP](https://popapp.in/) - Transform pen and paper ideas into a real working prototype. :moneybag:
+- [POP](https://popapp.in/) - Transform pen and paper ideas into a real working prototype.
 - [Prott](https://prottapp.com/) - Prototyping tool for Web, iOS, Android apps
 
 ## User Testing :busts_in_silhouette:
@@ -381,14 +381,14 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [UserBrain](https://userbrain.net/) - Keep getting videos of real people testing your website, web app or prototype and make it ridiculously easy to use.
 - [Reflector](http://www.airsquirrels.com/reflector/) - Wireless mirroring and streaming receiver.
 - [User Zoom](http://www.userzoom.co.uk/) - All-in-One Agile UX Research Platform.
-- [Ethn.io](https://ethn.io/) - Remote user testing suite. Intercept real people for user research. :moneybag:
+- [Ethn.io](https://ethn.io/) - Remote user testing suite. Intercept real people for user research.
 - [Usabilla](https://usabilla.com/) - Customer feedback and survey tool.
 - [UserTest.io](https://usertest.io/) - Remote, easy and simple user testing.
 - [Validately](https://validately.com/) - Easy way to recruit testers, launch tests, and analyze results.
 - [Users Think](http://usersthink.com/) - Get user feedback from real people, on demand, when you need it.
 - [CrazyEgg](https://www.crazyegg.com/) - Heatmapping software.
-- [HotJar](https://www.hotjar.com/) - Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys :moneybag:
-- [Inspectlet](http://www.inspectlet.com/) - Captures user actions and browsing, generates heatmaps, records with a realtime timeline :moneybag: :+1:
+- [HotJar](https://www.hotjar.com/) - Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys
+- [Inspectlet](http://www.inspectlet.com/) - Captures user actions and browsing, generates heatmaps, records with a realtime timeline :+1:
 - [Clicktale](https://www.clicktale.com) - User experience management platform.
 
 ## Mockup :hatching_chick:
