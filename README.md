@@ -17,10 +17,9 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 #### Symbols
 
-- :+1: Powerful, Popular
-- :rocket: Efficiency
-- :moneybag: Pricing
+- :+1: Recommended
 - :computer: macOS only
+- :mega: beta, keep watching
 
 #### Contents
 
@@ -46,8 +45,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 ## Todo
 
 - [ ] Description
-- [x] Design Leaders
-- [ ] Comment resources, tools by symbols
+- [ ] Remove unavailable/not-cool resources
 
 ## Soul of Design :sunny:
 
