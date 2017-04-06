@@ -93,6 +93,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Hey Designer](http://heydesigner.com/)
 - [Great Apps Timeline](http://greatappstimeline.xyz/)
 - [Nicely Done](http://nicelydone.club/)
+- [Dropbox Design](https://medium.com/dropbox-design)
 
 ## Design Leader :dolls:
 
