@@ -173,6 +173,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Store Pages](http://www.storepages.xyz/)
 - [Lapa](http://lapa.ninja/)
 - [Designer Mill](https://www.designermill.com/)
+- [Freebiesjedi](http://freebiesjedi.com)
 
 ## High Quality Photos :tokyo_tower:
 
