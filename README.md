@@ -103,8 +103,8 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 - [Designer News](https://www.designernews.co/) - A large, global community of people working in design and technology or those interested in the topics.
 - [Sidebar](http://sidebar.io/)
-- [Webfieldmanual](http://webfieldmanual.com/) :rocket:
-- [WEBDESIGNER NEWS](http://www.webdesignernews.com/)
+- [CodePen](http://codepen.io/)
+- [Web Designer News](http://www.webdesignernews.com/)
 - [UX for VR](http://www.uxofvr.com/)
 - [Reeoo](http://reeoo.com/)
 - [CREATIVE BLOQ](http://www.creativebloq.com/) :rocket:
@@ -114,20 +114,13 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Nicce](https://niice.co/)
 - [Designspiration](http://designspiration.net/)
 - [Freebiesbug](http://freebiesbug.com/)
-- [Creative Market](https://creativemarket.com/)
-- [FFFFOUND](http://ffffound.com/)
 - [Muuuuu](http://muuuuu.org/)
-- [CSS Winner](http://www.csswinner.com/)
 - [Muzli](https://muz.li/)
 - [The Best Designs](https://www.thebestdesigns.com/)
-- [Grainedit](http://grainedit.com/)
 - [Flat Inspire](http://flatinspire.com/)
-- [Video Monkey](http://www.videomonkey.co/)
 - [Site Inspire](https://www.siteinspire.com/)
 - [Media Queries](http://mediaqueri.es/)
 - [One Page Love](https://onepagelove.com/)
-- [CodePen](http://codepen.io/)
-- [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html#layout)
 - [Admire the Web](https://www.admiretheweb.com/)
 - [Pttrns](http://pttrns.com/)
 - [CRAFTED BY LOVE](http://www.craftedbylove.com/#/)
@@ -135,7 +128,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [HTTPSTER](http://httpster.net/)
 - [Empty States](http://emptystat.es/)
 - [Call to Idea](http://www.calltoidea.com/)
-- [butdoesitfloat](http://butdoesitfloat.com/)
 - [flatdsgn](http://flatdsgn.com/)
 - [designfridge](http://www.designfridge.co.uk/)
 - [Siiimple](http://siiimple.com/)
@@ -173,6 +165,10 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Lapa](http://lapa.ninja/)
 - [Designer Mill](https://www.designermill.com/)
 - [Freebiesjedi](http://freebiesjedi.com)
+- [Webfieldmanual](http://webfieldmanual.com/) :rocket:
+- [Prototyping Tools](http://www.prototypingtools.co/)
+- [UXTOOLS](https://uxtools.co/)
+- ~~[FFFFOUND](http://ffffound.com/)~~
 
 ## High Quality Photos :tokyo_tower:
 
@@ -212,6 +208,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [pixabay](https://pixabay.com/)
 - [depositphotos](http://depositphotos.com/)
 - [Stocksy](https://www.stocksy.com)
+- [butdoesitfloat](http://butdoesitfloat.com/)
 
 ## Color :art:
 
@@ -355,7 +352,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 ## Prototype :memo:
 
-- [Prototyping Tools](http://www.prototypingtools.co/)
 - [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration. :+1:
 - [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform. :+1:
 - [Origami](http://origami.design/) - Design Prototyping. :+1::computer:
@@ -495,6 +491,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Creative AD Awards](http://www.creativeadawards.com/)
 - [D&AD](http://www.dandad.org/)
 - [Awwwards](http://www.awwwards.com/) - Website Awards - Best Web Design Trends
+- [CSS Winner](http://www.csswinner.com/)
 
 ## Conference/Festival :beers:
 
@@ -552,11 +549,11 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 - [**Dribbble**](https://dribbble.com/) - Show and tell for designers
 - [**Behance**](https://www.behance.net/) - Showcase and discover the latest work from top online portfolios by creative professionals across industries.
-- [**tumblr**](https://www.tumblr.com/)
 - [**Medium**](https://medium.com/) - A place to read, write, and interact with the stories that matter most to you.
 - [**Fribbble**](http://www.fribbble.com/) - Free PSD files and other free design resources by Dribbblers.
 - [**DeviantArt**](http://www.deviantart.com/) - The largest online art gallery and community.
-- [CARGO](http://cargocollective.com/)
+- [**CARGO**](http://cargocollective.com/)
+- [**tumblr**](https://www.tumblr.com/)
 - [**/r/web_design**](https://www.reddit.com/r/web_design/) - Subreddit for all things web design.
 
 ## License
