@@ -553,7 +553,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [**tumblr**](https://www.tumblr.com/)
 - [**Medium**](https://medium.com/) - A place to read, write, and interact with the stories that matter most to you.
 - [**Fribbble**](http://www.fribbble.com/) - Free PSD files and other free design resources by Dribbblers.
-- [**Muzli**](http://designers.muz.li/) - Design Inspiration
 - [**DeviantArt**](http://www.deviantart.com/) - The largest online art gallery and community.
 - [CARGO](http://cargocollective.com/)
 - [**/r/web_design**](https://www.reddit.com/r/web_design/) - Subreddit for all things web design.
