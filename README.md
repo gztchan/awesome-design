@@ -397,6 +397,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 - [MOCKUPWORLD](https://www.mockupworld.co/)
 - [Placeit](https://placeit.net/)
+- [Epicpxls](https://www.epicpxls.com/) - UI kits, icons, templates, mockups and more, free
 - [360 Mockups](https://360mockups.com/)
 - Facebook Mockups
   - [Devices](http://facebook.design/devices)
