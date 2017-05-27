@@ -448,6 +448,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
   - [Material design](https://material.google.com/)
 - Microsoft
   - [Microsoft Design](https://www.microsoft.com/en-us/design)
+  - [Fluent Design System](http://fluent.microsoft.com/)
 - NASA
   - [2011](http://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf)
   - [1976](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
