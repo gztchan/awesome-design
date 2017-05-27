@@ -437,7 +437,8 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [VSCO](http://vsco.co/id/journal/p/1)
 - [Instagram](https://www.instagram-brand.com/)
 - [WhatsApp](https://www.whatsappbrand.com/)
-- [snapchat](https://www.snapchat.com/brand-guidelines#general-usage-guidelines)
+- [Snapchat](https://www.snapchat.com/brand-guidelines#general-usage-guidelines)
+- [Atlassian](https://atlassian.design/)
 - Apple
   - [iOS](https://developer.apple.com/ios/human-interface-guidelines/)
   - [macOS](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/)
