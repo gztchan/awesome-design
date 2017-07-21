@@ -50,11 +50,11 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 ## Soul of Design :sunny:
 
 - [Design Milk](http://design-milk.com/) - An online magazine dedicated to modern design, offers what’s new in art, architecture, interior design, furniture and decor, fashion and technology.
-- [frog](http://www.frogdesign.com/) - A global design and strategy firm.
-- [Danish Design Centre](http://ddc.dk/)
+- [frog](https://www.frogdesign.com/) - A global design and strategy firm.
+- [Danish Design Centre](http://danskdesigncenter.dk/)
 - [Google Design](https://design.google.com/)
 - [Google Art & Culture](https://www.google.com/culturalinstitute/beta/)
-- [Airbnb](http://airbnb.design/)
+- [Airbnb](https://airbnb.design/)
 - [Fast.Co Design](https://www.fastcodesign.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Design Taxi](http://designtaxi.com/)
@@ -65,21 +65,21 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [IDEO](https://www.ideo.com/)
 - [Design Shack](https://designshack.net/)
 - [Booooooom](http://www.booooooom.com/blog/design/)
-- [designmodo](http://designmodo.com/)
-- [webdesignerdepot](http://www.webdesignerdepot.com/)
+- [designmodo](https://designmodo.com/)
+- [webdesignerdepot](https://www.webdesignerdepot.com/)
 - [UX Movement](http://uxmovement.com/)
 - [Speckyboy](https://speckyboy.com/)
 - [HUGE](http://www.hugeinc.com/)
 - [Sitepoint](https://www.sitepoint.com/)
 - [UIE](https://articles.uie.com/)
-- [Attack the Front](http://attackthefront.io/)
-- [codrops](http://tympanus.net/codrops/)
+- [Attack the Front](http://attackthefront.com)
+- [codrops](https://tympanus.net/codrops/)
 - [The Greate Discontent](https://thegreatdiscontent.com/)
 - [Underconsideration](http://underconsideration.com/)
 - [Little Big Details](http://littlebigdetails.com/)
 - [WAYS WE WORK](http://wayswework.io/)
 - [designenvy](https://designenvy.aiga.org/)
-- [Creative Review](http://www.creativereview.co.uk/)
+- [Creative Review](https://www.creativereview.co.uk/)
 - [CREATIVE OVERFLOW](http://creativeoverflow.net/)
 - [FORM UP NORTH](http://www.fromupnorth.com/)
 - [Facebook](http://facebook.design/)
@@ -102,10 +102,10 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 ## Resources :package:
 
 - [Designer News](https://www.designernews.co/) - A large, global community of people working in design and technology or those interested in the topics.
-- [Sidebar](http://sidebar.io/)
-- [CodePen](http://codepen.io/)
+- [Sidebar](https://sidebar.io/)
+- [CodePen](https://codepen.io/)
 - [Web Designer News](http://www.webdesignernews.com/)
-- [UX for VR](http://www.uxofvr.com/)
+- [UX for VR](https://www.uxofvr.com/)
 - [Reeoo](http://reeoo.com/)
 - [CREATIVE BLOQ](http://www.creativebloq.com/) :rocket:
 - [Lorem Ipsum](http://www.lipsum.com/feed/html)
@@ -114,40 +114,40 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Nicce](https://niice.co/)
 - [Artwxrk](https://www.artwxrk.com)
 - [Designspiration](http://designspiration.net/)
-- [Freebiesbug](http://freebiesbug.com/)
+- [Freebiesbug](https://freebiesbug.com/)
 - [Muuuuu](http://muuuuu.org/)
 - [Muzli](https://muz.li/)
 - [The Best Designs](https://www.thebestdesigns.com/)
 - [Flat Inspire](http://flatinspire.com/)
 - [Site Inspire](https://www.siteinspire.com/)
-- [Media Queries](http://mediaqueri.es/)
+- [Media Queries](https://mediaqueri.es/)
 - [One Page Love](https://onepagelove.com/)
 - [Admire the Web](https://www.admiretheweb.com/)
-- [Pttrns](http://pttrns.com/)
+- [Pttrns](https://pttrns.com/)
 - [CRAFTED BY LOVE](http://www.craftedbylove.com/#/)
 - [Nice Portfolio](http://niceportfol.io/)
-- [HTTPSTER](http://httpster.net/)
+- [HTTPSTER](https://httpster.net/)
 - [Empty States](http://emptystat.es/)
 - [Call to Idea](http://www.calltoidea.com/)
 - [flatdsgn](http://flatdsgn.com/)
-- [designfridge](http://www.designfridge.co.uk/)
-- [Siiimple](http://siiimple.com/)
+- [designfridge](http://designfridge.co.uk/)
+- [Siiimple](https://siiimple.com/)
 - [Zurb PatternTap](http://zurb.com/patterntap)
-- [Land Book](http://land-book.com/)
+- [Land Book](https://land-book.com/)
 - [worthyofnote](http://worthyofnote.co.uk/)
 - [oozled](http://oozled.com/)
 - [DESIGN DETAILS](http://www.brianlovin.com/design-details/)
-- [officelovin](http://www.officelovin.com/)
+- [officelovin](https://www.officelovin.com/)
 - [Best Website](https://bestwebsite.gallery/)
 - [FreeDesignResources](http://freedesignresources.net/)
 - [Abduzeedo](http://abduzeedo.com/)
 - [Material UI](https://www.materialui.co)
-- [1stwebdesigner](http://1stwebdesigner.com/blog/)
-- [EMOJI CHEAT SHEET](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [1stwebdesigner](https://1stwebdesigner.com/blog/)
+- [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [EMOJI CSS](https://afeld.github.io/emoji-css/?ref=webdesignernews.com)
 - [Simple CSS Media Queries](http://michael-gannon.com/media/index.html?ref=webdesignernews.com)
-- [ShockFamily](http://www.designshock.com/)
-- [SVG PORN](http://svgporn.com/)
+- [ShockFamily](https://www.designshock.com/)
+- [SVG PORN](http://www.svgporn.com/)
 - [Google Device Metrics](https://design.google.com/devices/)
 - [UpLabs](https://www.uplabs.com/)
 - [Freebbble](http://freebbble.com/)
@@ -159,14 +159,14 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [function](http://wefunction.com/handmade-font-bundle/)
 - [Mobile Mozaic](http://www.mobilemozaic.com/)
 - [wwwhere](http://wwwhere.io/)
-- [Checkout Pages](http://www.checkoutpages.xyz/)
-- [Pricing Pages](http://www.pricingpages.xyz/)
-- [Product Pages](http://www.productpages.xyz/)
-- [Store Pages](http://www.storepages.xyz/)
-- [Lapa](http://lapa.ninja/)
+- [Checkout Pages](http://pages.xyz/type/checkout)
+- [Pricing Pages](http://www.pages.xyz/pricing)
+- [Product Pages](http://www.pages.xyz/product)
+- [Store Pages](http://www.pages.xyz/type/store)
+- [Lapa](http://www.lapa.ninja/)
 - [Designer Mill](https://www.designermill.com/)
 - [Freebiesjedi](http://freebiesjedi.com)
-- [Webfieldmanual](http://webfieldmanual.com/) :rocket:
+- [Webfieldmanual](https://webfieldmanual.com/) :rocket:
 - [Prototyping Tools](http://www.prototypingtools.co/)
 - [UXTOOLS](https://uxtools.co/)
 - ~~[FFFFOUND](http://ffffound.com/)~~
@@ -183,31 +183,31 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [LIFE OF PIX](http://www.lifeofpix.com/)
 - [Unsplash](https://unsplash.com/)
 - [Stokpic](http://stokpic.com/)
-- [Raumrot](http://raumrot.com/)
+- [Raumrot](https://www.howtostartanllc.org/free-stock-photos/)
 - [Death to Stock](http://deathtothestockphoto.com/)
 - [GRATISOGRAPHYMADE](http://www.gratisography.com/)
 - [picjumbo](https://picjumbo.com/)
-- [Magdeleine](http://magdeleine.co/browse/)
+- [Magdeleine](https://magdeleine.co/browse/)
 - [Pexels](https://www.pexels.com/)
 - [imcreator](http://imcreator.com/)
 - [Startup Stock Photos](http://startupstockphotos.com/)
 - [New Old Stock Photos](http://nos.twnsnd.co/)
 - [Realistics Shots](http://realisticshots.com/)
-- [SplitShire](http://www.splitshire.com/)
+- [SplitShire](https://www.splitshire.com/)
 - [FANCYCRAVE](http://fancycrave.com/)
-- [LIBRESHOT](http://libreshot.com/)
+- [LIBRESHOT](https://libreshot.com/)
 - [FreeJPG](http://en.freejpg.com.ar/)
-- [BARN IMAGES](http://barnimages.com/)
-- [MMT](http://mmtstock.com/)
+- [BARN IMAGES](https://barnimages.com/)
+- [MMT](https://mmtstock.com/)
 - [JAY MANTRI](http://jaymantri.com/)
 - [Public Domain Archive](http://publicdomainarchive.com/)
-- [FoodiesFeed](https://foodiesfeed.com/)
+- [FoodiesFeed](https://www.foodiesfeed.com/)
 - [Little Visuals](http://littlevisuals.co/)
 - [Bucketlistly](http://photos.bucketlistly.com/)
 - [Cupcake](http://cupcake.nilssonlee.se/)
 - [Pinterest](https://www.pinterest.com/)
 - [pixabay](https://pixabay.com/)
-- [depositphotos](http://depositphotos.com/)
+- [depositphotos](https://depositphotos.com/)
 - [Stocksy](https://www.stocksy.com)
 - [butdoesitfloat](http://butdoesitfloat.com/)
 
@@ -218,22 +218,22 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Brand Colors](https://brandcolors.net/)
 - [Material Palette](https://www.materialpalette.com/)
 - [FLATCOLORS](http://www.flatuicolorpicker.com/)
-- [LOLCOLORS](http://www.lolcolors.com/)
+- [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/)
 - [The days color](http://www.thedayscolor.com/)
 - [Color Claim](http://colorclaim.tumblr.com/)
 - [Color Hunt](http://colorhunt.co/)
 - [CSS Colors](http://colours.neilorangepeel.com/)
 - [RGB TO](http://rgb.to/)
 - [Color Code](http://www.colourco.de/)
-- [colorrrs](http://hex.colorrrs.com/)
+- [colorrrs](http://www.webpagefx.com/web-design/hex-to-rgb/)
 - [Nippon Colors](http://nipponcolors.com/)
 - [Colorize](https://alexbeals.com/projects/colorize/)
-- [Hello Color](http://jxnblk.com/hello-color)
+- [Hello Color](http://jxnblk.com/hello-color/)
 - [Web Color Data](http://webcolourdata.com/)
 - [Color Lisa](http://www.colorlisa.com/)
 - [ColorDrop](https://colordrop.io/)
 - [colorfavs](http://www.colorfavs.com/)
-- [uiGradients](http://uigradients.com/)
+- [uiGradients](https://uigradients.com/)
 - [swiss style color picker](http://swisscolors.net/)
 - [HTML color codes](http://htmlcolorcodes.com/)
 - [palettr](http://palettr.com/)
@@ -241,22 +241,22 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Palettable](http://www.palettable.io/)
 - [Colllor](http://colllor.com/)
 - [Colorable](http://jxnblk.com/colorable/demos/text/?background=%23FFFFFF&foreground=%23000000) - Get contrast values for every color combination with pass/fail scores for the WCAG accessibility guidelines.
-- [Google Colors](https://material.google.com/style/color.html)
+- [Google Colors](https://material.io/guidelines/style/color.html)
 - [Color Schemer](http://colorschemr.com/#/app)
 - [WebGradients](https://webgradients.com/) - Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 
 ## Font :mahjong:
 
-- [typography](http://www.typography.com/)
+- [typography](https://www.typography.com/)
 - [i love typography](http://ilovetypography.com/)
-- [Type is Beautiful](http://www.typeisbeautiful.com/)
+- [Type is Beautiful](https://www.typeisbeautiful.com/)
 - [Butterick's Practical Typography](http://practicaltypography.com/)
 - [Fonts](https://www.fonts.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Typewolf](https://www.typewolf.com/)
 - [Type Novel](http://typenovel.tumblr.com/)
-- [FONTS IN USE](http://fontsinuse.com/)
-- [Webtype](http://www.webtype.com/)
+- [FONTS IN USE](https://fontsinuse.com/)
+- [Webtype](https://www.webtype.com/)
 - [My Fonts](http://www.myfonts.com/)
 - [The Designers Foundry](https://www.thedesignersfoundry.com/)
 - [Typekit](https://typekit.com/fonts)
@@ -266,16 +266,16 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Font Library](http://katydecorah.com/font-library/)
 - [Type Guide](http://www.typogui.de/)
 - [typeanything](https://typeanything.io/)
-- [workmark](http://wordmark.it/)
+- [workmark](https://wordmark.it/)
 - [fontfling](http://fontfling.com/)
 - [glyphr](http://www.glyphrstudio.com/online/)
 - [LOST TYPE](http://www.losttype.com/browse/)
 - [Brick](http://brick.im/)
 - [Village](https://vllg.com/)
 - [Klim](https://klim.co.nz/)
-- [Milieu Grotesque](http://www.milieugrotesque.com/)
+- [Milieu Grotesque](https://www.milieugrotesque.com/)
 - [Lineto](https://lineto.com/)
-- [Colophon](http://www.colophon-foundry.org/)
+- [Colophon](https://www.colophon-foundry.org/)
 - [T26](https://www.t26.com/)
 - [Typ.io](https://typ.io)
 - [TypeNetwork](https://www.typenetwork.com/)
@@ -297,7 +297,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Nucleoapp](https://nucleoapp.com/)
 - [Picons](https://picons.me/)
 - [Pictos](http://pictos.cc/)
-- [smashicons](http://smashicons.com/)
+- [smashicons](https://smashicons.com/)
 - [symbolset](https://symbolset.com/icons)
 - [logofaves](http://logofaves.com/)
 - [Logo of the day](http://logooftheday.com/)
@@ -312,12 +312,12 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [NOVA Material Design Icons](http://www.webalys.com/nova/index.html)
 - [ICONSHOP](https://freeiconshop.com/)
 - [SIMPLE ICONS](https://simpleicons.org/)
-- [iconmonstr](http://iconmonstr.com/)
+- [iconmonstr](https://iconmonstr.com/)
 - [Octions](https://octicons.github.com/)
 - [WE LOVE ICON FONTS](http://weloveiconfonts.com/)
 - [IconStore](https://iconstore.co/)
 - [Google Material Icons](https://design.google.com/icons/)
-- [PaymentFont](http://paymentfont.io/)
+- [PaymentFont](https://paymentfont.com/)
 - [Font Awesome](http://fontawesome.io/)
 - [IconMoon](https://icomoon.io/)
 - [ICONO](http://saeedalipoor.github.io/icono/)
@@ -327,24 +327,24 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 - [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac. :computer:
   - [Developer](http://developer.sketchapp.com/)
-  - [Sketch App Sources](http://www.sketchappsources.com/)
+  - [Sketch App Sources](https://www.sketchappsources.com/)
   - [Sketch Repo](https://sketchrepo.com/)
   - [Sketch Plugins](https://github.com/sketchplugins/plugin-directory)
   - [Sketchcasts](https://www.sketchcasts.net/)
   - [Sketch.im](http://sketch.im/)
 - [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) - Best imaging and design app is at the core of almost every creative project.
   - [PSD Repo](https://psdrepo.com/)
-  - [PSDDD](http://www.psddd.co/)
+  - [PSDDD](https://psddd.co/)
 - [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile.
 - [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) - Bold new ways to put your ideas in motion.
 - [Adobe Project Felix](http://www.adobe.com/products/project-felix.html) - A new app for working with 3D models, materials, and lights with 2D background images to create fully rendered, high-quality images with photorealistic effects.
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. 
 - [Panda](http://usepanda.com/) - A smart news reader built for productivity, powered by integrations. :+1:
-- [INBOARD](http://inboardapp.com/) - Organize your inspiration.
+- [INBOARD](https://inboardapp.com/) - Organize your inspiration.
 - [Sip](http://sipapp.io/) - The best way to collect, organize & share your colors. :computer:
 - [RightFont](https://rightfontapp.com/) - The future of font manager software for Mac OS X. 
 - [Dropbox](https://www.dropbox.com/) - Get to all your files from anywhere, on any device, and share them with anyone.
-- [Iconjar](http://geticonjar.com/) - Organize, search and use icons the easy way. :computer:
+- [Iconjar](https://geticonjar.com/) - Organize, search and use icons the easy way. :computer:
 - [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac. :+1:
 - [Inkscape](https://inkscape.org/en/) - Free vector graphics tool.
 - [Specctr](https://specctr.com/cloud/home/) - Instantly create design specs right in your favorite graphic design tool.
@@ -356,11 +356,11 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration. :+1:
 - [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform. :+1:
 - [Origami](http://origami.design/) - Design Prototyping. :+1::computer:
-- [Framer.js](https://framerjs.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::computer:
+- [Framer.js](https://framer.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::computer:
 - [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams.
 - ~~[Pixate](http://www.pixate.com/) - Make your ideas a reality(@October 31, 2016)~~
 - [Proto.io](https://proto.io/) - Prototypes that feel real. 
-- [Justinmind](http://www.justinmind.com/) - Prototype Faster, Communicate Better.
+- [Justinmind](https://www.justinmind.com/) - Prototype Faster, Communicate Better.
 - [Principle](http://principleformac.com/) - Animate Your Ideas, Design Better Apps. :computer:
 - [Flinto](https://www.flinto.com/) - App prototyping tools for designers.
 - [Axure](https://www.axure.com/) - Design the right solution and align your team. :+1:
@@ -369,7 +369,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences.
 - [UXPin](https://www.uxpin.com/) - High fidelity animated prototypes created in minutes.
 - [MockingBot](https://modao.cc/) - Mobile prototyping tool without headache. :+1:
-- [POP](https://popapp.in/) - Transform pen and paper ideas into a real working prototype.
+- [POP](https://marvelapp.com/pop/?popref=1) - Transform pen and paper ideas into a real working prototype.
 - [Prott](https://prottapp.com/) - Prototyping tool for Web, iOS, Android apps.
 
 ## User Testing :busts_in_silhouette:
@@ -386,7 +386,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Users Think](http://usersthink.com/) - Get user feedback from real people, on demand, when you need it.
 - [CrazyEgg](https://www.crazyegg.com/) - Heatmapping software.
 - [HotJar](https://www.hotjar.com/) - Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys
-- [Inspectlet](http://www.inspectlet.com/) - Captures user actions and browsing, generates heatmaps, records with a realtime timeline :+1:
+- [Inspectlet](https://www.inspectlet.com/) - Captures user actions and browsing, generates heatmaps, records with a realtime timeline :+1:
 - [Clicktale](https://www.clicktale.com) - User experience management platform.
 
 ## Mockup :hatching_chick:
@@ -399,28 +399,28 @@ I suggest you to pick those you like, take benefits from them, and finally put i
   - [Devices](http://facebook.design/devices)
   - [HandsKit](http://facebook.design/handskit)
 - [Scenery](https://www.getscenery.com/) :computer:
-- [UINames](http://uinames.com/)
-- [NinjaMock](http://ninjamock.com/)
+- [UINames](https://uinames.com/)
+- [NinjaMock](https://ninjamock.com/)
 - [Smartmockups app](https://app.smartmockups.com/)
 
 ## Style Guide/Branding :octocat:
 
-- [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples/) - Hand-picked collection of brand style guide examples.
+- [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/) - Hand-picked collection of brand style guide examples.
 - [Mozilla](https://www.mozilla.org/en-US/styleguide/)
 - [Mailchimp](http://ux.mailchimp.com/patterns/)
-- [Fontshop](https://www.fontshop.com/styleguide/)
+- [Fontshop](https://www.fontshop.com/styleguide/globals)
 - [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
-- [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
+- [Starbucks](https://www.starbucks.com/static/reference/styleguide/)
 - [Yelp](https://www.yelp.com/styleguide)
-- [IBM](http://www.ibm.com/design/language/)
-- [CodePen](http://codepen.io/guide)
-- [Uber](https://brand.uber.com/)
-- [Atlassian](https://design.atlassian.com/)
+- [IBM](https://www.ibm.com/design/language/)
+- [CodePen](https://codepen.io/guide)
+- [Uber](https://www.uber.design)
+- [Atlassian](https://www.atlassian.design/)
 - [Dropbox](https://www.dropbox.com/branding)
 - [Spotify](https://developer.spotify.com/design/)
-- [Youtube](https://www.youtube.com/yt/brand/)
+- [Youtube](https://www.youtube.com/yt/about/brand-resources/)
 - [Facebook - Brand Resource Center Book](https://en.facebookbrand.com/)
-- [Vimeo](https://vimeo.com/about/brand_guidelines)
+- [Vimeo](https://press.vimeo.com/brand-guidelines)
 - [Ubuntu](http://design.ubuntu.com/)
 - [BBC](http://www.bbc.co.uk/gel)
 - [Channel4](http://styleguides.channel4.com/E4_StyleGuide.pdf)
@@ -432,7 +432,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Marvel](https://marvelapp.com/styleguide/overview/introduction)
 - [buffer](https://buffer.com/style-guide)
 - [VSCO](http://vsco.co/id/journal/p/1)
-- [Instagram](https://www.instagram-brand.com/)
+- [Instagram](https://en.instagram-brand.com/)
 - [WhatsApp](https://www.whatsappbrand.com/)
 - [Snapchat](https://www.snapchat.com/brand-guidelines#general-usage-guidelines)
 - [Atlassian](https://atlassian.design/)
@@ -443,27 +443,27 @@ I suggest you to pick those you like, take benefits from them, and finally put i
   - [Google Trends](https://newslab.withgoogle.com/assets/docs/google-trends-guide.pdf)
   - [Google Visual Assets Guidelines](https://www.behance.net/gallery/9028077/Google-Visual-Assets-Guidelines-Part-2)
   - [Design for Glass](https://developers.google.com/glass/design/)
-  - [Material design](https://material.google.com/)
+  - [Material design](https://material.io/guidelines/)
 - Microsoft
   - [Microsoft Design](https://www.microsoft.com/en-us/design)
   - [Fluent Design System](http://fluent.microsoft.com/)
 - NASA
-  - [2011](http://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf)
+  - [2011](https://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf)
   - [1976](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 
 ## Tutorial :school:
 
-- [PLURALSIGHT](http://www.digitaltutors.com/11/index.php)
+- [PLURALSIGHT](http://creative.pluralsight.com/11/index.php)
 - [Lynda](https://www.lynda.com/)
 - [CreativeLive](https://www.creativelive.com/)
 - [DesignSchool](https://designschool.canva.com/)
-- [Tuts+](http://tutsplus.com/)
+- [Tuts+](https://tutsplus.com/)
 - [Udemy](https://www.udemy.com/courses/design/)
 - [AboutCG](http://www.aboutcg.com/)
 - [DevDojo](https://devdojo.com/)
 - [Adobe KnowHow](https://www.adobeknowhow.com/)
-- [Platzi](https://platzi.com/)
-- [greyscalegorilla](http://greyscalegorilla.com/)
+- [Platzi](https://courses.platzi.com)
+- [greyscalegorilla](https://greyscalegorilla.com/)
 
 ## Book :books:
 
@@ -488,10 +488,10 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [iF](http://ifworlddesignguide.com/)
 - [FWA](https://thefwa.com/)
 - [CSS Design Awards](http://www.cssdesignawards.com/)
-- [CSS Awards](http://www.cssawds.com/)
+- [CSS Awards](https://www.cssawards.net/)
 - [Creative AD Awards](http://www.creativeadawards.com/)
-- [D&AD](http://www.dandad.org/)
-- [Awwwards](http://www.awwwards.com/) - Website Awards - Best Web Design Trends
+- [D&AD](https://www.dandad.org/)
+- [Awwwards](https://www.awwwards.com/) - Website Awards - Best Web Design Trends
 - [CSS Winner](http://www.csswinner.com/)
 
 ## Conference/Festival :beers:
@@ -501,7 +501,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [The AIGA Design Conference](http://designconference.aiga.org/#!/)
 - [SXSW](https://www.sxsw.com/)
 - [ICON9](http://www.theillustrationconference.org/)
-- [Mirror](http://mirrorconf.com/)
+- [Mirror](http://www.mirrorconf.com)
 - [Interaction](http://interaction16.ixda.org/)
 - [Offset](http://www.iloveoffset.com/)
 - [99U](http://conference.99u.com/)
@@ -510,13 +510,13 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [How Design Live](http://www.howdesignlive.com/)
 - [Better by Design](http://betterbydesignconference.com/)
 - [What Design Can Do](http://www.whatdesigncando.com/)
-- [Design and Content](http://www.designcontentconf.com/)
-- [generate](http://www.generateconf.com/)
-- [Typo International Design Talks](http://typotalks.com/)
+- [Design and Content](https://www.designcontentconf.com/)
+- [generate](https://www.generateconf.com/)
+- [Typo International Design Talks](https://www.typotalks.com/)
 - [DesignersFiesta](http://designersfiesta.com/)
 - [F5](http://f5fest.com/)
 - [Service Design Days](http://servicedesigndays.com/)
-- [SemiPermanent](https://beta.semipermanent.com)
+- [SemiPermanent](https://www.semipermanent.com)
 - [Dribbble Meetups](https://dribbble.com/meetups)
 - [CreativeMornings](https://creativemornings.com/)
 - [CodePen Meetups](https://blog.codepen.io/meetups/)
@@ -539,8 +539,8 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [DESIGN DETAILS Podcast](https://spec.fm/podcasts/design-details)
 - [Layout.fm](http://layout.fm/)
 - [Type is Beautiful](https://itunes.apple.com/podcast/zi-tan-zi-chang/id1041704528)
-- [boagworld](https://boagworld.com/show)
-- [Responsive Web Design](http://responsivewebdesign.com/podcast/)
+- [boagworld](https://boagworld.com/show/)
+- [Responsive Web Design](https://responsivewebdesign.com/podcast/)
 - [Adventures in Design](http://www.adventuresindesignmarket.com/)
 - [Let's Make Mistakes](http://www.mistakes.show/)
 - [Hacking UI](http://hackingui.com/podcast/)
@@ -553,7 +553,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [**Medium**](https://medium.com/) - A place to read, write, and interact with the stories that matter most to you.
 - [**Fribbble**](http://www.fribbble.com/) - Free PSD files and other free design resources by Dribbblers.
 - [**DeviantArt**](http://www.deviantart.com/) - The largest online art gallery and community.
-- [**CARGO**](http://cargocollective.com/)
+- [**CARGO**](https://2.cargocollective.com)
 - [**tumblr**](https://www.tumblr.com/)
 - [**/r/web_design**](https://www.reddit.com/r/web_design/) - Subreddit for all things web design.
 
