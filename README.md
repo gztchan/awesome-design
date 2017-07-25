@@ -280,6 +280,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Typ.io](https://typ.io)
 - [TypeNetwork](https://www.typenetwork.com/)
 - [Discover.typography](https://discover.typography.com/)
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 
 ## Icon/Logo :tada:
 
