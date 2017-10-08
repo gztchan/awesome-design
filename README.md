@@ -482,6 +482,8 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Guidelines-Ensuring-Experience/dp/0123852412)
 - [Thinking with Type](https://www.amazon.com/gp/product/1568989695/)
 - [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
+- [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
+- [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
 
 ## Award :trophy:
 
