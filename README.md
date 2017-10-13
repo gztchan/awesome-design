@@ -404,6 +404,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [UINames](https://uinames.com/)
 - [NinjaMock](https://ninjamock.com/)
 - [Smartmockups app](https://app.smartmockups.com/)
+- [Froala Design Blocks](https://www.froala.com/design-blocks)
 
 ## Style Guide/Branding :octocat:
 
