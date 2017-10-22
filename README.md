@@ -508,7 +508,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Interaction](http://interaction16.ixda.org/)
 - [Offset](http://www.iloveoffset.com/)
 - [99U](http://conference.99u.com/)
-- [Typographics](typographics.com)
+- [Typographics](http://typographics.com)
 - [Brand New Conference](http://underconsideration.com/brandnewconference/)
 - [How Design Live](http://www.howdesignlive.com/)
 - [Better by Design](http://betterbydesignconference.com/)
