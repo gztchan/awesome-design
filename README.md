@@ -85,7 +85,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Facebook](http://facebook.design/)
 - [Facebook Design on Medium](https://medium.com/facebook-design)
 - [Hacking UI](http://hackingui.com/)
-- [THE INDUSTRY](http://theindustry.cc/)
 - [Hey Design](https://heydesign.com/)
 - [PixelSquid](https://www.pixelsquid.com/)
 - [LOGO DESIGN LOVE](http://www.logodesignlove.com/) - A website and book devoted to the design of logos and brand identities.
