@@ -136,7 +136,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [oozled](http://oozled.com/)
 - [DESIGN DETAILS](http://www.brianlovin.com/design-details/)
 - [officelovin](https://www.officelovin.com/)
-- [Best Website](https://bestwebsite.gallery/)
 - [FreeDesignResources](http://freedesignresources.net/)
 - [Abduzeedo](http://abduzeedo.com/)
 - [Material UI](https://www.materialui.co)
