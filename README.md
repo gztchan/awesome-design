@@ -105,6 +105,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Sidebar](https://sidebar.io/)
 - [CodePen](https://codepen.io/)
 - [Web Designer News](http://www.webdesignernews.com/)
+- [CodeMyUI](https://codemyui.com/)
 - [UX for VR](https://www.uxofvr.com/)
 - [Reeoo](http://reeoo.com/)
 - [CREATIVE BLOQ](http://www.creativebloq.com/) :rocket:
@@ -173,6 +174,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 ## High Quality Photos :tokyo_tower:
 
+- [AllTheFreeStock](http://allthefreestock.com/)
 - [Albumarium](http://albumarium.com/)
 - [The Stocks](http://thestocks.im/)
 - [Polayoutu](http://www.polayoutu.com/collections)
