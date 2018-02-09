@@ -362,6 +362,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform. :+1:
 - [Origami](http://origami.design/) - Design Prototyping. :+1::computer:
 - [Framer.js](https://framer.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::computer:
+- [Haiku](https://www.haiku.ai/) - Animation tool for UI components, ready for iOS, Android or Web Apps. :+1::computer::mega:
 - [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams.
 - ~~[Pixate](http://www.pixate.com/) - Make your ideas a reality(@October 31, 2016)~~
 - [Proto.io](https://proto.io/) - Prototypes that feel real. 
