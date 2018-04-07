@@ -408,6 +408,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 ## Style Guide/Branding :octocat:
 
+- [Ant Design](http://ant.design)
 - [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/) - Hand-picked collection of brand style guide examples.
 - [Mozilla](https://www.mozilla.org/en-US/styleguide/)
 - [Mailchimp](http://ux.mailchimp.com/patterns/)
