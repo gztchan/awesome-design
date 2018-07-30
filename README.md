@@ -244,6 +244,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Google Colors](https://material.io/guidelines/style/color.html)
 - [Color Schemer](http://colorschemr.com/#/app)
 - [WebGradients](https://webgradients.com/) - Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
+- [Chinese Colors](http://zhongguose.com) - A collection of Chinese traditional colors.
 
 ## Font :mahjong:
 
