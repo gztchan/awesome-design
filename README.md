@@ -353,13 +353,13 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Specctr](https://specctr.com/cloud/home/) - Instantly create design specs right in your favorite graphic design tool.
 - [Figma](https://www.figma.com/) - The first interface design tool with real-time collaboration.
 - [Gravit](https://www.gravit.io/) - End-to-end web-based design platform.
+- [Framer X](https://framer.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::computer:
 
 ## Prototype :memo:
 
 - [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration. :+1:
 - [InVision](https://www.invisionapp.com/) - The world's leading prototyping, collaboration & workflow platform. :+1:
 - [Origami](http://origami.design/) - Design Prototyping. :+1::computer:
-- [Framer.js](https://framer.com/) - Design tool for creating interactive designs, interfaces and animations. :+1::computer:
 - [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams.
 - ~~[Pixate](http://www.pixate.com/) - Make your ideas a reality(@October 31, 2016)~~
 - [Proto.io](https://proto.io/) - Prototypes that feel real. 
