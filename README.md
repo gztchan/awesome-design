@@ -160,9 +160,9 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Mobile Mozaic](http://www.mobilemozaic.com/)
 - [wwwhere](http://wwwhere.io/)
 - [Checkout Pages](http://pages.xyz/type/checkout)
-- [Pricing Pages](http://www.pages.xyz/pricing)
-- [Product Pages](http://www.pages.xyz/product)
-- [Store Pages](http://www.pages.xyz/type/store)
+- ~~[Pricing Pages](http://www.pages.xyz/pricing)~~
+- ~~[Product Pages](http://www.pages.xyz/product)~~
+- ~~[Store Pages](http://www.pages.xyz/type/store)~~
 - [Lapa](http://www.lapa.ninja/)
 - [Designer Mill](https://www.designermill.com/)
 - [Freebiesjedi](http://freebiesjedi.com)
