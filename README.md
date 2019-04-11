@@ -78,14 +78,12 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Underconsideration](http://underconsideration.com/)
 - [Little Big Details](http://littlebigdetails.com/)
 - [WAYS WE WORK](http://wayswework.io/)
-- [designenvy](https://designenvy.aiga.org/)
 - [Creative Review](https://www.creativereview.co.uk/)
 - [CREATIVE OVERFLOW](http://creativeoverflow.net/)
 - [FORM UP NORTH](http://www.fromupnorth.com/)
 - [Facebook](http://facebook.design/)
 - [Facebook Design on Medium](https://medium.com/facebook-design)
 - [Hacking UI](http://hackingui.com/)
-- [THE INDUSTRY](http://theindustry.cc/)
 - [Hey Design](https://heydesign.com/)
 - [PixelSquid](https://www.pixelsquid.com/)
 - [LOGO DESIGN LOVE](http://www.logodesignlove.com/) - A website and book devoted to the design of logos and brand identities.
@@ -94,10 +92,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Great Apps Timeline](http://greatappstimeline.xyz/)
 - [Nicely Done](http://nicelydone.club/)
 - [Dropbox Design](https://medium.com/dropbox-design)
-
-## Design Leader :dolls:
-
-- [365 Awesome Designers](http://365awesomedesigners.com/)
 
 ## Resources :package:
 
@@ -125,7 +119,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Admire the Web](https://www.admiretheweb.com/)
 - [Pttrns](https://pttrns.com/)
 - [CRAFTED BY LOVE](http://www.craftedbylove.com/#/)
-- [Nice Portfolio](http://niceportfol.io/)
 - [HTTPSTER](https://httpster.net/)
 - [Empty States](http://emptystat.es/)
 - [Call to Idea](http://www.calltoidea.com/)
@@ -134,7 +127,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Siiimple](https://siiimple.com/)
 - [Zurb PatternTap](http://zurb.com/patterntap)
 - [Land Book](https://land-book.com/)
-- [worthyofnote](http://worthyofnote.co.uk/)
 - [oozled](http://oozled.com/)
 - [DESIGN DETAILS](http://www.brianlovin.com/design-details/)
 - [officelovin](https://www.officelovin.com/)
@@ -145,7 +137,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [1stwebdesigner](https://1stwebdesigner.com/blog/)
 - [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [EMOJI CSS](https://afeld.github.io/emoji-css/?ref=webdesignernews.com)
-- [Simple CSS Media Queries](http://michael-gannon.com/media/index.html?ref=webdesignernews.com)
 - [ShockFamily](https://www.designshock.com/)
 - [SVG PORN](http://www.svgporn.com/)
 - [Google Device Metrics](https://design.google.com/devices/)
@@ -204,7 +195,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [FoodiesFeed](https://www.foodiesfeed.com/)
 - [Little Visuals](http://littlevisuals.co/)
 - [Bucketlistly](http://photos.bucketlistly.com/)
-- [Cupcake](http://cupcake.nilssonlee.se/)
 - [Pinterest](https://www.pinterest.com/)
 - [pixabay](https://pixabay.com/)
 - [depositphotos](https://depositphotos.com/)
@@ -265,7 +255,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [JUSTFONT BLOG](http://blog.justfont.com/)
 - [Font Library](http://katydecorah.com/font-library/)
 - [Type Guide](http://www.typogui.de/)
-- [typeanything](https://typeanything.io/)
 - [workmark](https://wordmark.it/)
 - [fontfling](http://fontfling.com/)
 - [glyphr](http://www.glyphrstudio.com/online/)
@@ -323,7 +312,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [IconMoon](https://icomoon.io/)
 - [ICONO](http://saeedalipoor.github.io/icono/)
 - [svg-icon](http://leungwensen.github.io/svg-icon/) - An ultimate SVG icons collection DONE RIGHT.
-- [Clarity Icons](http://icons.clarity.design/)
 - [Iconfont](http://www.iconfont.cn/)
 
 ## Tool :wrench:
@@ -342,16 +330,15 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) - Bold new ways to put your ideas in motion.
 - [Adobe Project Felix](http://www.adobe.com/products/project-felix.html) - A new app for working with 3D models, materials, and lights with 2D background images to create fully rendered, high-quality images with photorealistic effects.
 - [Adobe XD](https://www.adobe.com/products/xd.html) - Vector-based tool for designing and prototyping user experience for web and mobile apps.
-- [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. 
+- [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace.
 - [Panda](http://usepanda.com/) - A smart news reader built for productivity, powered by integrations. :+1:
 - [INBOARD](https://inboardapp.com/) - Organize your inspiration.
 - [Sip](http://sipapp.io/) - The best way to collect, organize & share your colors. :computer:
-- [RightFont](https://rightfontapp.com/) - The future of font manager software for Mac OS X. 
+- [RightFont](https://rightfontapp.com/) - The future of font manager software for Mac OS X.
 - [Dropbox](https://www.dropbox.com/) - Get to all your files from anywhere, on any device, and share them with anyone.
 - [Iconjar](https://geticonjar.com/) - Organize, search and use icons the easy way. :computer:
 - [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac. :+1:
 - [Inkscape](https://inkscape.org/en/) - Free vector graphics tool.
-- [Specctr](https://specctr.com/cloud/home/) - Instantly create design specs right in your favorite graphic design tool.
 - [Figma](https://www.figma.com/) - The first interface design tool with real-time collaboration.
 - [Gravit](https://www.gravit.io/) - End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) - Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
@@ -365,13 +352,13 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Haiku](https://www.haiku.ai/) - Animation tool for UI components, ready for iOS, Android or Web Apps. :+1::computer::mega:
 - [Atomic](https://www.atomic.io/) - The prototyping tool designed for teams.
 - ~~[Pixate](http://www.pixate.com/) - Make your ideas a reality(@October 31, 2016)~~
-- [Proto.io](https://proto.io/) - Prototypes that feel real. 
+- [Proto.io](https://proto.io/) - Prototypes that feel real.
 - [Justinmind](https://www.justinmind.com/) - Prototype Faster, Communicate Better.
 - [Principle](http://principleformac.com/) - Animate Your Ideas, Design Better Apps. :computer:
 - [Flinto](https://www.flinto.com/) - App prototyping tools for designers.
 - [Axure](https://www.axure.com/) - Design the right solution and align your team. :+1:
 - [Form](http://www.relativewave.com/form/) - Build and customize native prototypes directly on device. :computer:
-- [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework. 
+- [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
 - [Adobe Experience Design](http://www.adobe.com/products/experience-design.html) - Design, prototype and quickly share user experiences.
 - [UXPin](https://www.uxpin.com/) - High fidelity animated prototypes created in minutes.
 - [MockingBot](https://modao.cc/) - Mobile prototyping tool without headache. :+1:
@@ -404,7 +391,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - Facebook Mockups
   - [Devices](http://facebook.design/devices)
   - [HandsKit](http://facebook.design/handskit)
-- [Scenery](https://www.getscenery.com/) :computer:
 - [UINames](https://uinames.com/)
 - [NinjaMock](https://ninjamock.com/)
 - [Smartmockups app](https://app.smartmockups.com/)
@@ -419,7 +405,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Starbucks](https://www.starbucks.com/static/reference/styleguide/)
 - [Yelp](https://www.yelp.com/styleguide)
 - [IBM](https://www.ibm.com/design/language/)
-- [CodePen](https://codepen.io/guide)
 - [Uber](https://www.uber.design)
 - [Atlassian](https://www.atlassian.design/)
 - [Dropbox](https://www.dropbox.com/branding)
@@ -460,7 +445,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 ## Tutorial :school:
 
-- [PLURALSIGHT](http://creative.pluralsight.com/11/index.php)
 - [Lynda](https://www.lynda.com/)
 - [CreativeLive](https://www.creativelive.com/)
 - [DesignSchool](https://designschool.canva.com/)
@@ -468,7 +452,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Udemy](https://www.udemy.com/courses/design/)
 - [AboutCG](http://www.aboutcg.com/)
 - [DevDojo](https://devdojo.com/)
-- [Adobe KnowHow](https://www.adobeknowhow.com/)
 - [Platzi](https://courses.platzi.com)
 - [greyscalegorilla](https://greyscalegorilla.com/)
 
@@ -539,7 +522,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [The Deeply Graphic Design**](http://thedeependdesign.com/graphic-design-podcast/)
 - [Tentative.fm](http://tentative.fm/)
 - [Pagebreak](http://www.pagebreakpodcast.com/)
-- [On the Grid](http://5by5.tv/onthegrid)
 - [Design Matters](http://www.debbiemillman.com/designmatters/)
 - [YOUNG GUNS SHOW](http://younggunsshow.com/)
 - [The Greate Discontent Podcast](https://thegreatdiscontent.com/podcast)
@@ -562,7 +544,6 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [**DeviantArt**](http://www.deviantart.com/) - The largest online art gallery and community.
 - [**CARGO**](https://2.cargocollective.com)
 - [**tumblr**](https://www.tumblr.com/)
-- [**/r/web_design**](https://www.reddit.com/r/web_design/) - Subreddit for all things web design.
 
 ## License
 
