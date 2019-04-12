@@ -74,7 +74,6 @@ People, including developers, designers, scientists and others, create awesome t
 - [LOGO DESIGN LOVE](http://www.logodesignlove.com/) is a website and book devoted to the design of logos and brand identities.
 - [DesignM.ag](https://designm.ag/) is a community-based website for web designers and developers.
 - [HeyDesigner](http://heydesigner.com/) daily curated design knowledge.
-- [Great Apps Timeline](http://greatappstimeline.xyz/)
 - [Nicely Done](http://nicelydone.club/) is a curation of the nicest digital products.
 - [Dropbox Design on Medium](https://medium.com/dropbox-design) Stories and musings from the Dropbox Design team. 🌟
 - [Designer News](https://www.designernews.co/) is a large, global community of people working in design and technology or those interested in the topics. 🌟
@@ -84,7 +83,6 @@ People, including developers, designers, scientists and others, create awesome t
 - [The UX for VR](https://www.uxofvr.com/) is a curated list of resources to help you on your journey into the User Experience of Virtual Reality.
 - [Reeoo](http://reeoo.com/) provides web design inspiration and gallery for web designers.
 - [CREATIVE BLOQ](http://www.creativebloq.com/) delivers a daily mix of advice and inspiration for digital and traditional artists, web designers, graphic designers, 3D and VFX artists, illustrators, and more. 🌟
-- [Lorem Ipsum](http://www.lipsum.com/feed/html)
 - [Pond5](https://www.pond5.com/)
 - [Dexigner](https://www.dexigner.com/)
 - [Nicce on Medium](https://blog.niice.co/)  Gather, share & discuss ideas with your team.
@@ -104,8 +102,6 @@ People, including developers, designers, scientists and others, create awesome t
 - [HTTPSTER](https://httpster.net/)
 - [Empty States](http://emptystat.es/)
 - [Call to Idea](http://www.calltoidea.com/)
-- [flatdsgn](http://flatdsgn.com/)
-- [designfridge](http://designfridge.co.uk/)
 - [Siiimple](https://siiimple.com/)
 - [Zurb PatternTap](http://zurb.com/patterntap)
 - [Land Book](https://land-book.com/) created this place for Designers, Developers, Product Owners, Marketing Managers, Startupers, Freelancers and, really, for everyone who appreciates fine designs and well-crafted sites.
@@ -124,7 +120,6 @@ People, including developers, designers, scientists and others, create awesome t
 - [Google Device Metrics](https://design.google.com/devices/)
 - [Up](https://www.uplabs.com/) is the leading community of creatives, offering the best downloadable resources, every day.
 - [Freebbble](http://freebbble.com/)
-- [GraphicBurger](http://graphicburger.com/)
 - [Baianat](https://www.baianat.com/resources/)
 - [Graphberry](http://www.graphberry.com/) provide you with the creative graphic resources you need to transform into your personal or commercial work.
 - [UX Project Checklist](http://uxchecklist.github.io/) 🌟
@@ -132,10 +127,6 @@ People, including developers, designers, scientists and others, create awesome t
 - [Function Design Blog](http://wefunction.com) Creating & Curating Design Resources & Inspiration for Designers.
 - [Mobile Mozaic](http://www.mobilemozaic.com/)
 - [wwwhere](http://wwwhere.io/)
-- [Checkout Pages](http://pages.xyz/type/checkout)
-- [Pricing Pages](http://www.pages.xyz/pricing)
-- [Product Pages](http://www.pages.xyz/product)
-- [Store Pages](http://www.pages.xyz/type/store)
 - [Lapa](http://www.lapa.ninja/) is a gallery featuring the best 1920 landing page examples from around the web.
 - [Designer Mill](https://www.designermill.com/)
 - [Freebiesjedi](http://freebiesjedi.com)
@@ -143,7 +134,6 @@ People, including developers, designers, scientists and others, create awesome t
 - [Prototyping Tools](http://www.prototypingtools.co/)
 - [UXTOOLS](https://uxtools.co/)
 - [CodeMyUI](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets.
-- ~~[FFFFOUND](http://ffffound.com/)~~
 
 ## Stock Photos
 
@@ -172,11 +162,9 @@ People, including developers, designers, scientists and others, create awesome t
 - [FancyCrave](http://fancycrave.com/) Free travel photos for commercial use.
 - [LIBRESHOT](https://libreshot.com/) Free fine art and ordinary photography. Free images for blogs or websites even for commercial use.
 No need to mention the author.
-- [FreeJPG](http://en.freejpg.com.ar/)
 - [BARNIMAGES](https://barnimages.com/) Free high-resolution images for everyone.
 - [MMT](https://mmtstock.com/) Free photos and videos for commercial use.
 - [JAY MANTRI](http://jaymantri.com/) free pics. do anything(CC0). make magic.
-- [Public Domain Archive](http://publicdomainarchive.com/)
 - [FoodiesFeed](https://www.foodiesfeed.com/) is a resource of awesome naturally looking food photos that are completely free to download.
 - [Little Visuals](http://littlevisuals.co/)
 - [Bucketlistly Blog](http://photos.bucketlistly.com/) A free creative commons (Attribution-NonCommercial) collection of over 8000+ travel photos from all over the world anyone can use.
@@ -217,10 +205,8 @@ No need to mention the author.
 - [Paletton](http://paletton.com/)
 - [Palettable](http://www.palettable.io/) Generate beautiful color palettes using the knowledge of millions of designers.
 - [Picular](https://picular.co/)
-- [Colllor](http://colllor.com/)
 - [Colorable](http://jxnblk.com/colorable/demos/text/?background=%23FFFFFF&foreground=%23000000) Get contrast values for every color combination with pass/fail scores for the WCAG accessibility guidelines.
 - [Google Colors](https://material.io/guidelines/style/color.html) The Material Design color system can be used to create a color theme that reflects your brand or style.
-- [Color Schemer](http://colorschemr.com/#/app)
 - [WebGradients](https://webgradients.com/) Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
 
@@ -257,7 +243,6 @@ No need to mention the author.
 - [T26](https://www.t26.com/)
 - [Typ.io](https://typ.io) at Typ.io, we're revealing designers' decisions for all to see; peeking under the hood of beautiful websites to find out what fonts they're using and how they're using them.
 - [TypeNetwork](https://www.typenetwork.com/)
-- [Discover.typography](https://discover.typography.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 
 ## Icon and Logo
@@ -344,7 +329,6 @@ No need to mention the author.
 - [MockingBot](https://modao.cc/) Mobile prototyping tool without headache.
 - [POP](https://marvelapp.com/pop/?popref=1) Transform pen and paper ideas into a real working prototype.
 - [Prott](https://prottapp.com/) Prototyping tool for Web, iOS, Android apps.
-- ~~[Pixate](http://www.pixate.com/) Make your ideas a reality(@October 31, 2016)~~
 
 ## User Testing
 
@@ -377,6 +361,7 @@ No need to mention the author.
 - [Froala Design Blocks](https://www.froala.com/design-blocks) Over 170 responsive design blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
 - [ScreenSpace](https://www.screenspace.io)
 - [Rotato 3D mockups](https://rotato.xyz)
+- [Lorem Ipsum](http://www.lipsum.com/feed/html)
 
 ## Styleguide and Branding
 
@@ -485,8 +470,6 @@ No need to mention the author.
 - [Design and Content](https://www.designcontentconf.com/) The Conference for Designers & Content Strategists — we're better together.
 - [generate](https://www.generateconf.com/) the award winning conference for web designers returns to NYC!
 - [Typo International Design Talks](https://www.typotalks.com/) is where the world’s design experts speak
-- [DesignersFiesta](http://designersfiesta.com/)
-- [F5](http://f5fest.com/)
 - [Service Design Days](http://servicedesigndays.com/)
 - [SemiPermanent](https://www.semipermanent.com)
 - [Dribbble Meetups](https://dribbble.com/meetups) are a chance for designers to socialize, talk shop, and foster their local design communities.
@@ -505,7 +488,6 @@ No need to mention the author.
 - [Tentative.fm](http://tentative.fm/) is a podcast about digital product design. Hosted by thoughtbot's Chief Design Officer Kyle Fiedler & Boston Design Director Jaclyn Perrone.
 - [Pagebreak](http://www.pagebreakpodcast.com/) is an audio podcast hosted by [Liz Andrade](http://cmdshiftdesign.com/) and [Niki Brown](http://nikibrown.com/).
 - [Design Matters](http://www.debbiemillman.com/designmatters/) The world's first podcast about design and an inquiry into the broader world of creative culture through wide-ranging conversations with designers, writers, artists, curators, musicians, and other luminaries of contemporary thought
-- [YOUNG GUNS SHOW](http://younggunsshow.com/)
 - [The Greate Discontent Podcast](https://thegreatdiscontent.com/podcast) features in-depth conversations with today’s artists, makers, and risk-takers.
 - [Design Details Podcast](https://spec.fm/podcasts/design-details) A weekly conversation about design process and culture.
 - [Layout.fm](http://layout.fm/) A weekly podcast about design, technology, programming and everything else.
