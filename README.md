@@ -142,6 +142,7 @@ People, including developers, designers, scientists and others, create awesome t
 - [Webfieldmanual](https://webfieldmanual.com/)
 - [Prototyping Tools](http://www.prototypingtools.co/)
 - [UXTOOLS](https://uxtools.co/)
+- [CodeMyUI](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets.
 - ~~[FFFFOUND](http://ffffound.com/)~~
 
 ## Stock Photos
@@ -184,6 +185,8 @@ No need to mention the author.
 - [depositphotos](https://depositphotos.com/) Over 100 million high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
 - [Stocksy](https://www.stocksy.com) is home to a highly curated collection of royalty-free stock photography and video footage that is beautiful, distinctive, and highly usable.
 - [butdoesitfloat](http://butdoesitfloat.com/)
+- [MyanPx](https://myanpx.com/) Free photos for commercial and personal use.
+- [AllTheFreeStock](http://allthefreestock.com/)
 
 ## Color
 
@@ -213,11 +216,13 @@ No need to mention the author.
 - [palettr](http://palettr.com/) is a web tool for designers.
 - [Paletton](http://paletton.com/)
 - [Palettable](http://www.palettable.io/) Generate beautiful color palettes using the knowledge of millions of designers.
+- [Picular](https://picular.co/)
 - [Colllor](http://colllor.com/)
 - [Colorable](http://jxnblk.com/colorable/demos/text/?background=%23FFFFFF&foreground=%23000000) Get contrast values for every color combination with pass/fail scores for the WCAG accessibility guidelines.
 - [Google Colors](https://material.io/guidelines/style/color.html) The Material Design color system can be used to create a color theme that reflects your brand or style.
 - [Color Schemer](http://colorschemr.com/#/app)
 - [WebGradients](https://webgradients.com/) Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
+- [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
 
 ## Typography
 
@@ -318,13 +323,13 @@ No need to mention the author.
 - [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration. 🌟
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
+- [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
 
 ## Prototype
 
 - [Marvel](https://marvelapp.com/) Simple design, prototyping and collaboration.
 - [InVision](https://www.invisionapp.com/) The world's leading prototyping, collaboration & workflow platform.
 - [Origami](http://origami.design/) Design Prototyping.
-- [Framer.js](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
 - [Haiku](https://www.haiku.ai/) Animation tool for UI components, ready for iOS, Android or Web Apps.
 - [Atomic](https://www.atomic.io/) The prototyping tool designed for teams.
 - [Proto.io](https://proto.io/) Prototypes that feel real.
@@ -369,6 +374,9 @@ No need to mention the author.
 - [UINames](https://uinames.com/) is a simple tool to generate fake names for use in designs and mockups.
 - [NinjaMock](https://ninjamock.com/) is a small startup based in Denmark, a country famous for its strong attitude towards design and quality.
 - [Smartmockups app](https://app.smartmockups.com/) The #1 tool for creating stunning marketing images.
+- [Froala Design Blocks](https://www.froala.com/design-blocks) Over 170 responsive design blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
+- [ScreenSpace](https://www.screenspace.io)
+- [Rotato 3D mockups](https://rotato.xyz)
 
 ## Styleguide and Branding
 
@@ -413,6 +421,7 @@ No need to mention the author.
 - [Microsoft Fluent Design System](http://fluent.microsoft.com/)
 - [NASA 2011](https://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf)
 - [NASA 1976](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
+- [Ant Design](http://ant.design) is a design system with values of Nature and Determinacy for better user experience of enterprise applications.
 
 ## Tutorial
 
@@ -440,6 +449,8 @@ No need to mention the author.
 - [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Guidelines-Ensuring-Experience/dp/0123852412)
 - [Thinking with Type](https://www.amazon.com/gp/product/1568989695/)
 - [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
+- [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
+- [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
 
 ## Award
 
@@ -505,6 +516,7 @@ No need to mention the author.
 - [Let's Make Mistakes](http://www.mistakes.show/) is a podcast about design.
 - [The Hacking UI Podcast](http://hackingui.com/podcast/) is hosted by Sagi Shrieber and David Tintner, who are both a designer and developer as well as entrepreneurs, bloggers, productivity/time-hacker maniacs, and all around tech geeks.
 - [CodePen Radio](https://blog.codepen.io/radio/) is a podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
+- [UX COFFEE - 设计咖](http://www.uxcoffee.com/) 设计无处不在。在这个节目里，我们试图探寻设计的力量、这个世界被创造的过程、以及参与设计了这个世界的人们。主播：Riceman、Hoka、帆啊帆、张挠挠。
 
 ## Social Network
 
