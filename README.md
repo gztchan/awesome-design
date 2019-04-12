@@ -144,6 +144,7 @@ People, including developers, designers, scientists and others, create awesome t
 - [UXTOOLS](https://uxtools.co/)
 - [CodeMyUI](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets.
 - ~~[FFFFOUND](http://ffffound.com/)~~
+- [uxdesign.cc](https://uxdesign.cc)
 
 ## Stock Photos
 
