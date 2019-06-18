@@ -247,6 +247,7 @@ No need to mention the author.
 - [ScreenSpace](https://www.screenspace.io)
 - [Rotato 3D mockups](https://rotato.xyz)
 - [Lorem Ipsum](http://www.lipsum.com/feed/html)
+- [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
 
 ## User Testing
 
