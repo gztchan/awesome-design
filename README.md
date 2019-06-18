@@ -220,6 +220,7 @@ No need to mention the author.
 - [Haiku](https://www.haiku.ai/) Animation tool for UI components, ready for iOS, Android or Web Apps.
 - [Atomic](https://www.atomic.io/) The prototyping tool designed for teams.
 - [Proto.io](https://proto.io/) Prototypes that feel real.
+- [Protopie](https://www.protopie.io/) Interactive prototypes with simple triggers, connects to phone features like vibration, proximity, and camera.
 - [Justinmind](https://www.justinmind.com/) Prototype Faster, Communicate Better.
 - [Principle](http://principleformac.com/) Animate Your Ideas, Design Better Apps.
 - [Flinto](https://www.flinto.com/) App prototyping tools for designers.
