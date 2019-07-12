@@ -3,7 +3,7 @@ name: Recommend it/them
 about: recommend-template
 title: "[Recommend]"
 labels: ''
-assignees: ''
+assignees: gztchan
 
 ---
 
