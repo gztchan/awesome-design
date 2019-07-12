@@ -10,6 +10,6 @@ assignees: gztchan
 <!-- Subject you want to recommend. -->
 **😉Subject:** 
 <!-- Why do you recommend it/them? -->
-**🤔Reason:**
+**🤔Reason:** 
 <!-- Why do you recommend it/them? -->
-**💰Pricing:**
+**💰Pricing:** <!-- Yes/No -->
