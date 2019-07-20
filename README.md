@@ -425,6 +425,7 @@ No need to mention the author.
 - [DevDojo](https://devdojo.com/)
 - [Platzi](https://courses.platzi.com) Growth marketing Course.
 - [greyscalegorilla](https://greyscalegorilla.com/)
+- [Coursera UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) Design High-Impact User Experiences. Research, design, and prototype effective, visually-driven websites and apps.
 
 ## Book
 
