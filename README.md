@@ -111,6 +111,7 @@ No need to mention the author.
 - [Google Colors](https://material.io/guidelines/style/color.html) The Material Design color system can be used to create a color theme that reflects your brand or style.
 - [WebGradients](https://webgradients.com/) Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
+- [Image Color Picker](https://image-color.com) Image color picker and palette generator.
 
 ## Icon and Logo
 
