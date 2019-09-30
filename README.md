@@ -368,6 +368,7 @@ No need to mention the author.
 - [Prototyping Tools](http://www.prototypingtools.co/)
 - [UXTOOLS](https://uxtools.co/)
 - [CodeMyUI](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets.
+- [rooki.design](https://www.rooki.design/) Online magazine for design students and free design awards
 
 ## Styleguide and Branding
 
