@@ -154,6 +154,7 @@ No need to mention the author.
 - [ICONO](http://saeedalipoor.github.io/icono/) pure css icons, with only one element.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) is an ultimate SVG icons collection done right.
 - [Iconfont+](http://www.iconfont.cn/) 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
+- [CoreUI Icons](http://coreui.io/icons/) Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
 ## Typography
 
