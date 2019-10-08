@@ -368,6 +368,7 @@ No need to mention the author.
 - [Prototyping Tools](http://www.prototypingtools.co/)
 - [UXTOOLS](https://uxtools.co/)
 - [CodeMyUI](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets.
+- [A List Apart](https://alistapart.com/) has been discussing design, development and meaning of web content since 1997 and remains a great resource for designers and programmers alike.
 
 ## Styleguide and Branding
 
