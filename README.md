@@ -258,7 +258,6 @@ No need to mention the author.
 - [User Zoom](http://www.userzoom.co.uk/) All-in-One Agile UX Research Platform.
 - [Ethn.io](https://ethn.io/) Remote user testing suite. Intercept real people for user research.
 - [Usabilla](https://usabilla.com/) Customer feedback and survey tool.
-- [UserTest.io](https://usertest.io/) Remote, easy and simple user testing.
 - [Validately](https://validately.com/) Easy way to recruit testers, launch tests, and analyze results.
 - [Users Think](http://usersthink.com/) Get user feedback from real people, on demand, when you need it.
 - [CrazyEgg](https://www.crazyegg.com/) Heatmapping software.
