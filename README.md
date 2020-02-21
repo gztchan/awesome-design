@@ -101,7 +101,6 @@ No need to mention the author.
 - [ColorDrop](https://colordrop.io/)
 - [colorfavs](http://www.colorfavs.com/) a place that made it easy to create and discover new colors and palettes for all of your projects.
 - [uiGradients](https://uigradients.com/)
-- [swiss style color picker](http://swisscolors.net/)
 - [HTML Color Codes](http://htmlcolorcodes.com/) Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names.
 - [palettr](http://palettr.com/) is a web tool for designers.
 - [Paletton](http://paletton.com/)
