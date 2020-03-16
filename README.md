@@ -54,7 +54,7 @@ People, including developers, designers, scientists and others, create awesome t
 - [Gratisography](http://www.gratisography.com/) "The world’s quirkiest collection of high-resolution free stock images."
 - [picjumbo](https://picjumbo.com/) Download free stock photos, backgrounds and images in high‑resolution for personal and commercial use.
 - [Magdeleine](https://magdeleine.co/browse/) Hand-picked free photos for your inspiration.
-- [Pexels](https://www.pexels.com/) "he best free stock photos & videos shared by talented creators."
+- [Pexels](https://www.pexels.com/) "The best free stock photos & videos shared by talented creators."
 - [imcreator](http://imcreator.com/)
 - [Startup Stock Photos](http://startupstockphotos.com/) Free photos for startups, bloggers, publishers, websites, designers, developers, creators,
 & everyone else.
