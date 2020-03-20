@@ -256,6 +256,7 @@ No need to mention the author.
 - [UserBrain](https://userbrain.net/) Keep getting videos of real people testing your website, web app or prototype and make it ridiculously easy to use.
 - [Reflector](http://www.airsquirrels.com/reflector/) Wireless mirroring and streaming receiver.
 - [User Zoom](http://www.userzoom.co.uk/) All-in-One Agile UX Research Platform.
+- [zipBoard](https://zipboard.co) An online visual bug tracking, website annotation, and design feedback tool.
 - [Ethn.io](https://ethn.io/) Remote user testing suite. Intercept real people for user research.
 - [Usabilla](https://usabilla.com/) Customer feedback and survey tool.
 - [UserTest.io](https://usertest.io/) Remote, easy and simple user testing.
