@@ -413,6 +413,7 @@ No need to mention the author.
 - [NASA 2011](https://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf)
 - [NASA 1976](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 - [Ant Design](http://ant.design) is a design system with values of Nature and Determinacy for better user experience of enterprise applications.
+- [Audi](https://www.audi.com/ci/en/renewed-brand.html) Audi Corporate Identity Portal
 
 ## Tutorial
 
