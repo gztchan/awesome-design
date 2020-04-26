@@ -266,6 +266,7 @@ No need to mention the author.
 - [HotJar](https://www.hotjar.com/) Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys
 - [Inspectlet](https://www.inspectlet.com/) Captures user actions and browsing, generates heatmaps, records with a realtime timeline
 - [Clicktale](https://www.clicktale.com) is a user experience management platform.
+- [Maze Design](http://maze.design) is a great way to conduct user interviews
 
 ## Read and Digest
 
