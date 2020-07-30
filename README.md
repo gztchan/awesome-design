@@ -246,6 +246,7 @@ No need to mention the author.
 - [Rotato 3D mockups](https://rotato.xyz)
 - [Lorem Ipsum](http://www.lipsum.com/feed/html)
 - [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
+- [Device Shots](https://deviceshots.com) is a tool that helps you create beautiful device mockups to share on social media platforms, with the screenshot of your website or mobile application, for free.
 
 ## User Testing
 
