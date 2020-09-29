@@ -107,7 +107,6 @@ No need to mention the author.
 - [Paletton](http://paletton.com/)
 - [Palettable](http://www.palettable.io/) Generate beautiful color palettes using the knowledge of millions of designers.
 - [Picular](https://picular.co/)
-- [Colorable](http://jxnblk.com/colorable/demos/text/?background=%23FFFFFF&foreground=%23000000) Get contrast values for every color combination with pass/fail scores for the WCAG accessibility guidelines.
 - [Google Colors](https://material.io/guidelines/style/color.html) The Material Design color system can be used to create a color theme that reflects your brand or style.
 - [WebGradients](https://webgradients.com/) Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
