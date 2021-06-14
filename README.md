@@ -54,7 +54,7 @@ People, including developers, designers, scientists and others, create awesome t
 - [Gratisography](http://www.gratisography.com/) "The world’s quirkiest collection of high-resolution free stock images."
 - [picjumbo](https://picjumbo.com/) Download free stock photos, backgrounds and images in high‑resolution for personal and commercial use.
 - [Magdeleine](https://magdeleine.co/browse/) Hand-picked free photos for your inspiration.
-- [Pexels](https://www.pexels.com/) "he best free stock photos & videos shared by talented creators."
+- [Pexels](https://www.pexels.com/) "the best free stock photos & videos shared by talented creators."
 - [imcreator](http://imcreator.com/)
 - [Startup Stock Photos](http://startupstockphotos.com/) Free photos for startups, bloggers, publishers, websites, designers, developers, creators,
 & everyone else.
@@ -77,6 +77,7 @@ No need to mention the author.
 - [butdoesitfloat](http://butdoesitfloat.com/)
 - [MyanPx](https://myanpx.com/) Free photos for commercial and personal use.
 - [AllTheFreeStock](http://allthefreestock.com/)
+- [Coverr](https://coverr.co/) "Beautiful, free videos for your homepage."
 
 ## Color
 
@@ -95,6 +96,7 @@ No need to mention the author.
 - [Colorrrs](http://www.webpagefx.com/web-design/hex-to-rgb/)
 - [Nippon Colors](http://nipponcolors.com/)
 - [Colorize](https://alexbeals.com/projects/colorize/) is a website that turns any word or phrase into a hex color.
+- [Flat UI Colors 2](https://flatuicolors.com/) "13 Countries, 13 Designers, 13 More Color Palettes" 
 - [Hello Color](http://jxnblk.com/hello-color/)
 - [Web Color Data](http://webcolourdata.com/) aims to uncover some insights about colours on the web, in particular, some questions I've struggled with as a designer.
 - [Color Lisa](http://www.colorlisa.com/) is a curated list of color palettes based on masterpieces of the worlds greatest artists.
@@ -120,6 +122,7 @@ No need to mention the author.
 - [Iconfinder](https://www.iconfinder.com/) provides high-quality icons to millions of creative professionals.
 - [icon dock](http://icondock.com/)
 - [Genericons Neue](https://genericons.com/) generic looking icons, suitable for a blog or simple website.
+- [Ionicons](https://ionicons.com) "Beautifully crafted open source icons"
 - [FlatIcons.net](http://flaticons.net/) is a free flat icon maker.
 - [FLATICON](http://www.flaticon.com/)
 - [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
@@ -163,6 +166,7 @@ No need to mention the author.
 - [Butterick's Practical Typography](http://practicaltypography.com/)
 - [Fonts](https://www.fonts.com/) store from Monotype offers more than 150,000 desktop and Web font products for you to preview, purchase and download. You can also learn about new typeface releases and discover typographic tips and techniques.
 - [Font Squirrel](https://www.fontsquirrel.com/) 100% free for commercial use.
+- [DaFont](https://www.dafont.com/) "Archive of freely downloadable fonts."
 - [Typewolf](https://www.typewolf.com/) what’s trending in type.
 - [Type Novel](http://typenovel.tumblr.com/)
 - [Fonts In Use](https://fontsinuse.com/) is a public archive of typography indexed by typeface, format, industry, and period.
