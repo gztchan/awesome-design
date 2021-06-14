@@ -76,6 +76,7 @@ No need to mention the author.
 - [Stocksy](https://www.stocksy.com) is home to a highly curated collection of royalty-free stock photography and video footage that is beautiful, distinctive, and highly usable.
 - [butdoesitfloat](http://butdoesitfloat.com/)
 - [AllTheFreeStock](http://allthefreestock.com/)
+- [UI Faces](https://uifaces.co/) UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.
 
 ## Color
 
