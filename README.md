@@ -151,6 +151,7 @@ No need to mention the author.
 - [ICONO](http://saeedalipoor.github.io/icono/) pure css icons, with only one element.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) is an ultimate SVG icons collection done right.
 - [Iconfont+](http://www.iconfont.cn/) 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
+- [icons-font-customization](https://github.com/uuware/icons-font-customization) &#x1F536;A collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or business requirements. Open [All icons](https://uuware.github.io/icons-font-customization/dist/), to view all of them.
 
 ## Typography
 
