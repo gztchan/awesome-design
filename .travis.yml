@@ -4,6 +4,6 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-redirect --allow-ssl -w creativemarket,svgporn,coolors,axure,awesome-design/pulls,gztchan,ffffound.com,codepen.io
+  - awesome_bot README.md --allow-redirect --allow-ssl -w creativemarket,svgporn,coolors,axure,awesome-design/pulls,gztchan,codepen.io,designschool.canva.com,pixabay.com,pexels.com,1stwebdesigner.com
 notifications:
   email: false
