@@ -75,7 +75,6 @@ No need to mention the author.
 - [depositphotos](https://depositphotos.com/) Over 100 million high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
 - [Stocksy](https://www.stocksy.com) is home to a highly curated collection of royalty-free stock photography and video footage that is beautiful, distinctive, and highly usable.
 - [butdoesitfloat](http://butdoesitfloat.com/)
-- [MyanPx](https://myanpx.com/) Free photos for commercial and personal use.
 - [AllTheFreeStock](http://allthefreestock.com/)
 
 ## Color
@@ -96,7 +95,6 @@ No need to mention the author.
 - [Nippon Colors](http://nipponcolors.com/)
 - [Colorize](https://alexbeals.com/projects/colorize/) is a website that turns any word or phrase into a hex color.
 - [Hello Color](http://jxnblk.com/hello-color/)
-- [Web Color Data](http://webcolourdata.com/) aims to uncover some insights about colours on the web, in particular, some questions I've struggled with as a designer.
 - [Color Lisa](http://www.colorlisa.com/) is a curated list of color palettes based on masterpieces of the worlds greatest artists.
 - [ColorDrop](https://colordrop.io/)
 - [colorfavs](http://www.colorfavs.com/) a place that made it easy to create and discover new colors and palettes for all of your projects.
@@ -147,7 +145,6 @@ No need to mention the author.
 - [We Love Icon Fonts](http://weloveiconfonts.com/)
 - [IconStore](https://iconstore.co/) Free icons by first-class designers.
 - [Google Material Icons](https://design.google.com/icons/) Material icons are delightful, beautifully crafted symbols for common actions and items. 🌟
-- [PaymentFont](https://paymentfont.com/) is a sleek webfont for your favourite payment operators and methods. Featuring 116 icons. 🌟
 - [Font Awesome](http://fontawesome.io/) Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit. 🌟
 - [IconMoon](https://icomoon.io/) Pixel perfect icon solutions.
 - [ICONO](http://saeedalipoor.github.io/icono/) pure css icons, with only one element.
@@ -165,7 +162,6 @@ No need to mention the author.
 - [Typewolf](https://www.typewolf.com/) what’s trending in type.
 - [Type Novel](http://typenovel.tumblr.com/)
 - [Fonts In Use](https://fontsinuse.com/) is a public archive of typography indexed by typeface, format, industry, and period.
-- [Webtype](https://www.webtype.com/) provides high-end fonts for online typography.
 - [My Fonts](http://www.myfonts.com/)
 - [The Designers Foundry](https://www.thedesignersfoundry.com/)
 - [Adobe Fonts](https://fonts.adobe.com/fonts) Enjoy quick browsing, easy use in desktop applications or on the web, and endless typographic inspiration.
@@ -191,7 +187,7 @@ No need to mention the author.
 
 ## Toolkit
 
-- [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins](https://github.com/sketchplugins/plugin-directory), [Sketchcasts](https://www.sketchcasts.net/), [Sketch.im](http://sketch.im/).🌟
+- [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins](https://github.com/sketchplugins/plugin-directory), [Sketch.im](http://sketch.im/).🌟
 - [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) Best imaging and design app is at the core of almost every creative project. [PSD Repo](https://psdrepo.com/), [PSDDD](https://psddd.co/). 🌟
 - [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. 🌟
 - [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) Bold new ways to put your ideas in motion. v
@@ -242,7 +238,7 @@ No need to mention the author.
 - [Facebook HandsKit](http://facebook.design/handskit) Photos of hands holding various phones, to be used in any presentation of your designs.
 - [UINames](https://uinames.com/) is a simple tool to generate fake names for use in designs and mockups.
 - [NinjaMock](https://ninjamock.com/) is a small startup based in Denmark, a country famous for its strong attitude towards design and quality.
-- [Smartmockups app](https://app.smartmockups.com/) The #1 tool for creating stunning marketing images.
+- [Smartmockups app](https://smartmockups.com/) The #1 tool for creating stunning marketing images.
 - [Froala Design Blocks](https://www.froala.com/design-blocks) Over 170 responsive design blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
 - [ScreenSpace](https://www.screenspace.io)
 - [Rotato 3D mockups](https://rotato.xyz)
@@ -303,7 +299,6 @@ No need to mention the author.
 - [Facebook](http://facebook.design/) is a facebook design blogs.
 - [Facebook Design on Medium](https://medium.com/facebook-design) experiences from the people designing products billions of people use every day.
 - [Hacking UI](http://hackingui.com/) is a community for designers, developers and creative entrepreneurs with a passion.
-- [Hey Design](https://heydesign.com/)
 - [PixelSquid Blog](https://blog.pixelsquid.com/)
 - [LOGO DESIGN LOVE](http://www.logodesignlove.com/) is a website and book devoted to the design of logos and brand identities.
 - [DesignM.ag](https://designm.ag/) is a community-based website for web designers and developers.
@@ -346,7 +341,7 @@ No need to mention the author.
 - [FreeDesignResources](http://freedesignresources.net/)
 - [Abduzeedo](http://abduzeedo.com/)
 - [Material UI](https://www.materialui.co)
-- [1stwebdesigner](https://1stwebdesigner.com/blog/) By web design professionals, for web design professionals. We're on a mission to help you build a better web.
+- [1stwebdesigner](https://1stwebdesigner.com) By web design professionals, for web design professionals. We're on a mission to help you build a better web.
 - [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [EMOJI CSS](https://afeld.github.io/emoji-css/?ref=webdesignernews.com)
 - [DesignShock](https://www.designshock.com/) is the biggest bundle/subscription you can find in one place including icons, avatars, graphic elements, GUI packs, design sets and both web and print templates
@@ -371,12 +366,11 @@ No need to mention the author.
 - [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/)
 - [Mozilla](https://www.mozilla.org/en-US/styleguide/)
 - [Mailchimp](http://ux.mailchimp.com/patterns/)
-- [Fontshop](https://www.fontshop.com/styleguide/globals)
 - [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 - [Starbucks](https://www.starbucks.com/static/reference/styleguide/)
 - [Yelp](https://www.yelp.com/styleguide)
 - [IBM](https://www.ibm.com/design/language/)
-- [Uber](https://www.uber.design)
+- [Uber](https://medium.com/uber-design)
 - [Atlassian](https://www.atlassian.design/)
 - [Dropbox](https://www.dropbox.com/branding)
 - [Spotify](https://developer.spotify.com/design/)
@@ -483,7 +477,6 @@ No need to mention the author.
 ## Podcast
 
 - [99% INVISIBLE](http://99percentinvisible.org/)
-- [Designer News Podcast](https://www.designernews.co/podcast/) features the latest stories in design and tech.
 - [Shop Talk](http://shoptalkshow.com/) is an internet radio show about the internet starring [Dave Rupert](http://daverupert.com/) and [Chris Coyier](http://chriscoyier.net/).
 - [workmode](http://workmode.show/) is a podcast series about being a pro.
 - [UX Podcast](http://uxpodcast.com/) is a twice-monthly digital design podcast sharing insights about business, technology and people since 2011.
@@ -499,7 +492,6 @@ No need to mention the author.
 - [Boagworld UX Show](https://boagworld.com/show/) Every Thursday Paul Boag and Marcus Lillington are joined by a variety of guests to discuss a range of web design related topics.
 - [Responsive Web Design Podcast](https://responsivewebdesign.com/podcast/) Karen and Ethan interview the people who make responsive redesigns happen.
 - [Adventures in Design](http://www.adventuresindesignmarket.com/)
-- [Let's Make Mistakes](http://www.mistakes.show/) is a podcast about design.
 - [The Hacking UI Podcast](http://hackingui.com/podcast/) is hosted by Sagi Shrieber and David Tintner, who are both a designer and developer as well as entrepreneurs, bloggers, productivity/time-hacker maniacs, and all around tech geeks.
 - [CodePen Radio](https://blog.codepen.io/radio/) is a podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
 - [UX COFFEE - 设计咖](http://www.uxcoffee.com/) 设计无处不在。在这个节目里，我们试图探寻设计的力量、这个世界被创造的过程、以及参与设计了这个世界的人们。主播：Riceman、Hoka、帆啊帆、张挠挠。
