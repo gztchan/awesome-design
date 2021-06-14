@@ -77,6 +77,7 @@ No need to mention the author.
 - [butdoesitfloat](http://butdoesitfloat.com/)
 - [MyanPx](https://myanpx.com/) Free photos for commercial and personal use.
 - [AllTheFreeStock](http://allthefreestock.com/)
+- [Pexels](https://www.pexels.com) provides high quality and completely free stock photos licensed under the Pexels license
 
 ## Color
 
@@ -153,6 +154,7 @@ No need to mention the author.
 - [ICONO](http://saeedalipoor.github.io/icono/) pure css icons, with only one element.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) is an ultimate SVG icons collection done right.
 - [Iconfont+](http://www.iconfont.cn/) 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
+- [Lineicons](https://lineicons.com) is a free icon pack you can – use, edit, and distribute with your personal/commercial projects
 
 ## Typography
 
@@ -509,6 +511,7 @@ No need to mention the author.
 - [Dribbble](https://dribbble.com/) Show and tell for designers. 🌟
 - [Behance](https://www.behance.net/) Showcase and discover the latest work from top online portfolios by creative professionals across industries. 🌟
 - [Medium](https://medium.com/) is a place to read, write, and interact with the stories that matter most to you. 🌟
+- [dev.to](https://dev.to/) is an online community for sharing and discovering great ideas, having debates, and making friends. 🌟
 - [Fribbble](http://www.fribbble.com/) Free PSD files and other free design resources by Dribbblers.
 - [DeviantArt](http://www.deviantart.com/) The largest online art gallery and community.
 - [CARGO](https://2.cargocollective.com)
