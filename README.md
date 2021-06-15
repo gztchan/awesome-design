@@ -513,6 +513,12 @@ No need to mention the author.
 - [CARGO](https://2.cargocollective.com)
 - [tumblr](https://www.tumblr.com/) Come for what you love. Stay for what you discover.
 
+## Contributors
+
+Thank you for contributing AwesomeDesign.
+
+[![contributors](https://opencollective.com/awesome-design/contributors.svg?width=890&button=false)](https://github.com/gztchan/awesome-design/graphs/contributors)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
