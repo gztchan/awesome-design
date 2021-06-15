@@ -515,7 +515,7 @@ No need to mention the author.
 
 ## Contributors
 
-Thank you for contributing AwesomeDesign.
+Thank you for contributing to AwesomeDesign.
 
 [![contributors](https://opencollective.com/awesome-design/contributors.svg?width=890&button=false)](https://github.com/gztchan/awesome-design/graphs/contributors)
 
