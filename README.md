@@ -512,6 +512,7 @@ No need to mention the author.
 - [DeviantArt](http://www.deviantart.com/) The largest online art gallery and community.
 - [CARGO](https://2.cargocollective.com)
 - [tumblr](https://www.tumblr.com/) Come for what you love. Stay for what you discover.
+- [Open Source Design](https://opensourcedesign.net/) Community devoted to open source design. 
 
 ## Contributors
 
