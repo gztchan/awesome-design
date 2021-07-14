@@ -210,6 +210,8 @@ No need to mention the author.
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- [Sympli Handoff](https://sympli.io/handoff) Share specs and assets, then inspect designs and make pixel-perfect apps faster online or with plugins for Android Studio and Xcode.
+- [Sympli Versions](https://sympli.io/versions) Full-featured version control tool for designers. Works with GitHub, GitLab, Bitbucket and Azure Devops.
 
 ## Prototyping
 
