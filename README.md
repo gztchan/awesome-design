@@ -90,6 +90,7 @@ No need to mention the author.
 - [Color Claim](http://colorclaim.tumblr.com/)
 - [Color Hunt](http://colorhunt.co/) is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 - [CSS Colours Name](http://colours.neilorangepeel.com/)
+- [CSS Gradient](https://cssgradient.io/)
 - [rgb.to](http://rgb.to/)
 - [Color Code](http://www.colourco.de/)
 - [Colorrrs](http://www.webpagefx.com/web-design/hex-to-rgb/)
