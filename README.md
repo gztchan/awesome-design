@@ -112,6 +112,7 @@ No need to mention the author.
 - [Gradienta](https://gradienta.io/) Multicolor CSS Gradients, JPG Downloads, 100% Free!
 - [Veranda Color](https://verandacolor.com) Browse color palettes made by other designers, generate and submit your own.
 - [Hexcolorpedia](https://hexcolorpedia.com/) - Hex color information, Color conversion, Shades, tints, tones, Pantone match, color blending and huge Color palettes collection.
+- iColorpalette - Create, browse or export (aco, ase, svg, png, pdf) color palettes by color or themes.
 
 ## Icon and Logo
 
