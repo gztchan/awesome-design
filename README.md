@@ -77,6 +77,7 @@ No need to mention the author.
 - [butdoesitfloat](http://butdoesitfloat.com/)
 - [AllTheFreeStock](http://allthefreestock.com/)
 - [UI Faces](https://uifaces.co/) UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.
+- [avataaars](https://avataaars.com) Create avatar illustrations in Sketch App with this free library. Combine clothes, hair, emotions, accessories, and colors.
 
 ## Color
 
