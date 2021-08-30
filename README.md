@@ -502,6 +502,8 @@ No need to mention the author.
 - [The Hacking UI Podcast](http://hackingui.com/podcast/) is hosted by Sagi Shrieber and David Tintner, who are both a designer and developer as well as entrepreneurs, bloggers, productivity/time-hacker maniacs, and all around tech geeks.
 - [CodePen Radio](https://blog.codepen.io/radio/) is a podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
 - [UX COFFEE - 设计咖](http://www.uxcoffee.com/) 设计无处不在。在这个节目里，我们试图探寻设计的力量、这个世界被创造的过程、以及参与设计了这个世界的人们。主播：Riceman、Hoka、帆啊帆、张挠挠。
+- [Interface FM](https://anchor.fm/interfacefm) is a podcast by PeopleWho.Design community focusing on Indian Design community.
+- [Whiteboard FM](https://anchor.fm/whiteboardfm) is an interview series podcast where they talk to designers about how they got started in design, their internship and job experiences. It is by the 10k Designers community.
 
 ## Community
 
@@ -512,6 +514,7 @@ No need to mention the author.
 - [DeviantArt](http://www.deviantart.com/) The largest online art gallery and community.
 - [CARGO](https://2.cargocollective.com)
 - [tumblr](https://www.tumblr.com/) Come for what you love. Stay for what you discover.
+- [Pinterest](http://pinterest.com/) great place to create moodboards and get inspiration.
 
 ## Contributors
 
