@@ -15,16 +15,16 @@ People, including developers, designers, scientists and others, create awesome t
 
 #### Contents
 
-### **Get things done**
+**Get things done**
 
-- [**Stock**](#stock)
-- [**Icon and Logo**](#icon-and-logo)
-- [**Color**](#color)
-- [**Typography**](#typography)
-- [**Toolkit**](#toolkit)
-- [**Prototyping**](#prototyping)
-- [**Mockup**](#mockup)
-- [**User Testing**](#user-testing)
+- [Stock](#stock)
+- [Icon and Logo](#icon-and-logo)
+- [Color](#color)
+- [Typography](#typography)
+- [Toolkit](#toolkit)
+- [Prototyping](#prototyping)
+- [Mockup](#mockup)
+- [User Testing](#user-testing)
 
 **Concepts**
 
@@ -78,8 +78,6 @@ No need to mention the author.
 - [AllTheFreeStock](http://allthefreestock.com/)
 - [UI Faces](https://uifaces.co/) UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.
 
-[👆 Back To Top](#contents)
-
 ## Color
 
 - [Coolors](https://coolors.co/) The super fast color schemes generator!
@@ -113,8 +111,6 @@ No need to mention the author.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
 - [Gradienta](https://gradienta.io/) Multicolor CSS Gradients, JPG Downloads, 100% Free!
 - [Veranda Color](https://verandacolor.com) Browse color palettes made by other designers, generate and submit your own.
-
-[👆 Back To Top](#contents)
 
 ## Icon and Logo
 
@@ -159,8 +155,6 @@ No need to mention the author.
 - [Iconfont+](http://www.iconfont.cn/) 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
 - [CoreUI Icons](http://coreui.io/icons/) Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
-[👆 Back To Top](#contents)
-
 ## Typography
 
 - [typography](https://www.typography.com/)
@@ -195,8 +189,6 @@ No need to mention the author.
 - [TypeNetwork](https://www.typenetwork.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 
-[👆 Back To Top](#contents)
-
 ## Toolkit
 
 - [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins](https://github.com/sketchplugins/plugin-directory), [Sketch.im](http://sketch.im/).🌟
@@ -219,8 +211,6 @@ No need to mention the author.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
 
-[👆 Back To Top](#contents)
-
 ## Prototyping
 
 - [Marvel](https://marvelapp.com/) Simple design, prototyping and collaboration.
@@ -242,8 +232,6 @@ No need to mention the author.
 - [POP](https://marvelapp.com/pop/?popref=1) Transform pen and paper ideas into a real working prototype.
 - [Prott](https://prottapp.com/) Prototyping tool for Web, iOS, Android apps.
 
-[👆 Back To Top](#contents)
-
 ## Mockup
 
 - [Mockup World](https://www.mockupworld.co/) handpicks and presents the best photorealistic Photoshop mockups that designers and agencies worldwide have published online.
@@ -262,8 +250,6 @@ No need to mention the author.
 - [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
 - [Device Shots](https://deviceshots.com) is a tool that helps you create beautiful device mockups to share on social media platforms, with the screenshot of your website or mobile application, for free.
 
-[👆 Back To Top](#contents)
-
 ## User Testing
 
 - [Lookback.io](https://lookback.io/) Capture exactly how users experience your product: no guesswork required.
@@ -281,8 +267,6 @@ No need to mention the author.
 - [Inspectlet](https://www.inspectlet.com/) Captures user actions and browsing, generates heatmaps, records with a realtime timeline
 - [Clicktale](https://www.clicktale.com) is a user experience management platform.
 - [Maze Design](http://maze.design) is a great way to conduct user interviews
-
-[👆 Back To Top](#contents)
 
 ## Read and Digest
 
@@ -384,8 +368,6 @@ No need to mention the author.
 - [CodeMyUI](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets.
 - [A List Apart](https://alistapart.com/) has been discussing design, development and meaning of web content since 1997 and remains a great resource for designers and programmers alike.
 
-[👆 Back To Top](#contents)
-
 ## Styleguide and Branding
 
 - [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/)
@@ -431,8 +413,6 @@ No need to mention the author.
 - [Ant Design](http://ant.design) is a design system with values of Nature and Determinacy for better user experience of enterprise applications.
 - [Audi](https://www.audi.com/ci/en/renewed-brand.html) Audi Corporate Identity Portal
 
-[👆 Back To Top](#contents)
-
 ## Tutorial
 
 - [Lynda](https://www.lynda.com/) is a leading online learning platform that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. 🌟
@@ -444,8 +424,6 @@ No need to mention the author.
 - [DevDojo](https://devdojo.com/)
 - [Platzi](https://courses.platzi.com) Growth marketing Course.
 - [greyscalegorilla](https://greyscalegorilla.com/)
-
-[👆 Back To Top](#contents)
 
 ## Book
 
@@ -464,8 +442,6 @@ No need to mention the author.
 - [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
 - [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
 
-[👆 Back To Top](#contents)
-
 ## Award
 
 - [Good Design Award](http://www.g-mark.org/?locale=en) has been a sole comprehensive design evaluation and commendation system in Japan sin 1957.
@@ -479,8 +455,6 @@ No need to mention the author.
 - [D&AD](https://www.dandad.org/)
 - [Awwwards](https://www.awwwards.com/) The awards for design, creativity and innovation on the Internet. 🌟
 - [CSS Winner](http://www.csswinner.com/) is a unique global platform awarding and showcasing the best websites and promoting innovative web designers, developers and agencies.
-
-[👆 Back To Top](#contents)
 
 ## Conference and Festival
 
@@ -507,8 +481,6 @@ No need to mention the author.
 - [CreativeMornings](https://creativemornings.com/) is a breakfast lecture series for the creative community.
 - [CodePen Meetups](https://blog.codepen.io/meetups/) for like-minded code people to hang out, do show-and-tell, and bask in the lovely culture that is front end.
 
-[👆 Back To Top](#contents)
-
 ## Podcast
 
 - [99% INVISIBLE](http://99percentinvisible.org/)
@@ -531,8 +503,6 @@ No need to mention the author.
 - [CodePen Radio](https://blog.codepen.io/radio/) is a podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
 - [UX COFFEE - 设计咖](http://www.uxcoffee.com/) 设计无处不在。在这个节目里，我们试图探寻设计的力量、这个世界被创造的过程、以及参与设计了这个世界的人们。主播：Riceman、Hoka、帆啊帆、张挠挠。
 
-[👆 Back To Top](#contents)
-
 ## Community
 
 - [Dribbble](https://dribbble.com/) Show and tell for designers. 🌟
@@ -542,8 +512,6 @@ No need to mention the author.
 - [DeviantArt](http://www.deviantart.com/) The largest online art gallery and community.
 - [CARGO](https://2.cargocollective.com)
 - [tumblr](https://www.tumblr.com/) Come for what you love. Stay for what you discover.
-
-[👆 Back To Top](#contents)
 
 ## Contributors
 
@@ -556,5 +524,3 @@ Thank you for contributing to AwesomeDesign.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Tony Chan](https://github.com/gztchan) has waived all copyright and related or neighboring rights to this work.
-
-[👆 Back To Top](#contents)
