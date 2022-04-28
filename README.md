@@ -441,6 +441,7 @@ No need to mention the author.
 - [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
 - [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
 - [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
+- [How Design Makes Us Think](https://www.perlego.com/book/2059791/how-design-makes-us-think-and-feel-and-do-things-pdf)
 
 ## Award
 
