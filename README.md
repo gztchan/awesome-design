@@ -210,6 +210,7 @@ No need to mention the author.
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- [Visily](https://www.visily.ai/) AI-powered design tool that enables anyone, regardless of their design skills, to create beautiful app mockups with little effort.
 
 ## Prototyping
 
