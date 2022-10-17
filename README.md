@@ -83,6 +83,7 @@ No need to mention the author.
 - [Coolors](https://coolors.co/) The super fast color schemes generator!
 - [Colordot](https://color.hailpixel.com/)
 - [Brand Colors](https://brandcolors.net/) The biggest collection of official brand color codes around.
+- [Branition Colors](https://branition.com/colors) Hand-curated collection of color pallets best fitted for branding.
 - [Material Design Palette](https://www.materialpalette.com/)
 - [Flat UI Color Picker](http://www.flatuicolorpicker.com/)
 - [LOL COLORS](https://www.webdesignrankings.com/resources/lolcolors/) Curated color palette inspiration.
