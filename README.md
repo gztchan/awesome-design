@@ -412,6 +412,7 @@ No need to mention the author.
 - [NASA 1976](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 - [Ant Design](http://ant.design) is a design system with values of Nature and Determinacy for better user experience of enterprise applications.
 - [Audi](https://www.audi.com/ci/en/renewed-brand.html) Audi Corporate Identity Portal
+- [Flowbite](https://www.figma.com/community/file/1179442320711977498?fuid=733746812394006885) is a design system built for integration with Tailwind CSS
 
 ## Tutorial
 
