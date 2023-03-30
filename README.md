@@ -206,7 +206,8 @@ No need to mention the author.
 - [Iconjar](https://geticonjar.com/) Organize, search and use icons the easy way.
 - [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac.
 - [Inkscape](https://inkscape.org/en/) Free vector graphics tool.
-- [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration. 🌟
+- [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration.
+- [Judo](https://www.judo.app/) Interface design and build tool that translates your designs to SwiftUI. 🌟
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
