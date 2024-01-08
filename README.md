@@ -1,82 +1,73 @@
 # Awesome Design
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/gztchan/awesome-design.svg?branch=master)](https://travis-ci.org/gztchan/awesome-design)
 [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/gztchan/awesome-design/pulls)
 
 > Awesome Design focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work. Thanks to the community,
-the repo keeps being updated continuously from people around the world who provide amazing resources.
-Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issues/new) or create [pull request](https://github.com/gztchan/awesome-design/pulls) to share your intelligence.
+> the repo keeps being updated continuously from people around the world who provide amazing resources.
+> Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issues/new) or create [pull request](https://github.com/gztchan/awesome-design/pulls) to share your intelligence.
 
 ![design](/design.png)
 
-#### What should I do with the curated resources?
+## What should I do with the curated resources?
 
 People, including developers, designers, scientists and others, create awesome things every single day. To be honest, we who are not superheroes, can't know all best things from the world. So, for saving your time, i suggest you to pick those you like, take benefits from them, and finally put it into your kit. :smile:
 
-#### Contents
+## Contents
 
-**Get things done**
-
-- [Stock](#stock)
-- [Icon and Logo](#icon-and-logo)
-- [Color](#color)
-- [Typography](#typography)
-- [Toolkit](#toolkit)
-- [Prototyping](#prototyping)
-- [Mockup](#mockup)
-- [User Testing](#user-testing)
-
-**Concepts**
-
-- [Read and Digest](#read-and-digest)
-- [Styleguide and Branding](#styleguide-and-branding)
-- [Tutorial](#tutorial)
-- [Book](#book)
 - [Award](#award)
-- [Conference and Festival](#conference-and-festival)
-- [Podcast](#podcast)
+- [Book](#book)
+- [Color](#color)
 - [Community](#community)
+- [Conference and Festival](#conference-and-festival)
+- [Contributors](#contributors)
+- [Icon and Logo](#icon-and-logo)
+- [Inspiration](#inspiration)
+- [License](#license)
+- [Mockup](#mockup)
+- [Podcast](#podcast)
+- [Prototyping](#prototyping)
+- [Read and Digest](#read-and-digest)
+- [Stock](#stock)
+- [Styleguide and Branding](#styleguide-and-branding)
+- [Toolkit](#toolkit)
+- [Tutorial](#tutorial)
+- [Typography](#typography)
+- [User Testing](#user-testing)
+- [What should I do with the curated resources?](#what-should-i-do-with-the-curated-resources)
 
-## Stock
+## Award
 
-- [Albumarium](http://albumarium.com/) "The best place to find & share beautiful images."
-- [The Stocks](http://thestocks.im/) "The best royalty free stock photos are delivered now along with videos, audios, icons, fonts and colors."
-- [Polayoutu](http://www.polayoutu.com/collections) is community of photographers based in China who contribute photos under the Creative Common Zero License. 🌟
-- [Illusion](http://illusion.scene360.com/)
-- [Baubauhaus](http://www.baubauhaus.com/) feed your daily need of design, illustration, photography, fashion and of all else art-related.
-- [500px](https://web.500px.com/) over 15 million photographers from 195 countries. 🌟
-- [1x](https://1x.com/) Shop wall art by 16000+ Curated Artists. 🌟
-- [LIFE OF PIX](http://www.lifeofpix.com/) Free high-resolution photos, no copyrights restrictions for personal and commercial use.
-- [Unsplash](https://unsplash.com/)
-- [Stokpic](http://stokpic.com/)
-- [Raumrot](https://www.howtostartanllc.org/free-stock-photos/)
-- [Death to Stock](http://deathtothestockphoto.com/)
-- [Gratisography](http://www.gratisography.com/) "The world’s quirkiest collection of high-resolution free stock images."
-- [picjumbo](https://picjumbo.com/) Download free stock photos, backgrounds and images in high‑resolution for personal and commercial use.
-- [Magdeleine](https://magdeleine.co/browse/) Hand-picked free photos for your inspiration.
-- [Pexels](https://www.pexels.com/) "The best free stock photos & videos shared by talented creators."
-- [imcreator](http://imcreator.com/)
-- [Startup Stock Photos](http://startupstockphotos.com/) Free photos for startups, bloggers, publishers, websites, designers, developers, creators,
-& everyone else.
-- [New Old Stock Photos](http://nos.twnsnd.co/) Vintage photos from the public archives, free of known copyright restrictions. recapturing history.
-- [Realistics Shots](http://realisticshots.com/) Free stock photos (high resolution) for personal and commercial use. 7 new photos every week.
-- [SplitShire](https://www.splitshire.com/) Free stock photos for commercial use.
-- [FancyCrave](http://fancycrave.com/) Free travel photos for commercial use.
-- [LIBRESHOT](https://libreshot.com/) Free fine art and ordinary photography. Free images for blogs or websites even for commercial use.
-No need to mention the author.
-- [BARNIMAGES](https://barnimages.com/) Free high-resolution images for everyone.
-- [MMT](https://mmtstock.com/) Free photos and videos for commercial use.
-- [JAY MANTRI](http://jaymantri.com/) free pics. do anything(CC0). make magic.
-- [FoodiesFeed](https://www.foodiesfeed.com/) is a resource of awesome naturally looking food photos that are completely free to download.
-- [Little Visuals](http://littlevisuals.co/)
-- [Bucketlistly Blog](http://photos.bucketlistly.com/) A free creative commons (Attribution-NonCommercial) collection of over 8000+ travel photos from all over the world anyone can use.
-- [Pinterest](https://www.pinterest.com/) is a social media web and mobile application company that operates a software system designed to discover information on the World Wide Web. 🌟
-- [pixabay](https://pixabay.com/) Over 1 million+ high quality stock images and videos shared by our talented community.
-- [depositphotos](https://depositphotos.com/) Over 100 million high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
-- [Stocksy](https://www.stocksy.com) is home to a highly curated collection of royalty-free stock photography and video footage that is beautiful, distinctive, and highly usable.
-- [butdoesitfloat](http://butdoesitfloat.com/)
-- [AllTheFreeStock](http://allthefreestock.com/)
-- [UI Faces](https://uifaces.co/) UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.
+- [Good Design Award](http://www.g-mark.org/?locale=en) has been a sole comprehensive design evaluation and commendation system in Japan sin 1957.
+- [Red Dot Award](http://en.red-dot.org/) stands for belonging to the best in design and business. It's international design competition, the “Red Dot Design Award”, is aimed at all those who would like to distinguish their business activities through design. 🌟
+- [Apple Design Awards](https://developer.apple.com/design/awards/) is a special event hosted by Apple Inc. at its annual Worldwide Developers Conference. 🌟
+- [iF Product Design Award](http://ifworlddesignguide.com/) was introduced in 1954 and is annually conferred by the iF International Forum Design. The award, which spans multiple disciplines, has more than 5,500 entries from around 59 nations every year. 🌟
+- [FWA](https://thefwa.com/) to showcase cutting edge creativity, regardless of the medium or technology used.
+- [CSS Design Awards](http://www.cssdesignawards.com/) is a web design & development award platform for digital folk, UI/UX peeps and inspiring leaders of the web.
+- [CSS Awards](https://www.cssawards.net/) is a web designer/agency/studio inspiration gallery, where a high quality of CSS websites placed from around the world.
+- [Creative AD Awards](http://www.creativeadawards.com/) Discover the Most Creative & Sophisticated Advertising Campaigns around the World.
+- [D&AD](https://www.dandad.org/)
+- [Awwwards](https://www.awwwards.com/) The awards for design, creativity and innovation on the Internet. 🌟
+- [CSS Winner](http://www.csswinner.com/) is a unique global platform awarding and showcasing the best websites and promoting innovative web designers, developers and agencies.
+
+## Book
+
+- [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=sr_1_2?s=books&ie=UTF8&qid=1473096298&sr=1-2&keywords=Universal+Methods+of+Design)
+- [Universal Methods of Design](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561/ref=pd_sim_14_3?ie=UTF8&psc=1&refRID=2NG71RWR7MKGXE1B8GZ3)
+- [Don't Make Me Think](https://www.amazon.com/gp/product/0321965515/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321965515&linkCode=as2&tag=office03a70-20&linkId=PF4EASLP4EM62N73)
+- [About Face: The Essentials of Interaction Design](https://www.amazon.com/gp/product/1118766571/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118766571&linkCode=as2&tag=office03a70-20&linkId=I5TMKUXHZ43SHHPE)
+- [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830)
+- [Simple and Usable Web, Mobile, and Interaction Design](https://www.amazon.com/gp/product/0321703545)
+- [Lean UX: Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)
+- [Designing Interfaces](https://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702)
+- [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535)
+- [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Guidelines-Ensuring-Experience/dp/0123852412)
+- [Thinking with Type](https://www.amazon.com/gp/product/1568989695/)
+- [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
+- [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
+- [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
+- [Good Books](https://www.goodbooks.io/categories/design) Collection of the best design books
 
 ## Color
 
@@ -111,6 +102,41 @@ No need to mention the author.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
 - [Gradienta](https://gradienta.io/) Multicolor CSS Gradients, JPG Downloads, 100% Free!
 - [Veranda Color](https://verandacolor.com) Browse color palettes made by other designers, generate and submit your own.
+
+## Community
+
+- [Dribbble](https://dribbble.com/) Show and tell for designers. 🌟
+- [Behance](https://www.behance.net/) Showcase and discover the latest work from top online portfolios by creative professionals across industries. 🌟
+- [Medium](https://medium.com/) is a place to read, write, and interact with the stories that matter most to you. 🌟
+- [Fribbble](http://www.fribbble.com/) Free PSD files and other free design resources by Dribbblers.
+- [DeviantArt](http://www.deviantart.com/) The largest online art gallery and community.
+- [CARGO](https://2.cargocollective.com)
+- [tumblr](https://www.tumblr.com/) Come for what you love. Stay for what you discover.
+
+## Conference and Festival
+
+- [Uideo](https://uideo.net) talks for designers from 69 ux/ui conferences all over the world.
+- [MAX](https://max.adobe.com/) Get inspired. Learn skills. Play.
+- [The AIGA Design Conference](http://designconference.aiga.org/#!/)
+- [SXSW](https://www.sxsw.com/) founded in 1987 in Austin, Texas, SXSW is best known for its conference and festivals that celebrate the convergence of the interactive, film, and music industries.
+- [ICON9](http://www.theillustrationconference.org/) brings together top illustrators, designers, educators, representatives, and art buyers to explore the future of illustration.
+- [Mirror](http://www.mirrorconf.com) is a conference designed to empower designers and front-end developers who have a thirst for knowledge and want to broaden their horizons.
+- [Interaction](http://interaction16.ixda.org/)
+- [Offset](http://www.iloveoffset.com/) has fast become one of the world’s most inspirational, educational and vocational conferences for the design and creative industries.
+- [99U](http://conference.99u.com/) Adobe 99U Conference.
+- [Typographics](http://typographics.com) is a multi-part event series foc­used on con­tempo­rary typo­graphy and where its future may lie.
+- [Brand New Conference](http://underconsideration.com/brandnewconference/) is a two-day event organized by UnderConsideration.
+- [How Design Live](http://www.howdesignlive.com/) is one of the largest annual gatherings of creative professionals in the world, HOW Design Live is a career-changing, life-altering experience.
+- [Better by Design](http://betterbydesignconference.com/) is about conference & workshops.
+- [What Design Can Do](http://www.whatdesigncando.com/) is an international platform on the impact of design.
+- [Design and Content](https://www.designcontentconf.com/) The Conference for Designers & Content Strategists — we're better together.
+- [generate](https://www.generateconf.com/) the award winning conference for web designers returns to NYC!
+- [Typo International Design Talks](https://www.typotalks.com/) is where the world’s design experts speak
+- [Service Design Days](http://servicedesigndays.com/)
+- [SemiPermanent](https://www.semipermanent.com)
+- [Dribbble Meetups](https://dribbble.com/meetups) are a chance for designers to socialize, talk shop, and foster their local design communities.
+- [CreativeMornings](https://creativemornings.com/) is a breakfast lecture series for the creative community.
+- [CodePen Meetups](https://blog.codepen.io/meetups/) for like-minded code people to hang out, do show-and-tell, and bask in the lovely culture that is front end.
 
 ## Icon and Logo
 
@@ -154,62 +180,55 @@ No need to mention the author.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) is an ultimate SVG icons collection done right.
 - [Iconfont+](http://www.iconfont.cn/) 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
 - [CoreUI Icons](http://coreui.io/icons/) Premium designed free icon set with marks in SVG, Webfont and raster formats.
+- [Open peeps](https://www.openpeeps.com/) Open Peeps is a hand-drawn illustration library to create scenes of people.
+- [Undraw](https://undraw.co) The design project with open-source illustrations for any idea you can imagine and create.
+- [Feather Icons](https://feathericons.com/) Feather is a collection of simply beautiful open-source icons.
 
-## Typography
+## Inspiration
 
-- [typography](https://www.typography.com/)
-- [i love typography](http://ilovetypography.com/) was born on August 7, 2007. It exists because I have a passion for typography, type design, and lettering, and for the pages, words, and letters born of those disciplines.
-- [Type is Beautiful](https://www.typeisbeautiful.com/) 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
-- [Butterick's Practical Typography](http://practicaltypography.com/)
-- [Fonts](https://www.fonts.com/) store from Monotype offers more than 150,000 desktop and Web font products for you to preview, purchase and download. You can also learn about new typeface releases and discover typographic tips and techniques.
-- [Font Squirrel](https://www.fontsquirrel.com/) 100% free for commercial use.
-- [Typewolf](https://www.typewolf.com/) what’s trending in type.
-- [Type Novel](http://typenovel.tumblr.com/)
-- [Fonts In Use](https://fontsinuse.com/) is a public archive of typography indexed by typeface, format, industry, and period.
-- [My Fonts](http://www.myfonts.com/)
-- [The Designers Foundry](https://www.thedesignersfoundry.com/)
-- [Adobe Fonts](https://fonts.adobe.com/fonts) Enjoy quick browsing, easy use in desktop applications or on the web, and endless typographic inspiration.
-- [Google Fonts](https://fonts.google.com/)
-- [Google Font Combinations](https://femmebot.github.io/google-type/)
-- [justfont](http://blog.justfont.com/) 是新世代字型設計暨推廣教育團隊，致力於培育台灣下一代的設計力量。
-- [Font Library](http://katydecorah.com/font-library/)
-- [Type Guide](http://www.typogui.de/) A Pocket Guide to Master Every Day’s Typographic Adventures.
-- [workmark](https://wordmark.it/)
-- [fontfling](http://fontfling.com/)
-- [Glyphr Studio](http://www.glyphrstudio.com/online/)
-- [Lost Type](http://www.losttype.com/browse/) is a collaborative digital type foundry.
-- [Brick](http://brick.im/)
-- [Village](https://vllg.com/)
-- [Klim](https://klim.co.nz/)
-- [Milieu Grotesque](https://www.milieugrotesque.com/) is an independent type foundry, offering an exclusive library of digital typefaces and related products.
-- [Lineto](https://lineto.com/)
-- [Colophon](https://www.colophon-foundry.org/) is an international, award-winning type foundry based in London (UK) and Los Angeles (US).
-- [T26](https://www.t26.com/)
-- [Typ.io](https://typ.io) at Typ.io, we're revealing designers' decisions for all to see; peeking under the hood of beautiful websites to find out what fonts they're using and how they're using them.
-- [TypeNetwork](https://www.typenetwork.com/)
-- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+- [Dribbble](https://dribbble.com)
+- [Mobbin](https://mobbin.design)
+- [UI Movement](https://uimovement.com/) The best UI design inspiration, every day.
 
-## Toolkit
+## Mockup
 
-- [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins](https://github.com/sketchplugins/plugin-directory), [Sketch.im](http://sketch.im/).🌟
-- [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) Best imaging and design app is at the core of almost every creative project. [PSD Repo](https://psdrepo.com/), [PSDDD](https://psddd.co/). 🌟
-- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. 🌟
-- [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) Bold new ways to put your ideas in motion. v
-- [Adobe Project Felix](http://www.adobe.com/products/project-felix.html) A new app for working with 3D models, materials, and lights with 2D background images to create fully rendered, high-quality images with photorealistic effects.
-- [Adobe XD](https://www.adobe.com/products/xd.html) Vector-based tool for designing and prototyping user experience for web and mobile apps. 🌟
-- [Zeplin](https://zeplin.io/) Build pixel perfect apps in peace.
-- [Panda](http://usepanda.com/) A smart news reader built for productivity, powered by integrations.
-- [INBOARD](https://inboardapp.com/) Organize your inspiration.
-- [Sip](http://sipapp.io/) The best way to collect, organize & share your colors.
-- [RightFont](https://rightfontapp.com/) The future of font manager software for Mac OS X.
-- [Dropbox](https://www.dropbox.com/) Get to all your files from anywhere, on any device, and share them with anyone. 🌟
-- [Iconjar](https://geticonjar.com/) Organize, search and use icons the easy way.
-- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac.
-- [Inkscape](https://inkscape.org/en/) Free vector graphics tool.
-- [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration. 🌟
-- [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
-- [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
-- [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- [Mockup World](https://www.mockupworld.co/) handpicks and presents the best photorealistic Photoshop mockups that designers and agencies worldwide have published online.
+- [Placeit](https://placeit.net/) marry design and technology to create high-quality branding and marketing tools so anyone from individuals to large companies can create amazing visual assets for their brand regardless of technical or artistic skills.
+- [Epicpxls](https://www.epicpxls.com/) Free & premium curated fonts, graphics, templates, mobile app designs & UI Kits.
+- [360 Mockups](https://360mockups.com/) Totally FREE to download PSD Mockups to present your works.
+- [Facebook Devices](http://facebook.design/devices) Images and Sketch files of popular devices.
+- [Facebook HandsKit](http://facebook.design/handskit) Photos of hands holding various phones, to be used in any presentation of your designs.
+- [UINames](https://uinames.com/) is a simple tool to generate fake names for use in designs and mockups.
+- [NinjaMock](https://ninjamock.com/) is a small startup based in Denmark, a country famous for its strong attitude towards design and quality.
+- [Smartmockups app](https://smartmockups.com/) The #1 tool for creating stunning marketing images.
+- [Froala Design Blocks](https://www.froala.com/design-blocks) Over 170 responsive design blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
+- [ScreenSpace](https://www.screenspace.io)
+- [Rotato 3D mockups](https://rotato.xyz)
+- [Lorem Ipsum](http://www.lipsum.com/feed/html)
+- [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
+- [Device Shots](https://deviceshots.com) is a tool that helps you create beautiful device mockups to share on social media platforms, with the screenshot of your website or mobile application, for free.
+
+## Podcast
+
+- [99% INVISIBLE](http://99percentinvisible.org/)
+- [Shop Talk](http://shoptalkshow.com/) is an internet radio show about the internet starring [Dave Rupert](http://daverupert.com/) and [Chris Coyier](http://chriscoyier.net/).
+- [workmode](http://workmode.show/) is a podcast series about being a pro.
+- [UX Podcast](http://uxpodcast.com/) is a twice-monthly digital design podcast sharing insights about business, technology and people since 2011.
+- [Anyway.fm - 设计杂谈](http://anyway.fm/) 是一档播客节目，由 UI 设计师 JJ Ying 和 Leon Gao 主播，我们的目标是让你的听觉更懂视觉。
+- [The Deeply Graphic Design](http://thedeependdesign.com/graphic-design-podcast/) The web + graphic design podcast that offsers both pratical and creative design advice you can use.
+- [Tentative.fm](http://tentative.fm/) is a podcast about digital product design. Hosted by thoughtbot's Chief Design Officer Kyle Fiedler & Boston Design Director Jaclyn Perrone.
+- [Pagebreak](http://www.pagebreakpodcast.com/) is an audio podcast hosted by [Liz Andrade](http://cmdshiftdesign.com/) and [Niki Brown](http://nikibrown.com/).
+- [Design Matters](http://www.debbiemillman.com/designmatters/) The world's first podcast about design and an inquiry into the broader world of creative culture through wide-ranging conversations with designers, writers, artists, curators, musicians, and other luminaries of contemporary thought
+- [The Greate Discontent Podcast](https://thegreatdiscontent.com/podcast) features in-depth conversations with today’s artists, makers, and risk-takers.
+- [Design Details Podcast](https://spec.fm/podcasts/design-details) A weekly conversation about design process and culture.
+- [Layout.fm](http://layout.fm/) A weekly podcast about design, technology, programming and everything else.
+- [Type is Beautiful - 字谈字畅](https://itunes.apple.com/podcast/zi-tan-zi-chang/id1041704528) 是第一档用华语制作的字体排印主题播客节目，由 Eric Liu 与钱争予搭档主播。
+- [Boagworld UX Show](https://boagworld.com/show/) Every Thursday Paul Boag and Marcus Lillington are joined by a variety of guests to discuss a range of web design related topics.
+- [Responsive Web Design Podcast](https://responsivewebdesign.com/podcast/) Karen and Ethan interview the people who make responsive redesigns happen.
+- [Adventures in Design](http://www.adventuresindesignmarket.com/)
+- [The Hacking UI Podcast](http://hackingui.com/podcast/) is hosted by Sagi Shrieber and David Tintner, who are both a designer and developer as well as entrepreneurs, bloggers, productivity/time-hacker maniacs, and all around tech geeks.
+- [CodePen Radio](https://blog.codepen.io/radio/) is a podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
+- [UX COFFEE - 设计咖](http://www.uxcoffee.com/) 设计无处不在。在这个节目里，我们试图探寻设计的力量、这个世界被创造的过程、以及参与设计了这个世界的人们。主播：Riceman、Hoka、帆啊帆、张挠挠。
 
 ## Prototyping
 
@@ -231,42 +250,6 @@ No need to mention the author.
 - [MockingBot](https://modao.cc/) Mobile prototyping tool without headache.
 - [POP](https://marvelapp.com/pop/?popref=1) Transform pen and paper ideas into a real working prototype.
 - [Prott](https://prottapp.com/) Prototyping tool for Web, iOS, Android apps.
-
-## Mockup
-
-- [Mockup World](https://www.mockupworld.co/) handpicks and presents the best photorealistic Photoshop mockups that designers and agencies worldwide have published online.
-- [Placeit](https://placeit.net/) marry design and technology to create high-quality branding and marketing tools so anyone from individuals to large companies can create amazing visual assets for their brand regardless of technical or artistic skills.
-- [Epicpxls](https://www.epicpxls.com/) Free & premium curated fonts, graphics, templates, mobile app designs & UI Kits.
-- [360 Mockups](https://360mockups.com/) Totally FREE to download PSD Mockups to present your works.
-- [Facebook Devices](http://facebook.design/devices) Images and Sketch files of popular devices.
-- [Facebook HandsKit](http://facebook.design/handskit) Photos of hands holding various phones, to be used in any presentation of your designs.
-- [UINames](https://uinames.com/) is a simple tool to generate fake names for use in designs and mockups.
-- [NinjaMock](https://ninjamock.com/) is a small startup based in Denmark, a country famous for its strong attitude towards design and quality.
-- [Smartmockups app](https://smartmockups.com/) The #1 tool for creating stunning marketing images.
-- [Froala Design Blocks](https://www.froala.com/design-blocks) Over 170 responsive design blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.
-- [ScreenSpace](https://www.screenspace.io)
-- [Rotato 3D mockups](https://rotato.xyz)
-- [Lorem Ipsum](http://www.lipsum.com/feed/html)
-- [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
-- [Device Shots](https://deviceshots.com) is a tool that helps you create beautiful device mockups to share on social media platforms, with the screenshot of your website or mobile application, for free.
-
-## User Testing
-
-- [Lookback.io](https://lookback.io/) Capture exactly how users experience your product: no guesswork required.
-- [UserTesting](https://www.usertesting.com/) Get videos of real people speaking their thoughts as they use your website or mobile app. Go beyond analytics and understand why users do what they do.
-- [UserBrain](https://userbrain.net/) Keep getting videos of real people testing your website, web app or prototype and make it ridiculously easy to use.
-- [Reflector](http://www.airsquirrels.com/reflector/) Wireless mirroring and streaming receiver.
-- [User Zoom](http://www.userzoom.co.uk/) All-in-One Agile UX Research Platform.
-- [Ethn.io](https://ethn.io/) Remote user testing suite. Intercept real people for user research.
-- [Usabilla](https://usabilla.com/) Customer feedback and survey tool.
-- [UserTest.io](https://usertest.io/) Remote, easy and simple user testing.
-- [Validately](https://validately.com/) Easy way to recruit testers, launch tests, and analyze results.
-- [Users Think](http://usersthink.com/) Get user feedback from real people, on demand, when you need it.
-- [CrazyEgg](https://www.crazyegg.com/) Heatmapping software.
-- [HotJar](https://www.hotjar.com/) Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys
-- [Inspectlet](https://www.inspectlet.com/) Captures user actions and browsing, generates heatmaps, records with a realtime timeline
-- [Clicktale](https://www.clicktale.com) is a user experience management platform.
-- [Maze Design](http://maze.design) is a great way to conduct user interviews
 
 ## Read and Digest
 
@@ -368,6 +351,47 @@ No need to mention the author.
 - [CodeMyUI](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets.
 - [A List Apart](https://alistapart.com/) has been discussing design, development and meaning of web content since 1997 and remains a great resource for designers and programmers alike.
 
+## Stock
+
+- [Albumarium](http://albumarium.com/) "The best place to find & share beautiful images."
+- [The Stocks](http://thestocks.im/) "The best royalty free stock photos are delivered now along with videos, audios, icons, fonts and colors."
+- [Polayoutu](http://www.polayoutu.com/collections) is community of photographers based in China who contribute photos under the Creative Common Zero License. 🌟
+- [Illusion](http://illusion.scene360.com/)
+- [Baubauhaus](http://www.baubauhaus.com/) feed your daily need of design, illustration, photography, fashion and of all else art-related.
+- [500px](https://web.500px.com/) over 15 million photographers from 195 countries. 🌟
+- [1x](https://1x.com/) Shop wall art by 16000+ Curated Artists. 🌟
+- [LIFE OF PIX](http://www.lifeofpix.com/) Free high-resolution photos, no copyrights restrictions for personal and commercial use.
+- [Unsplash](https://unsplash.com/)
+- [Stokpic](http://stokpic.com/)
+- [Raumrot](https://www.howtostartanllc.org/free-stock-photos/)
+- [Death to Stock](http://deathtothestockphoto.com/)
+- [Gratisography](http://www.gratisography.com/) "The world’s quirkiest collection of high-resolution free stock images."
+- [picjumbo](https://picjumbo.com/) Download free stock photos, backgrounds and images in high‑resolution for personal and commercial use.
+- [Magdeleine](https://magdeleine.co/browse/) Hand-picked free photos for your inspiration.
+- [Pexels](https://www.pexels.com/) "The best free stock photos & videos shared by talented creators."
+- [imcreator](http://imcreator.com/)
+- [Startup Stock Photos](http://startupstockphotos.com/) Free photos for startups, bloggers, publishers, websites, designers, developers, creators,
+  & everyone else.
+- [New Old Stock Photos](http://nos.twnsnd.co/) Vintage photos from the public archives, free of known copyright restrictions. recapturing history.
+- [Realistics Shots](http://realisticshots.com/) Free stock photos (high resolution) for personal and commercial use. 7 new photos every week.
+- [SplitShire](https://www.splitshire.com/) Free stock photos for commercial use.
+- [FancyCrave](http://fancycrave.com/) Free travel photos for commercial use.
+- [LIBRESHOT](https://libreshot.com/) Free fine art and ordinary photography. Free images for blogs or websites even for commercial use.
+  No need to mention the author.
+- [BARNIMAGES](https://barnimages.com/) Free high-resolution images for everyone.
+- [MMT](https://mmtstock.com/) Free photos and videos for commercial use.
+- [JAY MANTRI](http://jaymantri.com/) free pics. do anything(CC0). make magic.
+- [FoodiesFeed](https://www.foodiesfeed.com/) is a resource of awesome naturally looking food photos that are completely free to download.
+- [Little Visuals](http://littlevisuals.co/)
+- [Bucketlistly Blog](http://photos.bucketlistly.com/) A free creative commons (Attribution-NonCommercial) collection of over 8000+ travel photos from all over the world anyone can use.
+- [Pinterest](https://www.pinterest.com/) is a social media web and mobile application company that operates a software system designed to discover information on the World Wide Web. 🌟
+- [pixabay](https://pixabay.com/) Over 1 million+ high quality stock images and videos shared by our talented community.
+- [depositphotos](https://depositphotos.com/) Over 100 million high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
+- [Stocksy](https://www.stocksy.com) is home to a highly curated collection of royalty-free stock photography and video footage that is beautiful, distinctive, and highly usable.
+- [butdoesitfloat](http://butdoesitfloat.com/)
+- [AllTheFreeStock](http://allthefreestock.com/)
+- [UI Faces](https://uifaces.co/) UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.
+
 ## Styleguide and Branding
 
 - [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/)
@@ -413,6 +437,28 @@ No need to mention the author.
 - [Ant Design](http://ant.design) is a design system with values of Nature and Determinacy for better user experience of enterprise applications.
 - [Audi](https://www.audi.com/ci/en/renewed-brand.html) Audi Corporate Identity Portal
 
+## Toolkit
+
+- [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins](https://github.com/sketchplugins/plugin-directory), [Sketch.im](http://sketch.im/).🌟
+- [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) Best imaging and design app is at the core of almost every creative project. [PSD Repo](https://psdrepo.com/), [PSDDD](https://psddd.co/). 🌟
+- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. 🌟
+- [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) Bold new ways to put your ideas in motion. v
+- [Adobe Project Felix](http://www.adobe.com/products/project-felix.html) A new app for working with 3D models, materials, and lights with 2D background images to create fully rendered, high-quality images with photorealistic effects.
+- [Adobe XD](https://www.adobe.com/products/xd.html) Vector-based tool for designing and prototyping user experience for web and mobile apps. 🌟
+- [Zeplin](https://zeplin.io/) Build pixel perfect apps in peace.
+- [Panda](http://usepanda.com/) A smart news reader built for productivity, powered by integrations.
+- [INBOARD](https://inboardapp.com/) Organize your inspiration.
+- [Sip](http://sipapp.io/) The best way to collect, organize & share your colors.
+- [RightFont](https://rightfontapp.com/) The future of font manager software for Mac OS X.
+- [Dropbox](https://www.dropbox.com/) Get to all your files from anywhere, on any device, and share them with anyone. 🌟
+- [Iconjar](https://geticonjar.com/) Organize, search and use icons the easy way.
+- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac.
+- [Inkscape](https://inkscape.org/en/) Free vector graphics tool.
+- [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration. 🌟
+- [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
+- [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
+- [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+
 ## Tutorial
 
 - [Lynda](https://www.lynda.com/) is a leading online learning platform that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. 🌟
@@ -420,98 +466,64 @@ No need to mention the author.
 - [DesignSchool](https://designschool.canva.com/) Anyone can make beautiful designs with Canva.
 - [Envato Tuts+](https://tutsplus.com/) helps you learn creative skills and shape the life you want.
 - [Udemy](https://www.udemy.com/courses/design/) The leading global marketplace for learning and instruction.
-- [AboutCG](http://www.aboutcg.com/) 前身是 CG 共和国（CGGHG）, 是成立于2004年的计算机图形图像教学服务网站，也是国内最早的原创CG视频教学的制作者。
+- [AboutCG](http://www.aboutcg.com/) 前身是 CG 共和国（CGGHG）, 是成立于 2004 年的计算机图形图像教学服务网站，也是国内最早的原创 CG 视频教学的制作者。
 - [DevDojo](https://devdojo.com/)
 - [Platzi](https://courses.platzi.com) Growth marketing Course.
 - [greyscalegorilla](https://greyscalegorilla.com/)
 
-## Book
+## Typography
 
-- [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=sr_1_2?s=books&ie=UTF8&qid=1473096298&sr=1-2&keywords=Universal+Methods+of+Design)
-- [Universal Methods of Design](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561/ref=pd_sim_14_3?ie=UTF8&psc=1&refRID=2NG71RWR7MKGXE1B8GZ3)
-- [Don't Make Me Think](https://www.amazon.com/gp/product/0321965515/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321965515&linkCode=as2&tag=office03a70-20&linkId=PF4EASLP4EM62N73)
-- [About Face: The Essentials of Interaction Design](https://www.amazon.com/gp/product/1118766571/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118766571&linkCode=as2&tag=office03a70-20&linkId=I5TMKUXHZ43SHHPE)
-- [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830)
-- [Simple and Usable Web, Mobile, and Interaction Design](https://www.amazon.com/gp/product/0321703545)
-- [Lean UX: Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)
-- [Designing Interfaces](https://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702)
-- [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535)
-- [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Guidelines-Ensuring-Experience/dp/0123852412)
-- [Thinking with Type](https://www.amazon.com/gp/product/1568989695/)
-- [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
-- [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
-- [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
+- [typography](https://www.typography.com/)
+- [i love typography](http://ilovetypography.com/) was born on August 7, 2007. It exists because I have a passion for typography, type design, and lettering, and for the pages, words, and letters born of those disciplines.
+- [Type is Beautiful](https://www.typeisbeautiful.com/) 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
+- [Butterick's Practical Typography](http://practicaltypography.com/)
+- [Fonts](https://www.fonts.com/) store from Monotype offers more than 150,000 desktop and Web font products for you to preview, purchase and download. You can also learn about new typeface releases and discover typographic tips and techniques.
+- [Font Squirrel](https://www.fontsquirrel.com/) 100% free for commercial use.
+- [Typewolf](https://www.typewolf.com/) what’s trending in type.
+- [Type Novel](http://typenovel.tumblr.com/)
+- [Fonts In Use](https://fontsinuse.com/) is a public archive of typography indexed by typeface, format, industry, and period.
+- [My Fonts](http://www.myfonts.com/)
+- [The Designers Foundry](https://www.thedesignersfoundry.com/)
+- [Adobe Fonts](https://fonts.adobe.com/fonts) Enjoy quick browsing, easy use in desktop applications or on the web, and endless typographic inspiration.
+- [Google Fonts](https://fonts.google.com/)
+- [Google Font Combinations](https://femmebot.github.io/google-type/)
+- [justfont](http://blog.justfont.com/) 是新世代字型設計暨推廣教育團隊，致力於培育台灣下一代的設計力量。
+- [Font Library](http://katydecorah.com/font-library/)
+- [Type Guide](http://www.typogui.de/) A Pocket Guide to Master Every Day’s Typographic Adventures.
+- [workmark](https://wordmark.it/)
+- [fontfling](http://fontfling.com/)
+- [Glyphr Studio](http://www.glyphrstudio.com/online/)
+- [Lost Type](http://www.losttype.com/browse/) is a collaborative digital type foundry.
+- [Brick](http://brick.im/)
+- [Village](https://vllg.com/)
+- [Klim](https://klim.co.nz/)
+- [Milieu Grotesque](https://www.milieugrotesque.com/) is an independent type foundry, offering an exclusive library of digital typefaces and related products.
+- [Lineto](https://lineto.com/)
+- [Colophon](https://www.colophon-foundry.org/) is an international, award-winning type foundry based in London (UK) and Los Angeles (US).
+- [T26](https://www.t26.com/)
+- [Typ.io](https://typ.io) at Typ.io, we're revealing designers' decisions for all to see; peeking under the hood of beautiful websites to find out what fonts they're using and how they're using them.
+- [TypeNetwork](https://www.typenetwork.com/)
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 
-## Award
+## User Testing
 
-- [Good Design Award](http://www.g-mark.org/?locale=en) has been a sole comprehensive design evaluation and commendation system in Japan sin 1957.
-- [Red Dot Award](http://en.red-dot.org/) stands for belonging to the best in design and business. It's international design competition, the “Red Dot Design Award”, is aimed at all those who would like to distinguish their business activities through design. 🌟
-- [Apple Design Awards](https://developer.apple.com/design/awards/) is a special event hosted by Apple Inc. at its annual Worldwide Developers Conference. 🌟
-- [iF Product Design Award](http://ifworlddesignguide.com/) was introduced in 1954 and is annually conferred by the iF International Forum Design. The award, which spans multiple disciplines, has more than 5,500 entries from around 59 nations every year. 🌟
-- [FWA](https://thefwa.com/) to showcase cutting edge creativity, regardless of the medium or technology used.
-- [CSS Design Awards](http://www.cssdesignawards.com/) is a web design & development award platform for digital folk, UI/UX peeps and inspiring leaders of the web.
-- [CSS Awards](https://www.cssawards.net/) is a web designer/agency/studio inspiration gallery, where a high quality of CSS websites placed from around the world.
-- [Creative AD Awards](http://www.creativeadawards.com/) Discover the Most Creative & Sophisticated Advertising Campaigns around the World.
-- [D&AD](https://www.dandad.org/)
-- [Awwwards](https://www.awwwards.com/) The awards for design, creativity and innovation on the Internet. 🌟
-- [CSS Winner](http://www.csswinner.com/) is a unique global platform awarding and showcasing the best websites and promoting innovative web designers, developers and agencies.
+- [Lookback.io](https://lookback.io/) Capture exactly how users experience your product: no guesswork required.
+- [UserTesting](https://www.usertesting.com/) Get videos of real people speaking their thoughts as they use your website or mobile app. Go beyond analytics and understand why users do what they do.
+- [UserBrain](https://userbrain.net/) Keep getting videos of real people testing your website, web app or prototype and make it ridiculously easy to use.
+- [Reflector](http://www.airsquirrels.com/reflector/) Wireless mirroring and streaming receiver.
+- [User Zoom](http://www.userzoom.co.uk/) All-in-One Agile UX Research Platform.
+- [Ethn.io](https://ethn.io/) Remote user testing suite. Intercept real people for user research.
+- [Usabilla](https://usabilla.com/) Customer feedback and survey tool.
+- [UserTest.io](https://usertest.io/) Remote, easy and simple user testing.
+- [Validately](https://validately.com/) Easy way to recruit testers, launch tests, and analyze results.
+- [Users Think](http://usersthink.com/) Get user feedback from real people, on demand, when you need it.
+- [CrazyEgg](https://www.crazyegg.com/) Heatmapping software.
+- [HotJar](https://www.hotjar.com/) Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys
+- [Inspectlet](https://www.inspectlet.com/) Captures user actions and browsing, generates heatmaps, records with a realtime timeline
+- [Clicktale](https://www.clicktale.com) is a user experience management platform.
+- [Maze Design](http://maze.design) is a great way to conduct user interviews
 
-## Conference and Festival
-
-- [Uideo](https://uideo.net) talks for designers from 69 ux/ui conferences all over the world.
-- [MAX](https://max.adobe.com/) Get inspired. Learn skills. Play.
-- [The AIGA Design Conference](http://designconference.aiga.org/#!/)
-- [SXSW](https://www.sxsw.com/) founded in 1987 in Austin, Texas, SXSW is best known for its conference and festivals that celebrate the convergence of the interactive, film, and music industries.
-- [ICON9](http://www.theillustrationconference.org/) brings together top illustrators, designers, educators, representatives, and art buyers to explore the future of illustration.
-- [Mirror](http://www.mirrorconf.com) is a conference designed to empower designers and front-end developers who have a thirst for knowledge and want to broaden their horizons.
-- [Interaction](http://interaction16.ixda.org/)
-- [Offset](http://www.iloveoffset.com/) has fast become one of the world’s most inspirational, educational and vocational conferences for the design and creative industries.
-- [99U](http://conference.99u.com/) Adobe 99U Conference.
-- [Typographics](http://typographics.com) is a multi-part event series foc­used on con­tempo­rary typo­graphy and where its future may lie.
-- [Brand New Conference](http://underconsideration.com/brandnewconference/) is a two-day event organized by UnderConsideration.
-- [How Design Live](http://www.howdesignlive.com/) is one of the largest annual gatherings of creative professionals in the world, HOW Design Live is a career-changing, life-altering experience.
-- [Better by Design](http://betterbydesignconference.com/) is about conference & workshops.
-- [What Design Can Do](http://www.whatdesigncando.com/) is an international platform on the impact of design.
-- [Design and Content](https://www.designcontentconf.com/) The Conference for Designers & Content Strategists — we're better together.
-- [generate](https://www.generateconf.com/) the award winning conference for web designers returns to NYC!
-- [Typo International Design Talks](https://www.typotalks.com/) is where the world’s design experts speak
-- [Service Design Days](http://servicedesigndays.com/)
-- [SemiPermanent](https://www.semipermanent.com)
-- [Dribbble Meetups](https://dribbble.com/meetups) are a chance for designers to socialize, talk shop, and foster their local design communities.
-- [CreativeMornings](https://creativemornings.com/) is a breakfast lecture series for the creative community.
-- [CodePen Meetups](https://blog.codepen.io/meetups/) for like-minded code people to hang out, do show-and-tell, and bask in the lovely culture that is front end.
-
-## Podcast
-
-- [99% INVISIBLE](http://99percentinvisible.org/)
-- [Shop Talk](http://shoptalkshow.com/) is an internet radio show about the internet starring [Dave Rupert](http://daverupert.com/) and [Chris Coyier](http://chriscoyier.net/).
-- [workmode](http://workmode.show/) is a podcast series about being a pro.
-- [UX Podcast](http://uxpodcast.com/) is a twice-monthly digital design podcast sharing insights about business, technology and people since 2011.
-- [Anyway.fm - 设计杂谈](http://anyway.fm/) 是一档播客节目，由 UI 设计师 JJ Ying 和 Leon Gao 主播，我们的目标是让你的听觉更懂视觉。
-- [The Deeply Graphic Design](http://thedeependdesign.com/graphic-design-podcast/) The web + graphic design podcast that offsers both pratical and creative design advice you can use.
-- [Tentative.fm](http://tentative.fm/) is a podcast about digital product design. Hosted by thoughtbot's Chief Design Officer Kyle Fiedler & Boston Design Director Jaclyn Perrone.
-- [Pagebreak](http://www.pagebreakpodcast.com/) is an audio podcast hosted by [Liz Andrade](http://cmdshiftdesign.com/) and [Niki Brown](http://nikibrown.com/).
-- [Design Matters](http://www.debbiemillman.com/designmatters/) The world's first podcast about design and an inquiry into the broader world of creative culture through wide-ranging conversations with designers, writers, artists, curators, musicians, and other luminaries of contemporary thought
-- [The Greate Discontent Podcast](https://thegreatdiscontent.com/podcast) features in-depth conversations with today’s artists, makers, and risk-takers.
-- [Design Details Podcast](https://spec.fm/podcasts/design-details) A weekly conversation about design process and culture.
-- [Layout.fm](http://layout.fm/) A weekly podcast about design, technology, programming and everything else.
-- [Type is Beautiful - 字谈字畅](https://itunes.apple.com/podcast/zi-tan-zi-chang/id1041704528) 是第一档用华语制作的字体排印主题播客节目，由 Eric Liu 与钱争予搭档主播。
-- [Boagworld UX Show](https://boagworld.com/show/) Every Thursday Paul Boag and Marcus Lillington are joined by a variety of guests to discuss a range of web design related topics.
-- [Responsive Web Design Podcast](https://responsivewebdesign.com/podcast/) Karen and Ethan interview the people who make responsive redesigns happen.
-- [Adventures in Design](http://www.adventuresindesignmarket.com/)
-- [The Hacking UI Podcast](http://hackingui.com/podcast/) is hosted by Sagi Shrieber and David Tintner, who are both a designer and developer as well as entrepreneurs, bloggers, productivity/time-hacker maniacs, and all around tech geeks.
-- [CodePen Radio](https://blog.codepen.io/radio/) is a podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
-- [UX COFFEE - 设计咖](http://www.uxcoffee.com/) 设计无处不在。在这个节目里，我们试图探寻设计的力量、这个世界被创造的过程、以及参与设计了这个世界的人们。主播：Riceman、Hoka、帆啊帆、张挠挠。
-
-## Community
-
-- [Dribbble](https://dribbble.com/) Show and tell for designers. 🌟
-- [Behance](https://www.behance.net/) Showcase and discover the latest work from top online portfolios by creative professionals across industries. 🌟
-- [Medium](https://medium.com/) is a place to read, write, and interact with the stories that matter most to you. 🌟
-- [Fribbble](http://www.fribbble.com/) Free PSD files and other free design resources by Dribbblers.
-- [DeviantArt](http://www.deviantart.com/) The largest online art gallery and community.
-- [CARGO](https://2.cargocollective.com)
-- [tumblr](https://www.tumblr.com/) Come for what you love. Stay for what you discover.
+---
 
 ## Contributors
 
