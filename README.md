@@ -25,6 +25,7 @@ People, including developers, designers, scientists and others, create awesome t
 - [Prototyping](#prototyping)
 - [Mockup](#mockup)
 - [User Testing](#user-testing)
+- [Accessibility](#accessibility)
 
 **Concepts**
 
@@ -267,6 +268,15 @@ No need to mention the author.
 - [Inspectlet](https://www.inspectlet.com/) Captures user actions and browsing, generates heatmaps, records with a realtime timeline
 - [Clicktale](https://www.clicktale.com) is a user experience management platform.
 - [Maze Design](http://maze.design) is a great way to conduct user interviews
+
+## Accessibility
+
+- [WAVE](https://wave.webaim.org/) Web accessibility evaluation tool by WebAIM. Provides visual feedback about the accessibility of web content.
+- [axe DevTools](https://www.deque.com/axe/devtools/) Browser extension for accessibility testing. Based on the open-source axe-core engine, trusted by Microsoft, Google, and more.
+- [RatedWithAI](https://ratedwithai.com/) AI-powered website accessibility scanner with instant WCAG 2.2 audits, plain-language fix suggestions, and ADA compliance reports.
+- [Contrast Ratio](https://contrast-ratio.com/) by Lea Verou. Check color contrast ratios against WCAG requirements for text readability.
+- [The A11Y Project](https://www.a11yproject.com/) A community-driven effort to make digital accessibility easier with guides, checklists, and resources.
+- [Stark](https://www.getstark.co/) Accessibility plugin for Figma, Sketch, and Adobe XD with contrast checker, color blindness simulator, and focus order tools.
 
 ## Read and Digest
 
