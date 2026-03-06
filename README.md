@@ -210,6 +210,7 @@ No need to mention the author.
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- [BeginThings](https://beginthings.com) Free suite of 96+ browser-based tools for designers & developers — image compressor, QR code generator, Pomodoro timer, color tools, and more. No signup required.
 
 ## Prototyping
 
