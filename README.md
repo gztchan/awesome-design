@@ -129,6 +129,7 @@ No need to mention the author.
 - [Picons](https://picons.me/) Vector Icons for iOS, Android, Websites & Apps. Icons designed to perfection.
 - [Pictos](http://pictos.cc/) is back once again with Redux: all new carefully crafted interface icons. Each icon in Redux has three variations: Line, Solid & Color.
 - [Smashicons](https://smashicons.com/) is the largest and most distinct Icon Pack in the World. Smashicons offers the simplest, effortless way to use icons.
+- [Woopicx](https://woopicx.com/collection/basic3d) 12,000+ AI-generated 3D icons across 80+ categories with transparent PNG backgrounds and commercial license. Free tier available.
 - [Symbolset](https://symbolset.com/icons)
 - [logofaves](http://logofaves.com/)
 - [Logo of the day](http://logooftheday.com/)
