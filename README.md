@@ -249,6 +249,7 @@ No need to mention the author.
 - [Lorem Ipsum](http://www.lipsum.com/feed/html)
 - [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
 - [Device Shots](https://deviceshots.com) is a tool that helps you create beautiful device mockups to share on social media platforms, with the screenshot of your website or mobile application, for free.
+- [Mockup Freak](https://mockupfreak.com) premium 4K phone mockups with browser-based screen replacement. iPhone 15 Pro, 17 Pro, and Air. Free and paid options with commercial license.
 
 ## User Testing
 
