@@ -37,6 +37,7 @@ People, including developers, designers, scientists and others, create awesome t
 - [Podcast](#podcast)
 - [Community](#community)
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=gztchan_awesome-design) - Social feed for GitHub. Follow designers and frontend devs, discover trending UI/design repos.
 ## Stock
 
 - [Albumarium](http://albumarium.com/) "The best place to find & share beautiful images."
