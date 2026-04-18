@@ -110,6 +110,7 @@ No need to mention the author.
 - [WebGradients](https://webgradients.com/) Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
 - [Gradienta](https://gradienta.io/) Multicolor CSS Gradients, JPG Downloads, 100% Free!
+- [FastTool Design Tools](https://fasttool.app/category/design) Free browser-based color picker, palette generator, CSS gradient builder, contrast checker, and format converters.
 - [Veranda Color](https://verandacolor.com) Browse color palettes made by other designers, generate and submit your own.
 
 ## Icon and Logo
