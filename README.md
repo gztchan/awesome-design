@@ -111,6 +111,7 @@ No need to mention the author.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
 - [Gradienta](https://gradienta.io/) Multicolor CSS Gradients, JPG Downloads, 100% Free!
 - [Veranda Color](https://verandacolor.com) Browse color palettes made by other designers, generate and submit your own.
+- [FastTool Color Tools](https://fasttool.app/category/design) Browser-based color utilities — palette generator, contrast checker, hex/RGB/HSL converter, CSS gradient builder. All client-side, free.
 
 ## Icon and Logo
 
