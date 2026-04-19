@@ -166,6 +166,7 @@ No need to mention the author.
 - [Typewolf](https://www.typewolf.com/) what’s trending in type.
 - [Type Novel](http://typenovel.tumblr.com/)
 - [Fonts In Use](https://fontsinuse.com/) is a public archive of typography indexed by typeface, format, industry, and period.
+- [FontsWiki](https://fontswiki.com/) free typography resource with font downloads, pairing guides, and font-in-use references for logos, films, games, and design projects.
 - [My Fonts](http://www.myfonts.com/)
 - [The Designers Foundry](https://www.thedesignersfoundry.com/)
 - [Adobe Fonts](https://fonts.adobe.com/fonts) Enjoy quick browsing, easy use in desktop applications or on the web, and endless typographic inspiration.
