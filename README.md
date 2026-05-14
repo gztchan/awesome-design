@@ -23,6 +23,7 @@ People, including developers, designers, scientists and others, create awesome t
 - [Typography](#typography)
 - [Toolkit](#toolkit)
 - [Prototyping](#prototyping)
+- [Figma](https://www.figma.com/) - Collaborative interface design tool.
 - [Mockup](#mockup)
 - [User Testing](#user-testing)
 
