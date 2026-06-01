@@ -93,6 +93,7 @@ No need to mention the author.
 - [rgb.to](http://rgb.to/)
 - [Color Code](http://www.colourco.de/)
 - [Colorrrs](http://www.webpagefx.com/web-design/hex-to-rgb/)
+- [Mini-Tools.uk Image Color Picker](https://mini-tools.uk/color-picker) Pick colors from images or screenshots, crop small areas, and copy HEX, RGB or HSL values.
 - [Nippon Colors](http://nipponcolors.com/)
 - [Colorize](https://alexbeals.com/projects/colorize/) is a website that turns any word or phrase into a hex color.
 - [Hello Color](http://jxnblk.com/hello-color/)
