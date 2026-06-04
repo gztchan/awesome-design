@@ -79,6 +79,7 @@ No need to mention the author.
 - [UI Faces](https://uifaces.co/) UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.
 
 ## Color
+* [decode64 Color Picker](https://decode64.com/color-picker) - Free online color picker — pick any color and get HEX, RGB, HSL values instantly. Convert between color formats.
 
 - [Coolors](https://coolors.co/) The super fast color schemes generator!
 - [Colordot](https://color.hailpixel.com/)
