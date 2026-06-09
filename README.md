@@ -210,6 +210,7 @@ No need to mention the author.
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- - [IconKing](https://iconking.net) Free browser-based Lottie animation tool for previewing `.json` and `.lottie` files, editing colors across all layers, and converting between formats. No account required.
 
 ## Prototyping
 
