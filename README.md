@@ -77,6 +77,7 @@ No need to mention the author.
 - [butdoesitfloat](http://butdoesitfloat.com/)
 - [AllTheFreeStock](http://allthefreestock.com/)
 - [UI Faces](https://uifaces.co/) UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.
+- [Lummi](https://www.lummi.ai/) AI-generated stock photos and illustrations for creative projects.
 
 ## Color
 
@@ -111,6 +112,7 @@ No need to mention the author.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
 - [Gradienta](https://gradienta.io/) Multicolor CSS Gradients, JPG Downloads, 100% Free!
 - [Veranda Color](https://verandacolor.com) Browse color palettes made by other designers, generate and submit your own.
+- [Realtime Colors](https://www.realtimecolors.com/) preview color palettes on real website examples.
 
 ## Icon and Logo
 
@@ -154,6 +156,7 @@ No need to mention the author.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) is an ultimate SVG icons collection done right.
 - [Iconfont+](http://www.iconfont.cn/) 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
 - [CoreUI Icons](http://coreui.io/icons/) Premium designed free icon set with marks in SVG, Webfont and raster formats.
+- [Lucide](https://lucide.dev/) open-source icon library based on Feather Icons.
 
 ## Typography
 
@@ -249,6 +252,8 @@ No need to mention the author.
 - [Lorem Ipsum](http://www.lipsum.com/feed/html)
 - [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
 - [Device Shots](https://deviceshots.com) is a tool that helps you create beautiful device mockups to share on social media platforms, with the screenshot of your website or mobile application, for free.
+- [Bello](https://bello.art/) art mockups for artists, designers, and print shops.
+- [LS Graphics](https://www.ls.graphics/free-mockups) high-quality mockups and design resources.
 
 ## User Testing
 
