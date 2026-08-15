@@ -208,6 +208,7 @@ No need to mention the author.
 - [Inkscape](https://inkscape.org/en/) Free vector graphics tool.
 - [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration. 🌟
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
+- [DeerImage](https://deerimage.com/) Free, no-login image tools that run in the browser, including an ID photo maker, signature maker, and drawing board.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
 
