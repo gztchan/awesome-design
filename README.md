@@ -210,6 +210,7 @@ No need to mention the author.
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- [UIZZE](https://github.com/uizze/uizze) Anti-UI-slop workflow for coding agents: a free MIT Skill and optional hosted tools for grounding web and iOS interface work in real product references, design contracts, and quality checks. Full UIZZE searches 800,000+ real screens.
 
 ## Prototyping
 
