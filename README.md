@@ -206,6 +206,7 @@ No need to mention the author.
 - [Iconjar](https://geticonjar.com/) Organize, search and use icons the easy way.
 - [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac.
 - [Inkscape](https://inkscape.org/en/) Free vector graphics tool.
+- [ImgSplit](https://imgsplit.com/) Free in-browser toolkit for splitting images into grids, compression, watermarks, and local background removal. No upload.
 - [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration. 🌟
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
@@ -420,7 +421,7 @@ No need to mention the author.
 - [DesignSchool](https://designschool.canva.com/) Anyone can make beautiful designs with Canva.
 - [Envato Tuts+](https://tutsplus.com/) helps you learn creative skills and shape the life you want.
 - [Udemy](https://www.udemy.com/courses/design/) The leading global marketplace for learning and instruction.
-- [AboutCG](http://www.aboutcg.com/) 前身是 CG 共和国（CGGHG）, 是成立于2004年的计算机图形图像教学服务网站，也是国内最早的原创CG视频教学的制作者。
+- [AboutCG](http://www.aboutcg.com/) 前身是 CG 共和国（CGGHG), 是成立于2004年的计算机图形图像教学服务网站，也是国内最早的原创CG视频教学的制作者。
 - [DevDojo](https://devdojo.com/)
 - [Platzi](https://courses.platzi.com) Growth marketing Course.
 - [greyscalegorilla](https://greyscalegorilla.com/)
