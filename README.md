@@ -191,6 +191,7 @@ No need to mention the author.
 
 ## Toolkit
 
+- [iScribby](https://iscribby.com/) Screen annotation tool that allows you to draw and copy things directly on your screen, without interrupting your workflow.
 - [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins](https://github.com/sketchplugins/plugin-directory), [Sketch.im](http://sketch.im/).🌟
 - [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) Best imaging and design app is at the core of almost every creative project. [PSD Repo](https://psdrepo.com/), [PSDDD](https://psddd.co/). 🌟
 - [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. 🌟
