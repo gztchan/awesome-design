@@ -123,6 +123,7 @@ No need to mention the author.
 - [FlatIcons.net](http://flaticons.net/) is a free flat icon maker.
 - [FLATICON](http://www.flaticon.com/)
 - [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
+- [IconMind](https://iconmind.dev/) open source icon set with 2,400+ SVG icons on one 24px grid, in outline and duotone, for React, Vue, Svelte and Flutter.
 - [Typeicons](http://typicons.com/) are free-to-use vector icons embedded in a webfont for easy use in any UI, whether it be on the web or in a native app.
 - [The Noun Project](https://thenounproject.com/)
 - [Nucleoapp](https://nucleoapp.com/) is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons.
