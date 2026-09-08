@@ -111,6 +111,7 @@ No need to mention the author.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
 - [Gradienta](https://gradienta.io/) Multicolor CSS Gradients, JPG Downloads, 100% Free!
 - [Veranda Color](https://verandacolor.com) Browse color palettes made by other designers, generate and submit your own.
+- [A11yKit Contrast Checker](https://a11ykit.site/tools/contrast-checker) Free client-side WCAG 2.2 & APCA color contrast validator with accessible palette suggestions.
 
 ## Icon and Logo
 
