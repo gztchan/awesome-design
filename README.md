@@ -421,6 +421,7 @@ No need to mention the author.
 - [Envato Tuts+](https://tutsplus.com/) helps you learn creative skills and shape the life you want.
 - [Udemy](https://www.udemy.com/courses/design/) The leading global marketplace for learning and instruction.
 - [AboutCG](http://www.aboutcg.com/) 前身是 CG 共和国（CGGHG）, 是成立于2004年的计算机图形图像教学服务网站，也是国内最早的原创CG视频教学的制作者。
+- [aiux.courses](https://aiux.courses) Independently curated AI UX sources and courses for working designers (patterns, papers, people, paid paths).
 - [DevDojo](https://devdojo.com/)
 - [Platzi](https://courses.platzi.com) Growth marketing Course.
 - [greyscalegorilla](https://greyscalegorilla.com/)
