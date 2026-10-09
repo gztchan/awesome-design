@@ -210,6 +210,7 @@ No need to mention the author.
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- [Stunna Photo Tools](https://stunna-app.com/tools) Free browser photo filters, photo booth frames and photo strip creation, with local image processing and no account required.
 
 ## Prototyping
 
