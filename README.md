@@ -188,6 +188,7 @@ No need to mention the author.
 - [Typ.io](https://typ.io) at Typ.io, we're revealing designers' decisions for all to see; peeking under the hood of beautiful websites to find out what fonts they're using and how they're using them.
 - [TypeNetwork](https://www.typenetwork.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+- [Minglyph](https://minglyph.com/) AI word-art image concepts from a word, meaning and visual style for poster and cover titles; PNG output, not installable fonts.
 
 ## Toolkit
 
