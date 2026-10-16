@@ -206,6 +206,7 @@ No need to mention the author.
 - [Iconjar](https://geticonjar.com/) Organize, search and use icons the easy way.
 - [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac.
 - [Inkscape](https://inkscape.org/en/) Free vector graphics tool.
+- [Pic2SVG](https://pic2svg.com/) converts raster images into editable SVG paths and exports files for vector editing and production workflows.
 - [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration. 🌟
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
