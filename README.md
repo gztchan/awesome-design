@@ -210,6 +210,7 @@ No need to mention the author.
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- [ScreenSize](https://screensize.net) Live screen size, viewport and device pixel ratio checker for responsive design.
 
 ## Prototyping
 
