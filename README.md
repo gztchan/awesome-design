@@ -163,6 +163,7 @@ No need to mention the author.
 - [Butterick's Practical Typography](http://practicaltypography.com/)
 - [Fonts](https://www.fonts.com/) store from Monotype offers more than 150,000 desktop and Web font products for you to preview, purchase and download. You can also learn about new typeface releases and discover typographic tips and techniques.
 - [Font Squirrel](https://www.fontsquirrel.com/) 100% free for commercial use.
+- [FontHubs](https://fonthubs.com/) Open-source font library covering 200+ languages and 30+ writing systems, with license lookup and font identification tools.
 - [Typewolf](https://www.typewolf.com/) what’s trending in type.
 - [Type Novel](http://typenovel.tumblr.com/)
 - [Fonts In Use](https://fontsinuse.com/) is a public archive of typography indexed by typeface, format, industry, and period.
