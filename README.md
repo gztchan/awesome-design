@@ -154,6 +154,7 @@ No need to mention the author.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) is an ultimate SVG icons collection done right.
 - [Iconfont+](http://www.iconfont.cn/) 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
 - [CoreUI Icons](http://coreui.io/icons/) Premium designed free icon set with marks in SVG, Webfont and raster formats.
+- [VectorDose](https://vectordose.com) Free library of 13,000+ real brand logos in SVG and transparent PNG, with official brand colours and logo history. 
 
 ## Typography
 
