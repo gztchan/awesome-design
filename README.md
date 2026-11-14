@@ -350,6 +350,7 @@ No need to mention the author.
 - [1stwebdesigner](https://1stwebdesigner.com) By web design professionals, for web design professionals. We're on a mission to help you build a better web.
 - [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [EMOJI CSS](https://afeld.github.io/emoji-css/?ref=webdesignernews.com)
+- [EmojiMagic](https://emojimagic.io/) — AI emoji search & generator: find any emoji by description, mix two into a new one, export transparent PNGs (free, no signup)
 - [DesignShock](https://www.designshock.com/) is the biggest bundle/subscription you can find in one place including icons, avatars, graphic elements, GUI packs, design sets and both web and print templates
 - [SVG PORN](http://www.svgporn.com/)
 - [Up](https://www.uplabs.com/) is the leading community of creatives, offering the best downloadable resources, every day.
