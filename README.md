@@ -86,6 +86,7 @@ No need to mention the author.
 - [Material Design Palette](https://www.materialpalette.com/)
 - [Flat UI Color Picker](http://www.flatuicolorpicker.com/)
 - [LOL COLORS](https://www.webdesignrankings.com/resources/lolcolors/) Curated color palette inspiration.
+- [designtool.tools](https://designtool.tools) — free online design tools: interactive color wheel, palette generators, gradients, CSS generators and logo/poster/card makers, all running in the browser.
 - [The Day's Color](http://www.thedayscolor.com/) is to find colorful inspiration from things that surround us. Daily.
 - [Color Claim](http://colorclaim.tumblr.com/)
 - [Color Hunt](http://colorhunt.co/) is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
