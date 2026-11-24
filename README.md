@@ -210,6 +210,7 @@ No need to mention the author.
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- [Crosy](https://crosy.app/) Specialized browser-based image-to-cross-stitch chart editor with free editing, digital Stitches preview, and progress tracking; unlocking a complete chart and its export requires an account and 30 credits.
 
 ## Prototyping
 
