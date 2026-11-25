@@ -317,6 +317,7 @@ No need to mention the author.
 - [Web Designer News](http://www.webdesignernews.com/) curated stories for designers. 🌟
 - [The UX for VR](https://www.uxofvr.com/) is a curated list of resources to help you on your journey into the User Experience of Virtual Reality.
 - [Reeoo](http://reeoo.com/) provides web design inspiration and gallery for web designers.
+- [Refto Explore](https://refto.one/explore) is a free, curated website inspiration gallery with full-page screenshots and short design notes for each site.
 - [CREATIVE BLOQ](http://www.creativebloq.com/) delivers a daily mix of advice and inspiration for digital and traditional artists, web designers, graphic designers, 3D and VFX artists, illustrators, and more. 🌟
 - [Pond5](https://www.pond5.com/)
 - [Dexigner](https://www.dexigner.com/)
