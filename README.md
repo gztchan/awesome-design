@@ -77,6 +77,7 @@ No need to mention the author.
 - [butdoesitfloat](http://butdoesitfloat.com/)
 - [AllTheFreeStock](http://allthefreestock.com/)
 - [UI Faces](https://uifaces.co/) UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.
+- [Bird Illustrations](https://birdillustrations.com/) Free transparent PNG and WebP bird clipart covering all 11,011 living bird species (CC BY 4.0).
 
 ## Color
 
