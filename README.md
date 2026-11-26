@@ -210,6 +210,7 @@ No need to mention the author.
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- [CreoArt Photo Editor](https://creoart.app/photo-editor) - Free, ad-free browser-local WebGPU PSD and layer editor (no login, zero uploads) paired with a private pay-as-you-go 45-model AI image studio.
 
 ## Prototyping
 
